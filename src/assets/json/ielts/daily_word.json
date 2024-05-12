@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "word_en": "apprize",
+    "phonetic_en": "/əˈpraɪz/",
+    "word_cn": "v.通知"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "word_en": "nut",
+    "phonetic_en": "/nʌt/",
+    "word_cn": "n. 坚果；螺母，螺帽"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "word_en": "divide",
+    "phonetic_en": "/dɪˈvaɪd/",
+    "word_cn": "v. 分，划分，分开；分配；(by)除"
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "word_en": "prosperity",
+    "phonetic_en": "/prɒsˈpɛrɪti/",
+    "word_cn": "n. 繁荣，兴旺"
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "word_en": "career",
+    "phonetic_en": "/kəˈrɪə/",
+    "word_cn": "n. (个人的)事业；专业，生涯，职业，经历"
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "word_en": "maximum",
+    "phonetic_en": "/ˈmæksɪməm/",
+    "word_cn": "n. 最大量,最大限度"
+  },
+  {
+    "id": 7,
+    "day": 1,
+    "word_en": "disperse",
+    "phonetic_en": "/dɪsˈpɜːs/",
+    "word_cn": "v. 使散开,使疏开,使分散"
+  },
+  {
+    "id": 8,
+    "day": 1,
+    "word_en": "limestone",
+    "phonetic_en": "/ˈlaɪmstəʊn/",
+    "word_cn": "n.石灰石"
+  },
+  {
+    "id": 9,
+    "day": 1,
+    "word_en": "site",
+    "phonetic_en": "/saɪt/",
+    "word_cn": "n. 位置 vt. 设置"
+  },
+  {
+    "id": 10,
+    "day": 1,
+    "word_en": "avenge",
+    "phonetic_en": "/əˈvɛnʤ/",
+    "word_cn": "v.报复"
+  },
+  {
+    "id": 11,
+    "day": 1,
+    "word_en": "heighten",
+    "phonetic_en": "/ˈhaɪtn/",
+    "word_cn": "v. 加高,提高,增大"
+  },
+  {
+    "id": 12,
+    "day": 1,
+    "word_en": "punctual",
+    "phonetic_en": "/ˈpʌŋktjʊəl/",
+    "word_cn": "a. 准时的,严守时刻的"
+  },
+  {
+    "id": 13,
+    "day": 1,
+    "word_en": "wagon",
+    "phonetic_en": "/ˈwægən/",
+    "word_cn": "n. 运货马车，运货车；敞蓬车厢"
+  },
+  {
+    "id": 14,
+    "day": 1,
+    "word_en": "philosophy",
+    "phonetic_en": "/fɪˈlɒsəfi/",
+    "word_cn": "n. 哲学，哲理，人生观，价值观，世界观"
+  },
+  {
+    "id": 15,
+    "day": 1,
+    "word_en": "queer",
+    "phonetic_en": "/kwɪə/",
+    "word_cn": "a. 奇怪的,不平常的;可疑的;眩晕的,不舒服的"
+  },
+  {
+    "id": 16,
+    "day": 1,
+    "word_en": "grief",
+    "phonetic_en": "/griːf/",
+    "word_cn": "n. 悲伤，悲痛；悲伤的事，悲痛的缘由"
+  },
+  {
+    "id": 17,
+    "day": 1,
+    "word_en": "ascent",
+    "phonetic_en": "/əˈsɛnt/",
+    "word_cn": "n.上升, (地位, 声望等的)提高, 攀登, 上坡路。"
+  },
+  {
+    "id": 18,
+    "day": 1,
+    "word_en": "prejudice",
+    "phonetic_en": "/ˈprɛʤʊdɪs/",
+    "word_cn": "n. 偏见,成见;(法律)损害,伤害"
+  },
+  {
+    "id": 19,
+    "day": 1,
+    "word_en": "aristocracy",
+    "phonetic_en": "/ˌærɪsˈtɒkrəsi/",
+    "word_cn": "n.贵族阶层"
+  },
+  {
+    "id": 20,
+    "day": 1,
+    "word_en": "remnant",
+    "phonetic_en": "/ˈrɛmnənt/",
+    "word_cn": "n. 残余,剩余"
+  },
+  {
+    "id": 21,
+    "day": 2,
+    "word_en": "telegraph",
+    "phonetic_en": "/ˈtɛlɪgrɑːf/",
+    "word_cn": "n. 电报机，电报v. 打电报，发电报"
+  },
+  {
+    "id": 22,
+    "day": 2,
+    "word_en": "catching",
+    "phonetic_en": "/ˈkæʧɪŋ/",
+    "word_cn": "adj.(接触)传染的, 有魅力的, 迷人的。"
+  },
+  {
+    "id": 23,
+    "day": 2,
+    "word_en": "town",
+    "phonetic_en": "/taʊn/",
+    "word_cn": "n. 市镇；市民；城市商业区，闹市区"
+  },
+  {
+    "id": 24,
+    "day": 2,
+    "word_en": "break",
+    "phonetic_en": "/breɪk/",
+    "word_cn": "vt. 打破；中止；违反vi. 破(裂)n. 休息时间"
+  },
+  {
+    "id": 25,
+    "day": 2,
+    "word_en": "unstable",
+    "phonetic_en": "/ʌnˈsteɪbl/",
+    "word_cn": "a.不稳固的；不稳定的"
+  },
+  {
+    "id": 26,
+    "day": 2,
+    "word_en": "contemplate",
+    "phonetic_en": "/ˈkɒntɛmpleɪt/",
+    "word_cn": "vt. 仔细考虑;注视;打算;预计"
+  },
+  {
+    "id": 27,
+    "day": 2,
+    "word_en": "certificate",
+    "phonetic_en": "/səˈtɪfɪkɪt/",
+    "word_cn": "n. 证(明)书，执照"
+  },
+  {
+    "id": 28,
+    "day": 2,
+    "word_en": "curve",
+    "phonetic_en": "/kɜːv/",
+    "word_cn": "n. 曲线;v. 弄弯,成曲线"
+  },
+  {
+    "id": 29,
+    "day": 2,
+    "word_en": "textual",
+    "phonetic_en": "/ˈtɛkstjʊəl/",
+    "word_cn": "adj.课文的，正文的"
+  },
+  {
+    "id": 30,
+    "day": 2,
+    "word_en": "pan",
+    "phonetic_en": "/pæn/",
+    "word_cn": "n. 平底锅，盘子，面板"
+  },
+  {
+    "id": 31,
+    "day": 2,
+    "word_en": "pilgrimage",
+    "phonetic_en": "/ˈpɪlgrɪmɪʤ/",
+    "word_cn": "n.朝圣"
+  },
+  {
+    "id": 32,
+    "day": 2,
+    "word_en": "waterfront",
+    "phonetic_en": "/ˈwɔːtəfrʌnt/",
+    "word_cn": "n.水边，滩"
+  },
+  {
+    "id": 33,
+    "day": 2,
+    "word_en": "channel",
+    "phonetic_en": "/ˈʧænl/",
+    "word_cn": "n. 海峡，水道；信道，波道；路线，途径"
+  },
+  {
+    "id": 34,
+    "day": 2,
+    "word_en": "irrespective",
+    "phonetic_en": "/ˌɪrɪsˈpɛktɪv/",
+    "word_cn": "a. 不考虑的,不顾的"
+  },
+  {
+    "id": 35,
+    "day": 2,
+    "word_en": "bamboo",
+    "phonetic_en": "/bæmˈbuː/",
+    "word_cn": "n. 竹"
+  },
+  {
+    "id": 36,
+    "day": 2,
+    "word_en": "prosperous",
+    "phonetic_en": "/ˈprɒspərəs/",
+    "word_cn": "a. 繁荣的，兴旺的，茂盛的，顺利的"
+  },
+  {
+    "id": 37,
+    "day": 2,
+    "word_en": "ago",
+    "phonetic_en": "/əˈgəʊ/",
+    "word_cn": "ad. (常和一般过去时的动词连用)以前，…前"
+  },
+  {
+    "id": 38,
+    "day": 2,
+    "word_en": "outbreak",
+    "phonetic_en": "/ˈaʊtbreɪk/",
+    "word_cn": "n. 爆发"
+  },
+  {
+    "id": 39,
+    "day": 2,
+    "word_en": "slipper",
+    "phonetic_en": "/ˈslɪpə/",
+    "word_cn": "n. 便鞋，拖鞋"
+  },
+  {
+    "id": 40,
+    "day": 2,
+    "word_en": "helpful",
+    "phonetic_en": "/ˈhɛlpfʊl/",
+    "word_cn": "a. (to)有帮助的，有益的，有用的"
+  },
+  {
+    "id": 41,
+    "day": 3,
+    "word_en": "rivalry",
+    "phonetic_en": "/ˈraɪvəlri/",
+    "word_cn": "n.竞争，对抗"
+  },
+  {
+    "id": 42,
+    "day": 3,
+    "word_en": "ditch",
+    "phonetic_en": "/dɪʧ/",
+    "word_cn": "n. 排水沟,沟渠 v. 坠入沟中,抛弃"
+  },
+  {
+    "id": 43,
+    "day": 3,
+    "word_en": "quagmire",
+    "phonetic_en": "/ˈkwægmaɪə/",
+    "word_cn": "n.沼泽, 湿地。"
+  },
+  {
+    "id": 44,
+    "day": 3,
+    "word_en": "continent",
+    "phonetic_en": "/ˈkɒntɪnənt/",
+    "word_cn": "n. 大陆，洲;adj. 有节制的；节制欲望的"
+  },
+  {
+    "id": 45,
+    "day": 3,
+    "word_en": "recital",
+    "phonetic_en": "/rɪˈsaɪtl/",
+    "word_cn": "n.朗诵, 背诵, 叙述, 独奏会, 独唱会。"
+  },
+  {
+    "id": 46,
+    "day": 3,
+    "word_en": "tradesman",
+    "phonetic_en": "/ˈtreɪdzmən/",
+    "word_cn": "n.商人；手艺人"
+  },
+  {
+    "id": 47,
+    "day": 3,
+    "word_en": "swerve",
+    "phonetic_en": "/swɜːv/",
+    "word_cn": "v.突然转向。n.转向。"
+  },
+  {
+    "id": 48,
+    "day": 3,
+    "word_en": "dusty",
+    "phonetic_en": "/ˈdʌsti/",
+    "word_cn": "adj.沾满灰尘的"
+  },
+  {
+    "id": 49,
+    "day": 3,
+    "word_en": "smoke",
+    "phonetic_en": "/sməʊk/",
+    "word_cn": "n. 烟，烟尘；吸烟，抽烟v. 抽(烟)；冒烟，冒气"
+  },
+  {
+    "id": 50,
+    "day": 3,
+    "word_en": "flare",
+    "phonetic_en": "/fleə/",
+    "word_cn": "vi./n. 熊熊燃烧,突然燃烧,火光;v./n. (衣裙等)张开"
+  },
+  {
+    "id": 51,
+    "day": 3,
+    "word_en": "choose",
+    "phonetic_en": "/ʧuːz/",
+    "word_cn": "v. 选择，挑选；甘愿"
+  },
+  {
+    "id": 52,
+    "day": 3,
+    "word_en": "handkerchief",
+    "phonetic_en": "/ˈhæŋkəʧɪf/",
+    "word_cn": "n. 手帕"
+  },
+  {
+    "id": 53,
+    "day": 3,
+    "word_en": "Leninism",
+    "phonetic_en": "/ˈlɛnɪnɪzm/",
+    "word_cn": "n.列宁主义"
+  },
+  {
+    "id": 54,
+    "day": 3,
+    "word_en": "uprising",
+    "phonetic_en": "/ʌpˈraɪzɪŋ/",
+    "word_cn": "n.起义, 升起。"
+  },
+  {
+    "id": 55,
+    "day": 3,
+    "word_en": "characteristical",
+    "phonetic_en": "/kærɪktə'rɪstɪkəl/",
+    "word_cn": "adj.特征的"
+  },
+  {
+    "id": 56,
+    "day": 3,
+    "word_en": "superintend",
+    "phonetic_en": "/ˌsjuːpərɪnˈtɛnd/",
+    "word_cn": "v.主管, 指挥, 管理, 监督。"
+  },
+  {
+    "id": 57,
+    "day": 3,
+    "word_en": "learning",
+    "phonetic_en": "/ˈlɜːnɪŋ/",
+    "word_cn": "n. 知识，学问；学习"
+  },
+  {
+    "id": 58,
+    "day": 3,
+    "word_en": "vex",
+    "phonetic_en": "/vɛks/",
+    "word_cn": "vt. 使烦恼,使苦恼"
+  },
+  {
+    "id": 59,
+    "day": 3,
+    "word_en": "literacy",
+    "phonetic_en": "/ˈlɪtərəsi/",
+    "word_cn": "n. 识字,读写能力"
+  },
+  {
+    "id": 60,
+    "day": 3,
+    "word_en": "veteran",
+    "phonetic_en": "/ˈvɛtərən/",
+    "word_cn": "n. 老手，老兵"
+  },
+  {
+    "id": 61,
+    "day": 4,
+    "word_en": "connect",
+    "phonetic_en": "/kəˈnɛkt/",
+    "word_cn": "vt. 连接；与…联系，接通(电话)vi. 连接"
+  },
+  {
+    "id": 62,
+    "day": 4,
+    "word_en": "lunch",
+    "phonetic_en": "/lʌnʧ/",
+    "word_cn": "n. 午餐，(美)便餐"
+  },
+  {
+    "id": 63,
+    "day": 4,
+    "word_en": "several",
+    "phonetic_en": "/ˈsɛvrəl/",
+    "word_cn": "a. 几个，若干，数个；各个的，各自的"
+  },
+  {
+    "id": 64,
+    "day": 4,
+    "word_en": "making",
+    "phonetic_en": "/ˈmeɪkɪŋ/",
+    "word_cn": "n.制造, 发展, 素质。"
+  },
+  {
+    "id": 65,
+    "day": 4,
+    "word_en": "material",
+    "phonetic_en": "/məˈtɪərɪəl/",
+    "word_cn": "n. 材料，原料，资料a. 物质的，肉体的，实质性的"
+  },
+  {
+    "id": 66,
+    "day": 4,
+    "word_en": "brightness",
+    "phonetic_en": "/ˈbraɪtnɪs/",
+    "word_cn": "n.明亮，辉煌，聪明"
+  },
+  {
+    "id": 67,
+    "day": 4,
+    "word_en": "waste",
+    "phonetic_en": "/weɪst/",
+    "word_cn": "v. 浪费a. 无用的；荒芜的n. 浪费；废物"
+  },
+  {
+    "id": 68,
+    "day": 4,
+    "word_en": "crumble",
+    "phonetic_en": "/ˈkrʌmbl/",
+    "word_cn": "v. 弄碎,灭亡,消失"
+  },
+  {
+    "id": 69,
+    "day": 4,
+    "word_en": "ninth",
+    "phonetic_en": "/naɪnθ/",
+    "word_cn": "num.第九；九分之一"
+  },
+  {
+    "id": 70,
+    "day": 4,
+    "word_en": "entirety",
+    "phonetic_en": "/ɪnˈtaɪəti/",
+    "word_cn": "n.全部"
+  },
+  {
+    "id": 71,
+    "day": 4,
+    "word_en": "present",
+    "phonetic_en": "/ˈpreznt/",
+    "word_cn": "a. 出席的，现在的n. 现在，礼物v. 赠送，提出"
+  },
+  {
+    "id": 72,
+    "day": 4,
+    "word_en": "vest",
+    "phonetic_en": "/vɛst/",
+    "word_cn": "n. 背心，马甲；汗衫，内衣"
+  },
+  {
+    "id": 73,
+    "day": 4,
+    "word_en": "revival",
+    "phonetic_en": "/rɪˈvaɪvəl/",
+    "word_cn": "n.复苏，再生"
+  },
+  {
+    "id": 74,
+    "day": 4,
+    "word_en": "pasture",
+    "phonetic_en": "/ˈpɑːsʧə/",
+    "word_cn": "n./v. 牧场,放牧"
+  },
+  {
+    "id": 75,
+    "day": 4,
+    "word_en": "application",
+    "phonetic_en": "/ˌæplɪˈkeɪʃ(ə)n/",
+    "word_cn": "n. 申请，请求，申请书；应用，实施，实用性"
+  },
+  {
+    "id": 76,
+    "day": 4,
+    "word_en": "crystal",
+    "phonetic_en": "/ˈkrɪstl/",
+    "word_cn": "n. 水晶,水晶饰品,质量最好的玻璃器皿,结晶体"
+  },
+  {
+    "id": 77,
+    "day": 4,
+    "word_en": "fast",
+    "phonetic_en": "/fɑːst/",
+    "word_cn": "a. 快的，迅速的；坚固的ad. 紧紧地；迅速地"
+  },
+  {
+    "id": 78,
+    "day": 4,
+    "word_en": "pick",
+    "phonetic_en": "/pɪk/",
+    "word_cn": "v. 拾，采，摘；挑选，选择n. 镐，鹤嘴锄"
+  },
+  {
+    "id": 79,
+    "day": 4,
+    "word_en": "distress",
+    "phonetic_en": "/dɪsˈtrɛs/",
+    "word_cn": "n./vt. 悲痛,忧伤;贫苦;危难"
+  },
+  {
+    "id": 80,
+    "day": 4,
+    "word_en": "gratify",
+    "phonetic_en": "/ˈgrætɪfaɪ/",
+    "word_cn": "v.使满足，使高兴"
+  },
+  {
+    "id": 81,
+    "day": 5,
+    "word_en": "poll",
+    "phonetic_en": "/pəʊl/",
+    "word_cn": "n. 民意测验；(pl.)政治选举v. 获得…选票"
+  },
+  {
+    "id": 82,
+    "day": 5,
+    "word_en": "soda",
+    "phonetic_en": "/ˈsəʊdə/",
+    "word_cn": "n. 苏打，汽水"
+  },
+  {
+    "id": 83,
+    "day": 5,
+    "word_en": "robbery",
+    "phonetic_en": "/ˈrɒbəri/",
+    "word_cn": "n.抢劫，劫掠，盗取"
+  },
+  {
+    "id": 84,
+    "day": 5,
+    "word_en": "equivalence",
+    "phonetic_en": "/ɪˈkwɪvələns/",
+    "word_cn": "n.相等，等值"
+  },
+  {
+    "id": 85,
+    "day": 5,
+    "word_en": "rehearse",
+    "phonetic_en": "/rɪˈhɜːs/",
+    "word_cn": "v.排练"
+  },
+  {
+    "id": 86,
+    "day": 5,
+    "word_en": "leather",
+    "phonetic_en": "/ˈlɛðə/",
+    "word_cn": "n. 皮革，皮革制品"
+  },
+  {
+    "id": 87,
+    "day": 5,
+    "word_en": "expressly",
+    "phonetic_en": "/ɪksˈprɛsli/",
+    "word_cn": "adj.明确表示的"
+  },
+  {
+    "id": 88,
+    "day": 5,
+    "word_en": "tentacle",
+    "phonetic_en": "/ˈtɛntəkl/",
+    "word_cn": "n.(动物)触须、触角, (植物)腺毛。"
+  },
+  {
+    "id": 89,
+    "day": 5,
+    "word_en": "uncertainty",
+    "phonetic_en": "/ʌnˈsɜːtnti/",
+    "word_cn": "n.不定，易变"
+  },
+  {
+    "id": 90,
+    "day": 5,
+    "word_en": "glycerin",
+    "phonetic_en": "/ˌglɪsəˈriːn/",
+    "word_cn": "n.甘油, 丙三醇。"
+  },
+  {
+    "id": 91,
+    "day": 5,
+    "word_en": "board",
+    "phonetic_en": "/bɔːd/",
+    "word_cn": "n./v. 长木板;有专门用途的木板;理事会;伙食,登 (车、船、机等),提供膳食"
+  },
+  {
+    "id": 92,
+    "day": 5,
+    "word_en": "son",
+    "phonetic_en": "/sʌn/",
+    "word_cn": "n. 儿子；孩子(长者对年青或年幼男子的称呼)"
+  },
+  {
+    "id": 93,
+    "day": 5,
+    "word_en": "click",
+    "phonetic_en": "/klɪk/",
+    "word_cn": "v.发出滴答声。n.滴答声。"
+  },
+  {
+    "id": 94,
+    "day": 5,
+    "word_en": "cartridge",
+    "phonetic_en": "/ˈkɑːtrɪʤ/",
+    "word_cn": "n.弹药筒，子弹；软片"
+  },
+  {
+    "id": 95,
+    "day": 5,
+    "word_en": "rake",
+    "phonetic_en": "/reɪk/",
+    "word_cn": "n. 耙子，耙机v. 耙；搜索，探索"
+  },
+  {
+    "id": 96,
+    "day": 5,
+    "word_en": "coral",
+    "phonetic_en": "/ˈkɒrəl/",
+    "word_cn": "n.珊瑚, 珊瑚虫。"
+  },
+  {
+    "id": 97,
+    "day": 5,
+    "word_en": "elapse",
+    "phonetic_en": "/ɪˈlæps/",
+    "word_cn": "vi. (时间)流逝"
+  },
+  {
+    "id": 98,
+    "day": 5,
+    "word_en": "lawful",
+    "phonetic_en": "/ˈlɔːfʊl/",
+    "word_cn": "adj.合法的，法律的"
+  },
+  {
+    "id": 99,
+    "day": 5,
+    "word_en": "grove",
+    "phonetic_en": "/grəʊv/",
+    "word_cn": "n.林子，小树林，园林"
+  },
+  {
+    "id": 100,
+    "day": 5,
+    "word_en": "November",
+    "phonetic_en": "/nəʊˈvɛmbə/",
+    "word_cn": "n. 十一月"
+  }
+]

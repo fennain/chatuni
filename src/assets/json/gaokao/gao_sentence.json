@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "Sentenc": 1,
+    "topic": "Sentence 01",
+    "content": [
+      {
+        "Sentence": 1,
+        "word_en": "One thing that most touched my heart was that she would go to whoever was sick and just be with them.",
+        "word_cn": "最让我感动的一件事是，谁生病了，她就会去谁那儿并和他们待在一起。"
+      },
+      {
+        "id": 1,
+        "Sentence": 1,
+        "word_en": "touch",
+        "phonetic_en": "/tʌtʃ/",
+        "n.": "vt./n.",
+        "word_cn": "vt.触动，感动，使动心n.触摸，接触;联系"
+      },
+      {
+        "id": 2,
+        "Sentence": 1,
+        "word_en": "sick",
+        "phonetic_en": "/sɪk/",
+        "n.": "adj.",
+        "word_cn": "有病的，患病的，不舒服的;(想)呕吐的"
+      },
+      {
+        "id": 3,
+        "Sentence": 1,
+        "word_en": "whoever",
+        "phonetic_en": "/huːˈevə(r)/",
+        "n.": "pron.",
+        "word_cn": "无论谁"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Sentenc": 2,
+    "topic": "Sentence 02",
+    "content": [
+      {
+        "Sentence": 2,
+        "word_en": "Only by increasing the number of doctors by 50 percent can the patients be treated properly in this hospital.",
+        "word_cn": "只有将医生的人数增加50%，才能使病人们在这家医院得到充分的治疗。"
+      },
+      {
+        "id": 4,
+        "Sentence": 2,
+        "word_en": "only",
+        "phonetic_en": "/ˈəʊnli/",
+        "n.": "adj./adv.",
+        "word_cn": "adj.唯一的，仅有的；adv.只"
+      },
+      {
+        "id": 5,
+        "Sentence": 2,
+        "word_en": "increase",
+        "phonetic_en": "/ɪnˈkriːs , ˈɪŋkriːs/",
+        "n.": "v./n.",
+        "word_cn": "v.增加;繁殖；n.增加，加大"
+      },
+      {
+        "id": 6,
+        "Sentence": 2,
+        "word_en": "number",
+        "phonetic_en": "/ˈnʌmbə(r)/",
+        "n.": "n.",
+        "word_cn": "数字，号码;数量"
+      },
+      {
+        "id": 7,
+        "Sentence": 2,
+        "word_en": "doctor",
+        "phonetic_en": "/ˈdɒktə(r)/",
+        "n.": "n.",
+        "word_cn": "医生;博士（常缩写为Dr.)"
+      },
+      {
+        "id": 8,
+        "Sentence": 2,
+        "word_en": "percent",
+        "phonetic_en": "/pəˈsɛnt/",
+        "n.": "n.",
+        "word_cn": "百分之.."
+      },
+      {
+        "id": 9,
+        "Sentence": 2,
+        "word_en": "patient",
+        "phonetic_en": "/ˈpeɪʃnt/",
+        "n.": "n./adj.",
+        "word_cn": "n.病人；adj.耐心的"
+      },
+      {
+        "id": 10,
+        "Sentence": 2,
+        "word_en": "treat",
+        "phonetic_en": "/triːt/",
+        "n.": "vt.",
+        "word_cn": "对待，看待;治疗"
+      },
+      {
+        "id": 11,
+        "Sentence": 2,
+        "word_en": "properly",
+        "phonetic_en": "/ˈprɒpəli/",
+        "n.": "adv.",
+        "word_cn": "恰当地"
+      },
+      {
+        "id": 12,
+        "Sentence": 2,
+        "word_en": "hospital",
+        "phonetic_en": "/ˈhɒspɪtl/",
+        "n.": "n.",
+        "word_cn": "医院"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Sentenc": 3,
+    "topic": "Sentence 03",
+    "content": [
+      {
+        "Sentence": 3,
+        "word_en": "I gave the owner as much information as possible and headed home to see what news the night might bring.",
+        "word_cn": "我尽可能多地给房主提供信息，然后返回家看看那晚可能会有什么样的消息。"
+      },
+      {
+        "id": 13,
+        "Sentence": 3,
+        "word_en": "owner",
+        "phonetic_en": "/ˈəʊnə(r)/",
+        "n.": "n.",
+        "word_cn": "物主，所有者"
+      },
+      {
+        "id": 14,
+        "Sentence": 3,
+        "word_en": "information",
+        "phonetic_en": "/ˌɪnfəˈmeɪʃn/",
+        "n.": "n.",
+        "word_cn": "信息;情报"
+      },
+      {
+        "id": 15,
+        "Sentence": 3,
+        "word_en": "possible",
+        "phonetic_en": "/ˈpɒsəbl/",
+        "n.": "adj.",
+        "word_cn": "可能的"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Sentenc": 4,
+    "topic": "Sentence 04",
+    "content": [
+      {
+        "Sentence": 4,
+        "word_en": "His presence meant that I had an unexpected teaching assistant in class whose creativity would infect other students.",
+        "word_cn": "他的出现意味着我在课堂上有一个意想不到的助教，他的创造力会感染其他学生。"
+      },
+      {
+        "id": 16,
+        "Sentence": 4,
+        "word_en": "presence",
+        "phonetic_en": "/ˈprezns/",
+        "n.": "n.",
+        "word_cn": "在场;出席"
+      },
+      {
+        "id": 17,
+        "Sentence": 4,
+        "word_en": "mean",
+        "phonetic_en": "/miːn/",
+        "n.": "v./adj.",
+        "word_cn": "v. 意味着，意思是；adj.吝啬的"
+      },
+      {
+        "id": 18,
+        "Sentence": 4,
+        "word_en": "unexpected",
+        "phonetic_en": "/ˌʌnɪkˈspektɪd/",
+        "n.": "adj.",
+        "word_cn": "意外的，想不到的"
+      },
+      {
+        "id": 19,
+        "Sentence": 4,
+        "word_en": "teaching",
+        "phonetic_en": "/ˈtiːtʃɪŋ/",
+        "n.": "n.",
+        "word_cn": "n.教学;授课;指导;[pl.]教导;学说"
+      },
+      {
+        "id": 20,
+        "Sentence": 4,
+        "word_en": "assistant",
+        "phonetic_en": "/əˈsɪstənt/",
+        "n.": "adj./n.",
+        "word_cn": "adj.助理的;副的;n.助手;副手;店员;售货员;助教;"
+      },
+      {
+        "id": 21,
+        "Sentence": 4,
+        "word_en": "creativity",
+        "phonetic_en": "/ˌkriːeɪˈtɪvəti/",
+        "n.": "n.",
+        "word_cn": "创造性"
+      },
+      {
+        "id": 22,
+        "Sentence": 4,
+        "word_en": "infect",
+        "phonetic_en": "/ɪnˈfekt/",
+        "n.": "v.",
+        "word_cn": "感染"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Sentenc": 5,
+    "topic": "Sentence 05",
+    "content": [
+      {
+        "Sentence": 5,
+        "word_en": "Any training you do to become more effective at public speaking should always focus on the positive aspects of what you already do well.",
+        "word_cn": "为了在公共演讲中获得更好的效果而做的任何训练都应该集中在你已经做得很好且有把握的方面。"
+      },
+      {
+        "id": 23,
+        "Sentence": 5,
+        "word_en": "training",
+        "phonetic_en": "/ˈtreɪnɪŋ/",
+        "n.": "n.",
+        "word_cn": "训练，培训"
+      },
+      {
+        "id": 24,
+        "Sentence": 5,
+        "word_en": "become",
+        "phonetic_en": "/bɪˈkʌm/",
+        "n.": "v.",
+        "word_cn": "变得; 成为"
+      },
+      {
+        "id": 25,
+        "Sentence": 5,
+        "word_en": "effective",
+        "phonetic_en": "/ɪˈfektɪv/",
+        "n.": "adj.",
+        "word_cn": "产生预期效果的; 有效的; 起作用的"
+      },
+      {
+        "id": 26,
+        "Sentence": 5,
+        "word_en": "focus on",
+        "phonetic_en": "/ˈfəʊkəs ɒn/",
+        "n.": "v.",
+        "word_cn": "集中;致力于"
+      },
+      {
+        "id": 27,
+        "Sentence": 5,
+        "word_en": "positive",
+        "phonetic_en": "/ˈpɒzətɪv/",
+        "n.": "adj.",
+        "word_cn": "积极的; 肯定的"
+      },
+      {
+        "id": 28,
+        "Sentence": 5,
+        "word_en": "aspect",
+        "phonetic_en": "/ˈæspekt/",
+        "n.": "n.",
+        "word_cn": "方面;外表"
+      }
+    ]
+  }
+]

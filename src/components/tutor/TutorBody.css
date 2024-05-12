@@ -1,0 +1,10 @@
+.tutorbackground{
+    color: black;
+    height: 100vh;
+    bottom: 0;
+    position:relative;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /* overflow: auto; */
+}

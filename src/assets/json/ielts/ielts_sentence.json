@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "Sentenc": 1,
+    "topic": "Sentence 01",
+    "content": [
+      {
+        "Sentence": 1,
+        "word_en": "There is considerable debate over how we should react if we detect a signal from an alien civilisation.",
+        "word_cn": "如果我们探测到了来自外星文明的信号，我们应该如何回应是一个备受争议的问题。"
+      },
+      {
+        "id": 1,
+        "Sentence": 1,
+        "word_en": "considerable",
+        "phonetic_en": "/kənˈsɪdərəbl/",
+        "n.": "adj",
+        "word_cn": "相当大（或多）的，可观的；值得考虑的；重要的"
+      },
+      {
+        "id": 2,
+        "Sentence": 1,
+        "word_en": "react",
+        "phonetic_en": "/riˈækt/",
+        "n.": "v.",
+        "word_cn": "察觉；侦查，探测"
+      },
+      {
+        "id": 3,
+        "Sentence": 1,
+        "word_en": "detect",
+        "phonetic_en": "/dɪˈtekt/",
+        "n.": "v.",
+        "word_cn": "想法，主意；意见，看法；概念\n记联想记忆"
+      },
+      {
+        "id": 4,
+        "Sentence": 1,
+        "word_en": "signal",
+        "phonetic_en": "/ˈsɪɡnəl/",
+        "n.": "n./v.",
+        "word_cn": "n. 信号；暗号；标志；v. （向…）发信号；标志着"
+      },
+      {
+        "id": 5,
+        "Sentence": 1,
+        "word_en": "alien",
+        "phonetic_en": "/ˈeɪliən/",
+        "n.": "n./adj.",
+        "word_cn": "n. 外星人；adj. 外国的；相异的"
+      },
+      {
+        "id": 6,
+        "Sentence": 1,
+        "word_en": "civilisation",
+        "phonetic_en": "/ˌsɪvəlaɪˈzeɪʃn/",
+        "n.": "n.",
+        "word_cn": "文明（社会），文化"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Sentenc": 2,
+    "topic": "Sentence 02",
+    "content": [
+      {
+        "Sentence": 2,
+        "word_en": "The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry.",
+        "word_cn": "两次世界大战中断了来自日本的原材料供应，同时也抑制了欧洲的丝绸工业。"
+      },
+      {
+        "id": 7,
+        "Sentence": 2,
+        "word_en": "interrupt",
+        "phonetic_en": "/ˌɪntəˈrʌpt/",
+        "n.": "v.",
+        "word_cn": "中断，阻碍；打断（话），打扰"
+      },
+      {
+        "id": 8,
+        "Sentence": 2,
+        "word_en": "raw",
+        "phonetic_en": "/rɔː/",
+        "n.": "adj.",
+        "word_cn": "未加工过的；生的；未经训练的；（伤口等）未愈的"
+      },
+      {
+        "id": 9,
+        "Sentence": 2,
+        "word_en": "stifle",
+        "phonetic_en": "/ˈstaɪfl/",
+        "n.": "v.",
+        "word_cn": "抑制；使窒息；扼杀"
+      },
+      {
+        "id": 10,
+        "Sentence": 2,
+        "word_en": "silk",
+        "phonetic_en": "/sɪlk/",
+        "n.": "n.",
+        "word_cn": "丝绸"
+      },
+      {
+        "id": 11,
+        "Sentence": 2,
+        "word_en": "industry",
+        "phonetic_en": "/ˈɪndəstri/",
+        "n.": "n.",
+        "word_cn": "工业，产业"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Sentenc": 3,
+    "topic": "Sentence 03",
+    "content": [
+      {
+        "Sentence": 3,
+        "word_en": "Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. ",
+        "word_cn": "迁徙是一个复杂的问题，生物学家对它有不同的定义，部分取决于他们研究的动物种类。"
+      },
+      {
+        "id": 12,
+        "Sentence": 3,
+        "word_en": "migration",
+        "phonetic_en": "/maɪˈɡreɪʃn/",
+        "n.": "n.",
+        "word_cn": "迁徙，移居；迁徙"
+      },
+      {
+        "id": 13,
+        "Sentence": 3,
+        "word_en": "issue",
+        "phonetic_en": "/ˈɪʃuː/",
+        "n.": "v./n.",
+        "word_cn": "v. 流出；发行；n. 发行（物）；问题"
+      },
+      {
+        "id": 14,
+        "Sentence": 3,
+        "word_en": "biologist",
+        "phonetic_en": "/baɪˈɒlədʒɪst/",
+        "n.": "n.",
+        "word_cn": "生物学家"
+      },
+      {
+        "id": 15,
+        "Sentence": 3,
+        "word_en": "define",
+        "phonetic_en": "/dɪˈfaɪn/",
+        "n.": "v.",
+        "word_cn": "下定义；限定；解释"
+      },
+      {
+        "id": 16,
+        "Sentence": 3,
+        "word_en": "sort",
+        "phonetic_en": "/sɔrt/",
+        "n.": "n.",
+        "word_cn": "种，类；类型"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Sentenc": 4,
+    "topic": "Sentence 04",
+    "content": [
+      {
+        "Sentence": 4,
+        "word_en": "One way is by organising backstage tours, so people can be shown round the building and learn how a theatre operates.",
+        "word_cn": "一种方式是组织后台参观，这样人们就可以参观建筑，了解剧院是如何运作的。"
+      },
+      {
+        "id": 17,
+        "Sentence": 4,
+        "word_en": "way",
+        "phonetic_en": "/weɪ/",
+        "n.": "n.",
+        "word_cn": "方法"
+      },
+      {
+        "id": 18,
+        "Sentence": 4,
+        "word_en": "backstage",
+        "phonetic_en": "/ˌbækˈsteɪdʒ/",
+        "n.": "adj.",
+        "word_cn": "后台的"
+      },
+      {
+        "id": 19,
+        "Sentence": 4,
+        "word_en": "tour",
+        "phonetic_en": "/tʊə(r)/",
+        "n.": "n.",
+        "word_cn": "游览，观光；参观"
+      },
+      {
+        "id": 20,
+        "Sentence": 4,
+        "word_en": "theater",
+        "phonetic_en": "/ˈθɪətə(r)/",
+        "n.": "n.",
+        "word_cn": "剧院"
+      },
+      {
+        "id": 21,
+        "Sentence": 4,
+        "word_en": "operate",
+        "phonetic_en": "/ˈɒpəreɪt/",
+        "n.": "vt./vt.",
+        "word_cn": "vi. 运转；动手术；vt. 操作；经营"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Sentenc": 5,
+    "topic": "Sentence 05",
+    "content": [
+      {
+        "Sentence": 5,
+        "word_en": "What I'm afraid will happen is that books and magazines will all disappear, and there'll just be rows and rows of computers.",
+        "word_cn": "我担心会发生的是，书和杂志都将消失，剩下的只有一排排电脑。"
+      },
+      {
+        "id": 22,
+        "Sentence": 5,
+        "word_en": "afraid",
+        "phonetic_en": "/əˈfreɪd/",
+        "n.": "adj. ",
+        "word_cn": "恐怕，担心的"
+      },
+      {
+        "id": 23,
+        "Sentence": 5,
+        "word_en": "happen",
+        "phonetic_en": "/ˈhæpən/",
+        "n.": "v.",
+        "word_cn": "发生"
+      },
+      {
+        "id": 24,
+        "Sentence": 5,
+        "word_en": "magazine",
+        "phonetic_en": "/ˈmæɡəziːn/",
+        "n.": "n.",
+        "word_cn": "杂志"
+      },
+      {
+        "id": 25,
+        "Sentence": 5,
+        "word_en": "row",
+        "phonetic_en": "/rəʊ/",
+        "n.": "n.",
+        "word_cn": "行，排"
+      },
+      {
+        "id": 26,
+        "Sentence": 5,
+        "word_en": "disappear",
+        "phonetic_en": "/ˌdɪsəˈpɪə(r)/",
+        "n.": "v.",
+        "word_cn": "消失"
+      },
+      {
+        "id": 27,
+        "Sentence": 5,
+        "word_en": "alarm",
+        "phonetic_en": "/əˈlɑːm/",
+        "n.": "n/vt.",
+        "word_cn": "n. 警报；闹钟；vt. （使）惊恐；（使）担心"
+      },
+      {
+        "id": 28,
+        "Sentence": 5,
+        "word_en": "anxious",
+        "phonetic_en": "/ˈæŋkʃəs/",
+        "n.": "adj.",
+        "word_cn": "渴望的；忧虑的"
+      },
+      {
+        "id": 29,
+        "Sentence": 5,
+        "word_en": "uneasy",
+        "phonetic_en": "/ʌnˈiːzi/",
+        "n.": "adj.",
+        "word_cn": "心神不安的；担心的"
+      }
+    ]
+  }
+]

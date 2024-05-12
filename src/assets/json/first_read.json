@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "review": [],
+    "day": "1",
+    "title": "Polite Phrases",
+    "keyword": ["Yes", "No", "Please", "Thank you", "Tea"],
+    "content": [
+      "Yes.",
+      "No.",
+      "Please.",
+      "Thank you.",
+      "Tea.",
+      "Tea？",
+      "Yes, please.",
+      "Yes, thank you.",
+      "No, thank you.",
+      "Tea, please."
+    ]
+  },
+  {
+    "id": 2,
+    "review": [],
+    "day": "2",
+    "title": "Introductions",
+    "keyword": ["Hello", "This is...", "I am...", "Nice to meet you"],
+    "content": [
+      "This is Emma.",
+      "Hello, Emma.",
+      "This is Noah.",
+      "Hello, Noah.",
+      "I am Ava.",
+      "Nice to meet you, Ava.",
+      "I am Jacob.",
+      "Nice to meet you, Jacob.",
+      "Hello, nice to meet you.",
+      "Nice to meet you, I am Ava."
+    ]
+  },
+  {
+    "id": 3,
+    "review": ["I am...", "Yes", "No"],
+    "day": "3",
+    "title": "Introductions 2",
+    "keyword": ["Hi.", "My name is...", "What is your name?", "Are you...?"],
+    "content": [
+      "Hi, my name is Oliver.",
+      "Hi, Oliver.",
+      "Hi, what is your name?",
+      "My name is Sophia.",
+      "Nice to meet you, Sophia.",
+      "Are you Oliver?",
+      "Yes, I am Oliver.",
+      "Are you Sophia?",
+      "No, I am Sarah.",
+      "Hi, Sarah."
+    ]
+  },
+  {
+    "id": 4,
+    "review": ["I am...", "Are you...", "Yes.", "No."],
+    "day": "4",
+    "title": "Nationality",
+    "keyword": ["Chinese", "American", "China", "America", "from"],
+    "content": [
+      "I am Chinese.",
+      "I am American.",
+      "Are you Chinese?",
+      "Yes, I am Chinese.",
+      "Are you American?",
+      "No, I am Chinese.",
+      "Are you from America?",
+      "No, I am from China.",
+      "Are you from China?",
+      "Yes, I am from China."
+    ]
+  },
+  {
+    "id": 5,
+    "review": ["Chinese", "American", "Yes", "No", "from"],
+    "day": "5",
+    "title": "To Be (Pt. 1)",
+    "keyword": ["He is...", "She is...", "Is he...?", "Is she...?", "nice"],
+    "content": [
+      "He is Chinese.",
+      "She is American.",
+      "Is he Chinese?",
+      "Yes, he is Chinese.",
+      "Is she Chinese?",
+      "No, she is American.",
+      "Is she nice?",
+      "Yes, she is nice.",
+      "Is he from China?",
+      "Yes, he is from China."
+    ]
+  },
+  {
+    "id": 6,
+    "review": ["Nice", "Chinese", "American", "Yes", "No"],
+    "day": "6",
+    "title": "To Be (Pt. 2)",
+    "keyword": ["They are...", "Are they...?", "Students", "Teachers", "Nice"],
+    "content": [
+      "They are Chinese.",
+      "They are American.",
+      "Are they students?",
+      "Yes, they are students.",
+      "Are they teachers?",
+      "No, they are students.",
+      "Are they Chinese?",
+      "No, they are American.",
+      "Are they nice?",
+      "Yes, they are nice."
+    ]
+  },
+  {
+    "id": 7,
+    "review": [
+      "Are you...?",
+      "Chinese",
+      "American",
+      "From",
+      "China",
+      "America",
+      "Students",
+      "Yes",
+      "No"
+    ],
+    "day": "7",
+    "title": "To Be (Pt. 3)",
+    "keyword": ["We are...", "Are we...?", "ready"],
+    "content": [
+      "We are Chinese.",
+      "We are ready.",
+      "Are you Chinese?",
+      "Yes, we are Chinese.",
+      "Are you ready?",
+      "Yes, we are ready.",
+      "Are you from America?",
+      "No, we are from China.",
+      "Are you students?",
+      "Yes, we are students."
+    ]
+  },
+  {
+    "id": 8,
+    "review": [
+      "nice",
+      "Chinese",
+      "American",
+      "Yes",
+      "No",
+      "hey are",
+      "Are you...?",
+      "He is...",
+      "She is...",
+      "I am...",
+      "We are...",
+      ""
+    ],
+    "day": "8",
+    "title": "Adjectives",
+    "keyword": ["young", "smart", "happy", "funny"],
+    "content": [
+      "He is young.",
+      "She is smart.",
+      "They are nice.",
+      "Are you happy?",
+      "Yes, I am happy.",
+      "Yes, we are happy.",
+      "Is he smart?",
+      "Yes, he is smart.",
+      "Are they funny?",
+      "Yes, they are funny."
+    ]
+  },
+  {
+    "id": 9,
+    "review": [
+      "ready",
+      "smart",
+      "funny",
+      "Are you...?",
+      "I am...",
+      "YesHe is...",
+      "She is..."
+    ],
+    "day": "9",
+    "title": "Adjectives (Pt. 2)",
+    "keyword": ["and", "hungry", "thirsty", "tired"],
+    "content": [
+      "I am hungry.",
+      "I am thirsty.",
+      "I am tired.",
+      "I am tired and hungry.",
+      "She is smart and funny.",
+      "He is young and smart.",
+      "Are you tired?",
+      "Yes, we are tired.",
+      "Are you ready?",
+      "Yes, I am ready."
+    ]
+  },
+  {
+    "id": 10,
+    "review": [
+      "He is...",
+      "She is...",
+      "happy",
+      "Chinese",
+      "American",
+      "smart",
+      "Yes",
+      "No",
+      "and",
+      "teachers",
+      "students"
+    ],
+    "day": "10",
+    "title": "Pronouns",
+    "keyword": [],
+    "content": [
+      "Is Noah American?",
+      "Yes, he is American.",
+      "Is Ava Chinese?",
+      "No, she is American.",
+      "Are Ava and Noah smart?",
+      "Yes, they are smart.",
+      "Are Ava and Noah teachers?",
+      "No, they are students.",
+      "Is Ava happy?",
+      "Yes, she is happy."
+    ]
+  },
+  {
+    "id": 11,
+    "review": ["tea", "he", "she", "you", "they", "we", "I"],
+    "day": "11",
+    "title": "To Like",
+    "keyword": ["like", "likes", "do", "does", "chocolate"],
+    "content": [
+      "I like chocolate.",
+      "He likes chocolate.",
+      "We like tea.",
+      "They like tea.",
+      "Do you like tea?",
+      "Yes, I like tea.",
+      "Does she like chocolate?",
+      "Yes, she likes chocolate.",
+      "Does he like tea?",
+      "Yes, he likes tea."
+    ]
+  },
+  {
+    "id": 12,
+    "review": [
+      "I am...",
+      "Are you...?",
+      "like(s)",
+      "tea",
+      "American",
+      "ready",
+      "no"
+    ],
+    "day": "12",
+    "title": "Negation (Pt. 1)",
+    "keyword": ["do not", "am not", "coffee", "broccolI"],
+    "content": [
+      "Do you like coffee?",
+      "No, I do not like coffee.",
+      "Do you like broccoli?",
+      "No, I do not like broccoli.",
+      "Do you like tea?",
+      "No, I do not like tea.",
+      "Are you American?",
+      "No, I am not American.",
+      "Are you ready?",
+      "No, I am not ready."
+    ]
+  },
+  {
+    "id": 13,
+    "review": [
+      "Does (s)he?",
+      "Is (s)he...?",
+      "(S)he is...",
+      "like(s)",
+      "coffee",
+      "broccoli",
+      "American",
+      "hungry"
+    ],
+    "day": "13",
+    "title": "Negation (Pt. 2)",
+    "keyword": ["does not", "is not", "rice", "noodles"],
+    "content": [
+      "He does not like rice.",
+      "She does not like noodles.",
+      "Does she like coffee?",
+      "She does not like coffee.",
+      "Does he like broccoli?",
+      "He does not like broccoli.",
+      "Is she American?",
+      "She is not American.",
+      "Is he hungry?",
+      "He is not hungry."
+    ]
+  },
+  {
+    "id": 14,
+    "review": [
+      "rice",
+      "tea",
+      "I like...",
+      "I do not like...",
+      "(S)he does not like..."
+    ],
+    "day": "14",
+    "title": "Colors (Pt. 1)",
+    "keyword": ["black", "green", "white", "brown"],
+    "content": [
+      "I like green tea.",
+      "I like black tea.",
+      "She likes brown rice.",
+      "She likes white rice.",
+      "He does not like green tea.",
+      "He does not like brown rice.",
+      "I do not like white rice.",
+      "I do not like black tea.",
+      "He likes green tea.",
+      "I like brown rice."
+    ]
+  },
+  {
+    "id": 15,
+    "review": ["green", "brown", "black"],
+    "day": "15",
+    "title": "To have (Pt. 1)",
+    "keyword": ["have", "has", "eyes", "hair"],
+    "content": [
+      "I have brown eyes.",
+      "She has green eyes.",
+      "I have black hair.",
+      "He has brown hair.",
+      "They have brown eyes.",
+      "We have green eyes.",
+      "You have black hair.",
+      "I have brown hair.",
+      "She has brown eyes.",
+      "They have black hair."
+    ]
+  },
+  {
+    "id": 16,
+    "review": [
+      "have",
+      "has",
+      "do not",
+      "does not",
+      "Does (s)he?",
+      "Do you...?"
+    ],
+    "day": "16",
+    "title": "To have (Pt. 2)",
+    "keyword": ["a cat", "a dog", "a sister", "a brother"],
+    "content": [
+      "I have a cat.",
+      "She has a dog.",
+      "I have a brother",
+      "He has a sister.",
+      "I do not have a dog.",
+      "He does not have a cat.",
+      "Do you have a sister?",
+      "I do not have a sister.",
+      "Does she have a dog?",
+      "Yes, she has a dog."
+    ]
+  },
+  {
+    "id": 17,
+    "review": [
+      "is",
+      "cat",
+      "dog",
+      "sister",
+      "brother",
+      "brown",
+      "white",
+      "black",
+      "smart",
+      "happy",
+      "hungry"
+    ],
+    "day": "17",
+    "title": "Possessives (Pt. 1)",
+    "keyword": ["my", "your", "his", "her"],
+    "content": [
+      "My dog is white.",
+      "My cat is black.",
+      "My sister is smart.",
+      "My brother is happy.",
+      "Is your dog hungry?",
+      "Yes, my dog is hungry.",
+      "Is your cat white?",
+      "No, my cat is black.",
+      "Her dog is brown.",
+      "His cat is white."
+    ]
+  },
+  {
+    "id": 18,
+    "review": ["your", "not", "dog", "cat", "green", "brown", "white"],
+    "day": "18",
+    "title": "Possessives (Pt. 2)",
+    "keyword": ["their", "our", "house", "small", "big"],
+    "content": [
+      "Their house is big.",
+      "Their dog is big.",
+      "Their house is white.",
+      "Their cat is brown.",
+      "Their cat is small.",
+      "Our dog is small.",
+      "Our house is green.",
+      "Our cat is white.",
+      "Is your house big?",
+      "No, our house is small."
+    ]
+  },
+  {
+    "id": 19,
+    "review": ["house", "eyes", "hair"],
+    "day": "19",
+    "title": "Colors (Pt. 2)",
+    "keyword": ["red", "blue", "yellow", "pencil", "notebook"],
+    "content": [
+      "She has red hair.",
+      "He has blue eyes.",
+      "We have a yellow house.",
+      "Our house is yellow.",
+      "I have a red notebook.",
+      "My notebook is red.",
+      "He has a blue notebook.",
+      "She has a yellow pencil.",
+      "His pencil is red.",
+      "Her notebook is red."
+    ]
+  },
+  {
+    "id": 20,
+    "review": [
+      "red",
+      "yellow",
+      "blue",
+      "eyes",
+      "hair",
+      "house",
+      "pencil",
+      "notebook"
+    ],
+    "day": "20",
+    "title": "Colors (Pt. 3)",
+    "keyword": ["What color is...?", "What color are...?", "pink", "purple"],
+    "content": [
+      "What color is your house?",
+      "My house is pink.",
+      "What color is your notebook?",
+      "My notebook is purple.",
+      "What color is your pencil?",
+      "My pencil is pink.",
+      "What color is your hair?",
+      "My hair is red.",
+      "What color are your eyes?",
+      "My eyes are blue."
+    ]
+  },
+  {
+    "id": 21,
+    "review": [
+      "they",
+      "hair",
+      "eyes",
+      "notebook",
+      "pencil",
+      "house",
+      "blue",
+      "green",
+      "yellow",
+      "purple",
+      "pink",
+      "big",
+      "small"
+    ],
+    "day": "21",
+    "title": "Pronouns (Pt. 2)",
+    "keyword": ["it"],
+    "content": [
+      "Is your hair black?",
+      "Yes, it is black.",
+      "Are your eyes blue?",
+      "Yes, they are blue.",
+      "Is your house small?",
+      "No, it is big.",
+      "Is your notebook purple?",
+      "No, it is pink.",
+      "Are your pencils green?",
+      "No, they are yellow."
+    ]
+  },
+  {
+    "id": 22,
+    "review": [
+      "I am",
+      "you are",
+      "happy",
+      "smart",
+      "ready",
+      "Chinese",
+      "American"
+    ],
+    "day": "22",
+    "title": "Contractions (Pt. 1)",
+    "keyword": ["I'm", "you're", "here", "sure"],
+    "content": [
+      "I am ready.",
+      "I'm ready.",
+      "You are smart.",
+      "You're smart.",
+      "I'm here.",
+      "You're here.",
+      "I'm sure.",
+      "You're sure.",
+      "I'm Chinese.",
+      "You're American."
+    ]
+  },
+  {
+    "id": 23,
+    "review": [
+      "he is",
+      "she is",
+      "here",
+      "sure",
+      "young",
+      "funny",
+      "from",
+      "China",
+      "America"
+    ],
+    "day": "23",
+    "title": "Contractions (Pt. 2)",
+    "keyword": ["he's", "she's", "right", "wrong"],
+    "content": [
+      "He is young.",
+      "He's young.",
+      "She is funny.",
+      "She's funny.",
+      "He's wrong.",
+      "She's right.",
+      "He's from America.",
+      "She's from China.",
+      "He's sure.",
+      "She's here."
+    ]
+  },
+  {
+    "id": 24,
+    "review": ["we are", "they are", "here", "sure", "right", "wrong"],
+    "day": "24",
+    "title": "Contractions (Pt. 3)",
+    "keyword": ["we're", "they're", "sorry", "busy"],
+    "content": [
+      "We are sorry.",
+      "We're sorry",
+      "They are busy.",
+      "They're busy",
+      "We're here.",
+      "They're sure.",
+      "We're right.",
+      "They're wrong.",
+      "We're busy.",
+      "They're sorry."
+    ]
+  },
+  {
+    "id": 25,
+    "review": ["chocolate", "coffee", "tea", "noodles", "rice"],
+    "day": "25",
+    "title": "Present Tense (Pt. 1)",
+    "keyword": ["to drink", "to eat", "water", "breakfast"],
+    "content": [
+      "I drink tea.",
+      "She drinks coffee.",
+      "We drink water.",
+      "He drinks water",
+      "You drink water.",
+      "I eat noodles.",
+      "He eats rice.",
+      "They eat breakfast.",
+      "She eats breakfast.",
+      "I eat breakfast."
+    ]
+  },
+  {
+    "id": 26,
+    "review": ["do not", "does not", "Chinese"],
+    "day": "26",
+    "title": "Present Tense (Pt. 2)",
+    "keyword": ["to study", "to play", "English", "video games", "soccer"],
+    "content": [
+      "I study English.",
+      "I do not study Chinese.",
+      "He studies Chinese.",
+      "He does not study English.",
+      "I play soccer.",
+      "I do not play video games.",
+      "She plays video games.",
+      "She does not play soccer.",
+      "They study English.",
+      "We play video games."
+    ]
+  },
+  {
+    "id": 27,
+    "review": [
+      "I'm",
+      "I eat",
+      "breakfast",
+      "study",
+      "English",
+      "play",
+      "video games",
+      "soccer"
+    ],
+    "day": "27",
+    "title": "At (Pt. 1)",
+    "keyword": ["at", "school", "home", "lunch"],
+    "content": [
+      "I eat at home.",
+      "I'm at home.",
+      "I study at school. ",
+      "I'm at school.",
+      "I eat breakfast at home.",
+      "I eat lunch at home.",
+      "I eat lunch at school.",
+      "I play soccer at school.",
+      "I play video games at home.",
+      "I study English at school."
+    ]
+  },
+  {
+    "id": 28,
+    "review": ["school", "home"],
+    "day": "28",
+    "title": "To go",
+    "keyword": ["to go", "to", "the store", "the library"],
+    "content": [
+      "I go home.",
+      "I go to school.",
+      "I go to the library",
+      "I go to the store.",
+      "He goes to the store.",
+      "She goes to the library.",
+      "You go to school.",
+      "They go to the store.",
+      "We go to the library.",
+      "She goes home."
+    ]
+  },
+  {
+    "id": 29,
+    "review": [
+      "to go",
+      "school",
+      "home",
+      "the library",
+      "to study",
+      "to eat",
+      "to play",
+      "lunch",
+      "breakfast",
+      "at",
+      "soccer",
+      "video games"
+    ],
+    "day": "29",
+    "title": "Adverbs (Pt. 1)",
+    "keyword": ["sometimes", "always", "never", "often"],
+    "content": [
+      "I always go to school.",
+      "I never eat breakfast.",
+      "I sometimes play soccer.",
+      "I often eat lunch at home.",
+      "I never play video games at school.",
+      "I always study at the library.",
+      "She often goes to the library.",
+      "He sometimes plays video games.",
+      "We never eat lunch.",
+      "They always go to school."
+    ]
+  },
+  {
+    "id": 30,
+    "review": [
+      "to study",
+      "to eat",
+      "to drink",
+      "to go",
+      "to play",
+      "tea",
+      "lunch",
+      "breakfast",
+      "school",
+      "English",
+      "soccer",
+      "video games"
+    ],
+    "day": "30",
+    "title": "Present Continuous",
+    "keyword": ["I'm [verb] + ing", "right now", "today", "still"],
+    "content": [
+      "I'm playing soccer.",
+      "I'm drinking tea.",
+      "I'm eating breakfast.",
+      "I'm going to school today.",
+      "I'm drinking tea right now.",
+      "I'm still studying English.",
+      "I'm studying right now.",
+      "I'm playing soccer today.",
+      "I'm still eating lunch.",
+      "I'm playing video games."
+    ]
+  },
+  {
+    "id": 31,
+    "review": [
+      "white",
+      "blue",
+      "red",
+      "black",
+      "brown",
+      "today",
+      "right now",
+      "to school",
+      "at home"
+    ],
+    "day": "31",
+    "title": "Clothing",
+    "keyword": ["to wear", "jeans", "a shirt", "shoes"],
+    "content": [
+      "I often wear jeans.",
+      "I'm wearing jeans today.",
+      "I don't wear shoes at home.",
+      "I'm wearing brown shoes.",
+      "I wear black shoes to school.",
+      "I wear a white shirt to school.",
+      "I'm wearing a red shirt right now.",
+      "I'm not wearing a blue shirt today.",
+      "I never wear jeans.",
+      "I sometimes wear red."
+    ]
+  }
+]

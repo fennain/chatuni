@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "mp3": "g00101.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the price of the chair?",
+        "correctAnswer": "$65",
+        "answers": [
+          "$65",
+          "$15",
+          "$50"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "mp3": "g00102.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What kind of place are the speakers probably talking about?",
+        "correctAnswer": "A restaurant.",
+        "answers": ["A restaurant.", "A concert.", "An art museum."]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "mp3": "g00103.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What do we know about Fred?",
+        "correctAnswer": "He is in class.",
+        "answers": [
+          "He is in class.",
+          "He is at lunch.",
+          "He is at the office."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "mp3": "g00104.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why did the teacher call?",
+        "correctAnswer": "Because he thought Peter was not at practice for the concert program.",
+        "answers": ["Because he thought Peter was not at practice for the concert program.", "Because he wanted to invite Peter to a concert.", "Because he wanted Peter to join the large music group."]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "mp3": "g00105.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does the man say about the bike?",
+        "correctAnswer": "The bike will be a waste of money if he buys it.",
+        "answers": ["The bike will be a waste of money if he buys it.", "The man wants to buy it.", "The man doesn’t like the brake of the bike."]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "mp3": "g00106.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why did the woman go to the States?",
+        "correctAnswer": "To go sightseeing.",
+        "answers": [
+          "To go sightseeing.",
+          "To do some business.",
+          "To visit some friends."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "mp3": "g00107.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Where is the woman?",
+        "correctAnswer": "In her house.",
+        "answers": [
+          "In her house.",
+          "In a kindergarten.",
+          "In a theatre."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "mp3": "g00108.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "How old is the school at the time of the talk?",
+        "correctAnswer": "More than 100 years.",
+        "answers": [
+          "More than 100 years.",
+          "More than 15 years.",
+          "More than 5 years."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "mp3": "g00109.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What happened to the man?",
+        "correctAnswer": "His dog died.",
+        "answers": [
+          "His dog died.",
+          "Mr. Bill was killed.",
+          "Mr. Bill was cured."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "mp3": "g00110.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What do we know about Mr.Wang’s wife?",
+        "correctAnswer": "She likes spending money.",
+        "answers": [
+          "She likes spending money.",
+          "She earns lots of money.",
+          "She works hard."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "mp3": "g00111.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why does the man think that John is a dreamer?",
+        "correctAnswer": "He does not put his ideas.",
+        "answers": [
+          "He does not put his ideas.",
+          "He likes to sleep.",
+          "He has a lot of dreams."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "mp3": "g00112.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What do you learn from the conversation?",
+        "correctAnswer": "The man goes for long walks in autumn at weekend.",
+        "answers": [
+          "The man goes for long walks in autumn at weekend.",
+          "The man sits in the park in spring at weekend.",
+          "The man does some odd jobs in autumn at weekend."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "mp3": "g00113.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why did the woman change her job?",
+        "correctAnswer": "She didn’t like to be an assistant.",
+        "answers": [
+          "She didn’t like to be an assistant.",
+          "She liked accountancy very much.",
+          "She was not good at doing business."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "mp3": "g00114.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "How does the man usually go to work?",
+        "correctAnswer": "By bus.",
+        "answers": [
+          "By bus.",
+          "On foot.",
+          "By car."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "mp3": "g00115.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the man’s problem?",
+        "correctAnswer": "He finds the new apartment too big for him.",
+        "answers": [
+          "He finds the new apartment too big for him.",
+          "He can’t find his new apartment.",
+          "He had a bigger apartment before."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "mp3": "g00116.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the man doing?",
+        "correctAnswer": "Taking a plane.",
+        "answers": [
+          "Taking a plane.",
+          "Seeing a doctor.",
+          "Buying some medicine."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "mp3": "g00117.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Where are Lisa’s parents?",
+        "correctAnswer": "In California.",
+        "answers": [
+          "In California.",
+          "At the airport.",
+          "In hospital."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "mp3": "g00118.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What are they talking about?",
+        "correctAnswer": "The pollution in the air.",
+        "answers": [
+          "The pollution in the air.",
+          "Smoke coming from the school.",
+          "Measures taken by the school."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "mp3": "g00119.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why does the man go to see the doctor?",
+        "correctAnswer": "Because he has a fever.",
+        "answers": [
+          "Because he has a fever.",
+          "Because he is having a toothache.",
+          "Because he is having a headache."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "mp3": "g00120.mp3",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What has the woman bought in the department store?",
+        "correctAnswer": "Nothing.",
+        "answers": [
+          "Nothing.",
+          "A green sweater in XL.",
+          "A sweater in large size."
+        ]
+      }
+    ]
+  }
+]

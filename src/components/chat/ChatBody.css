@@ -1,0 +1,108 @@
+.bodyLeft {
+  height: 100%;
+  width: 25%;
+  background-color: white;
+  padding: 30px 30px;
+}
+.bodyLeft > * {
+  margin-bottom: 20px;
+}
+.bodyCenter {
+  height: 100%;
+  flex: 1;
+  /* width: 50%; */
+  /* background: #fff; */
+}
+.bodyRight {
+  height: 100%;
+  width: 25%;
+  background-color: white;
+  padding: 30px 30px;
+}
+.bodyRight > * {
+  margin-bottom: 30px;
+}
+.chatBackground {
+  color: black;
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  position: relative;
+  flex-direction: row;
+  display: flex;
+}
+.recentCard {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.recentButton {
+  background-color: transparent;
+  color: lightskyblue;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  height: 44px;
+  width: 10%;
+  align-self: center;
+}
+.textContainer {
+  height: 100%;
+  width: 60%;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  padding-left: 20px;
+}
+.micButton {
+  width: 100px;
+  height: 100px;
+  gap: 10px;
+  border-radius: 50%;
+  border: solid;
+  border-color: white;
+  box-shadow: black;
+  align-items: center;
+  justify-content: center;
+  background-color: #3ae3b9;
+  color: white;
+  font-size: 30px;
+  position: relative;
+  box-shadow: 0px 4px 16px 0px #0000001f;
+  /* right: 10px; */
+}
+.micContainer {
+  height: 15%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.Chatlevel {
+  font-size: 30px;
+  background-color: #ffeda3;
+  height: 50px;
+  width: 250px;
+  position: relative;
+  clip-path: polygon(0% 0%, 85% 0, 100% 50%, 85% 100%, 0% 100%);
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px 10px;
+  padding-left: 60px;
+}
+.levelSmall {
+  font-size: 30px;
+  background-color: #ffeda3;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  clip-path: polygon(0% 0%, 85% 0, 100% 50%, 85% 100%, 0% 100%);
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.tutorImage {
+  /* height: 100px; */
+  /* width: 100px; */
+}

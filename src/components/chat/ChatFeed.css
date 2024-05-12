@@ -1,0 +1,33 @@
+.messageBackground {
+  display: flex;
+  /* overflow: auto; */
+  flex-grow: 1;
+  flex-direction: row;
+  height: 85%;
+  padding-top: 10px;
+}
+.chatMsg {
+  display: grid;
+}
+.headImg {
+  width: 150px;
+  /* height: 150px; */
+  align-self: center;
+}
+.aiTitle {
+  align-self: center;
+}
+.micBackground {
+  /* height: 15%; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.feedBackground {
+  display: flex;
+  /* overflow: auto; */
+  flex-grow: 1;
+  flex-direction: column;
+  height: 100%;
+  padding-top: 10px;
+}

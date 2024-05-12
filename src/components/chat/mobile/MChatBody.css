@@ -1,0 +1,11 @@
+
+.MchatBackground{
+    color: black;
+    height:100%;
+    width: 100%;
+    bottom: 0;
+    position:relative;
+    flex-direction: row;
+    display:flex;
+}
+

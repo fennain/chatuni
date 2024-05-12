@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "word_en": "club",
+    "phonetic_en": "/klʌb/",
+    "word_cn": "n俱乐部；高尔夫球棒"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "word_en": "inject",
+    "phonetic_en": "/in'dʒekt/",
+    "word_cn": "vt.注射"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "word_en": "freezer",
+    "phonetic_en": "/'fri:zə/",
+    "word_cn": "n冰箱"
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "word_en": "current",
+    "phonetic_en": "/ˈkʌrənt/",
+    "word_cn": "n.adj.当前的的；n.潮流"
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "word_en": "satisfying",
+    "phonetic_en": "/'sætisfaiiŋ/",
+    "word_cn": "adj令人满意的"
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "word_en": "leave for",
+    "phonetic_en": "　/liːv fɔː(r)/",
+    "word_cn": "出发去某地"
+  },
+  {
+    "id": 7,
+    "day": 1,
+    "word_en": "cuisine",
+    "phonetic_en": "/kwi:'zi:n/",
+    "word_cn": "n.烹饪，烹饪术；菜肴，饭菜"
+  },
+  {
+    "id": 8,
+    "day": 1,
+    "word_en": "fork",
+    "phonetic_en": "/fɔ:k/",
+    "word_cn": "n.叉子"
+  },
+  {
+    "id": 9,
+    "day": 1,
+    "word_en": "material",
+    "phonetic_en": "/mə'tiəriəl/",
+    "word_cn": "n.材料"
+  },
+  {
+    "id": 10,
+    "day": 1,
+    "word_en": "absurd",
+    "phonetic_en": "/əb'sɜ:d/",
+    "word_cn": "adj.荒谬的，荒唐的"
+  },
+  {
+    "id": 11,
+    "day": 1,
+    "word_en": "alertly",
+    "phonetic_en": "/ə'lə:tli/",
+    "word_cn": "adv.警觉地，警惕地"
+  },
+  {
+    "id": 12,
+    "day": 1,
+    "word_en": "instantly",
+    "phonetic_en": "/'ɪnstəntlɪ/",
+    "word_cn": "adv立即，马上"
+  },
+  {
+    "id": 13,
+    "day": 1,
+    "word_en": "competitor",
+    "phonetic_en": "/kəm'petitə/",
+    "word_cn": "n竞争者；对手"
+  },
+  {
+    "id": 14,
+    "day": 1,
+    "word_en": "star",
+    "phonetic_en": "/stɑ:/",
+    "word_cn": "n.（娱乐或体育的）明星"
+  },
+  {
+    "id": 15,
+    "day": 1,
+    "word_en": "crisp",
+    "phonetic_en": "/krɪsp/",
+    "word_cn": "adj松脆的"
+  },
+  {
+    "id": 16,
+    "day": 1,
+    "word_en": "ahead of",
+    "phonetic_en": "　/əˈhed ɔv/",
+    "word_cn": "在……前面"
+  },
+  {
+    "id": 17,
+    "day": 1,
+    "word_en": "evolve",
+    "phonetic_en": "/i'vɔlv/",
+    "word_cn": "vi进化；演变"
+  },
+  {
+    "id": 18,
+    "day": 1,
+    "word_en": "imagine",
+    "phonetic_en": "/ɪ'mædʒɪn/",
+    "word_cn": "v.想象"
+  },
+  {
+    "id": 19,
+    "day": 1,
+    "word_en": "vast",
+    "phonetic_en": "/vɑːst/",
+    "word_cn": "adj.巨大的；庞大的；浩瀚的"
+  },
+  {
+    "id": 20,
+    "day": 1,
+    "word_en": "diamond",
+    "phonetic_en": "/'daiəmənd/",
+    "word_cn": "n.钻石"
+  },
+  {
+    "id": 21,
+    "day": 2,
+    "word_en": "announcement",
+    "phonetic_en": "/ə'naunsmənt/",
+    "word_cn": "n声明；宣告"
+  },
+  {
+    "id": 22,
+    "day": 2,
+    "word_en": "no sooner ... than …",
+    "phonetic_en": "**",
+    "word_cn": "刚一……就"
+  },
+  {
+    "id": 23,
+    "day": 2,
+    "word_en": "affect",
+    "phonetic_en": "/ə'fekt/",
+    "word_cn": "vt.影响；对……有坏影响"
+  },
+  {
+    "id": 24,
+    "day": 2,
+    "word_en": "react",
+    "phonetic_en": "/ri'ækt/",
+    "word_cn": "vi.（化学）反应"
+  },
+  {
+    "id": 25,
+    "day": 2,
+    "word_en": "eventually",
+    "phonetic_en": "/ɪ'ventjʊəlɪ/",
+    "word_cn": "adv.最后;终于"
+  },
+  {
+    "id": 26,
+    "day": 2,
+    "word_en": "amazing",
+    "phonetic_en": "/ə'meiziŋ/",
+    "word_cn": "adj.令人吃惊的；令人惊讶的"
+  },
+  {
+    "id": 27,
+    "day": 2,
+    "word_en": "danger",
+    "phonetic_en": "/'deindʒə/",
+    "word_cn": "n.危险"
+  },
+  {
+    "id": 28,
+    "day": 2,
+    "word_en": "burglary",
+    "phonetic_en": "/'bə:gləri/",
+    "word_cn": "n.盗窃；窃案；盗窃罪"
+  },
+  {
+    "id": 29,
+    "day": 2,
+    "word_en": "pour",
+    "phonetic_en": "/pɔ:/",
+    "word_cn": "vi（雨）倾盆而下"
+  },
+  {
+    "id": 30,
+    "day": 2,
+    "word_en": "accountant",
+    "phonetic_en": "/ə'kauntənt/",
+    "word_cn": "n会计"
+  },
+  {
+    "id": 31,
+    "day": 2,
+    "word_en": "frighten",
+    "phonetic_en": "/'fraitn/",
+    "word_cn": "vt.使吃惊；惊吓"
+  },
+  {
+    "id": 32,
+    "day": 2,
+    "word_en": "parcel",
+    "phonetic_en": "/'pɑ:sl/",
+    "word_cn": "n.（小）包裹"
+  },
+  {
+    "id": 33,
+    "day": 2,
+    "word_en": "temporary",
+    "phonetic_en": "/'tempərəri/",
+    "word_cn": "adj暂时的；临时的"
+  },
+  {
+    "id": 34,
+    "day": 2,
+    "word_en": "lecture",
+    "phonetic_en": "/'lektʃə/",
+    "word_cn": "n.演讲"
+  },
+  {
+    "id": 35,
+    "day": 2,
+    "word_en": "trader",
+    "phonetic_en": "/'treɪdə/",
+    "word_cn": "n.商人；买卖人；经商者"
+  },
+  {
+    "id": 36,
+    "day": 2,
+    "word_en": "company",
+    "phonetic_en": "/'kʌmpənɪ/",
+    "word_cn": "n.（陆军的）连，连队；公司"
+  },
+  {
+    "id": 37,
+    "day": 2,
+    "word_en": "concept",
+    "phonetic_en": "/'kɒnsept/",
+    "word_cn": "n.概念；观念"
+  },
+  {
+    "id": 38,
+    "day": 2,
+    "word_en": "dealer",
+    "phonetic_en": "/'di:lə/",
+    "word_cn": "n（尤指买卖贵重商品的）商人"
+  },
+  {
+    "id": 39,
+    "day": 2,
+    "word_en": "choir",
+    "phonetic_en": "/kwaiə/",
+    "word_cn": "n.（教堂里的）唱诗班；合唱队"
+  },
+  {
+    "id": 40,
+    "day": 2,
+    "word_en": "submerge",
+    "phonetic_en": "/səbˈmɜr(r)dʒ/",
+    "word_cn": "vt.浸入水中；淹没"
+  },
+  {
+    "id": 41,
+    "day": 3,
+    "word_en": "acid",
+    "phonetic_en": "/'æsɪd/",
+    "word_cn": "adj.酸（性）的"
+  },
+  {
+    "id": 42,
+    "day": 3,
+    "word_en": "in addition",
+    "phonetic_en": "　/ɪn əˈdɪʃn/",
+    "word_cn": "除此之外，另外"
+  },
+  {
+    "id": 43,
+    "day": 3,
+    "word_en": "flee",
+    "phonetic_en": "/flɪ:/",
+    "word_cn": "v.逃跑，逃掉"
+  },
+  {
+    "id": 44,
+    "day": 3,
+    "word_en": "genuine",
+    "phonetic_en": "/'dʒenjʊɪn/",
+    "word_cn": "adj.纯粹的，真正的，真实的"
+  },
+  {
+    "id": 45,
+    "day": 3,
+    "word_en": "lava",
+    "phonetic_en": "/ˈlɑːvə/",
+    "word_cn": "n.熔岩；岩浆"
+  },
+  {
+    "id": 46,
+    "day": 3,
+    "word_en": "bond",
+    "phonetic_en": "/bɒnd/",
+    "word_cn": "n.纽带，接合剂，黏合剂"
+  },
+  {
+    "id": 47,
+    "day": 3,
+    "word_en": "at  least",
+    "phonetic_en": "**",
+    "word_cn": "至少"
+  },
+  {
+    "id": 48,
+    "day": 3,
+    "word_en": "brilliant",
+    "phonetic_en": "/'briljənt/",
+    "word_cn": "adj.（口语）极好的"
+  },
+  {
+    "id": 49,
+    "day": 3,
+    "word_en": "patrol",
+    "phonetic_en": "/pə'trəʊl/",
+    "word_cn": "v.巡逻，巡查"
+  },
+  {
+    "id": 50,
+    "day": 3,
+    "word_en": "informal",
+    "phonetic_en": "/in'fɔ:məl",
+    "word_cn": "adj非正式的"
+  },
+  {
+    "id": 51,
+    "day": 3,
+    "word_en": "chase",
+    "phonetic_en": "/tʃeɪz/",
+    "word_cn": "v.追逐，追赶，追踪"
+  },
+  {
+    "id": 52,
+    "day": 3,
+    "word_en": "seek",
+    "phonetic_en": "/sɪ:k/",
+    "word_cn": "v.寻找；寻求"
+  },
+  {
+    "id": 53,
+    "day": 3,
+    "word_en": "extreme",
+    "phonetic_en": "/ɪk'stri:m /",
+    "word_cn": "adj.极端的；极度的"
+  },
+  {
+    "id": 54,
+    "day": 3,
+    "word_en": "gallery",
+    "phonetic_en": "/'gæləri/",
+    "word_cn": "n.美术馆；画廊"
+  },
+  {
+    "id": 55,
+    "day": 3,
+    "word_en": "salary",
+    "phonetic_en": "/'sæləri/",
+    "word_cn": "n工资；薪水"
+  },
+  {
+    "id": 56,
+    "day": 3,
+    "word_en": "let sb down",
+    "phonetic_en": "**",
+    "word_cn": "使某人失望"
+  },
+  {
+    "id": 57,
+    "day": 3,
+    "word_en": "jewellery",
+    "phonetic_en": "/'dʒu:əlrɪ/",
+    "word_cn": "n.珠宝，首饰"
+  },
+  {
+    "id": 58,
+    "day": 3,
+    "word_en": "vague",
+    "phonetic_en": "/veɪg/",
+    "word_cn": "adj.不明确的；含糊的"
+  },
+  {
+    "id": 59,
+    "day": 3,
+    "word_en": "ratio",
+    "phonetic_en": "/'reiʃiəu/",
+    "word_cn": "n.比；比率"
+  },
+  {
+    "id": 60,
+    "day": 3,
+    "word_en": "agreement",
+    "phonetic_en": "/ə'gri:mənt/",
+    "word_cn": "n.协议"
+  },
+  {
+    "id": 61,
+    "day": 4,
+    "word_en": "as a result",
+    "phonetic_en": "**",
+    "word_cn": "结果"
+  },
+  {
+    "id": 62,
+    "day": 4,
+    "word_en": "as well",
+    "phonetic_en": "**",
+    "word_cn": "也"
+  },
+  {
+    "id": 63,
+    "day": 4,
+    "word_en": "pan",
+    "phonetic_en": "/pæn/",
+    "word_cn": "n.平底锅"
+  },
+  {
+    "id": 64,
+    "day": 4,
+    "word_en": "hilly",
+    "phonetic_en": "/'hili/",
+    "word_cn": "adj多山的；丘陵起伏的"
+  },
+  {
+    "id": 65,
+    "day": 4,
+    "word_en": "set (a play, novel, etc.) in",
+    "phonetic_en": "**",
+    "word_cn": "设置（戏剧、小说等的）背景"
+  },
+  {
+    "id": 66,
+    "day": 4,
+    "word_en": "sodium",
+    "phonetic_en": "/'səudiəm/",
+    "word_cn": "n.钠"
+  },
+  {
+    "id": 67,
+    "day": 4,
+    "word_en": "imagination",
+    "phonetic_en": "/ɪ‚mædʒɪ'neɪʃn/",
+    "word_cn": "n.想象；空想"
+  },
+  {
+    "id": 68,
+    "day": 4,
+    "word_en": "matter",
+    "phonetic_en": "/'mætə/",
+    "word_cn": "v.重要，要紧；有关系"
+  },
+  {
+    "id": 69,
+    "day": 4,
+    "word_en": "a huge number of",
+    "phonetic_en": "**",
+    "word_cn": "大量的"
+  },
+  {
+    "id": 70,
+    "day": 4,
+    "word_en": "if necessary",
+    "phonetic_en": "**",
+    "word_cn": "如果有必要的话"
+  },
+  {
+    "id": 71,
+    "day": 4,
+    "word_en": "partner",
+    "phonetic_en": "/'pɑ:tnə/",
+    "word_cn": "n.合伙人，共同出资人"
+  },
+  {
+    "id": 72,
+    "day": 4,
+    "word_en": "symptom",
+    "phonetic_en": "/'simptəm/",
+    "word_cn": "n.症状"
+  },
+  {
+    "id": 73,
+    "day": 4,
+    "word_en": "pioneer",
+    "phonetic_en": "/,paɪə'nɪə/",
+    "word_cn": "n.先锋；创始人；先驱；开拓者"
+  },
+  {
+    "id": 74,
+    "day": 4,
+    "word_en": "canteen",
+    "phonetic_en": "/kæn'ti:n/",
+    "word_cn": "n.（工厂学校等的）食堂，餐厅"
+  },
+  {
+    "id": 75,
+    "day": 4,
+    "word_en": "inventor",
+    "phonetic_en": "/ɪnˈventər/",
+    "word_cn": "n.发明家‘"
+  },
+  {
+    "id": 76,
+    "day": 4,
+    "word_en": "soft",
+    "phonetic_en": "/sɔft/",
+    "word_cn": "adj.柔软的"
+  },
+  {
+    "id": 77,
+    "day": 4,
+    "word_en": "privilege",
+    "phonetic_en": "/'privilidʒ/",
+    "word_cn": "n.权利，特权"
+  },
+  {
+    "id": 78,
+    "day": 4,
+    "word_en": "breed",
+    "phonetic_en": "/bri:d/",
+    "word_cn": "n.（动植物的）品种"
+  },
+  {
+    "id": 79,
+    "day": 4,
+    "word_en": "risky",
+    "phonetic_en": "/'riski/",
+    "word_cn": "adj.危险的;冒险的"
+  },
+  {
+    "id": 80,
+    "day": 4,
+    "word_en": "guest",
+    "phonetic_en": "/gest/",
+    "word_cn": "n.客人"
+  },
+  {
+    "id": 81,
+    "day": 5,
+    "word_en": "depressing",
+    "phonetic_en": "/dɪ'presɪŋ/",
+    "word_cn": "adj.令人沮丧的；令人抑郁的"
+  },
+  {
+    "id": 82,
+    "day": 5,
+    "word_en": "gymnasium",
+    "phonetic_en": "dʒɪm'neɪzɪəm",
+    "word_cn": "n.体育馆；健身房"
+  },
+  {
+    "id": 83,
+    "day": 5,
+    "word_en": "sniff",
+    "phonetic_en": "/snɪf/",
+    "word_cn": "v.（短促有声地）以鼻吸气"
+  },
+  {
+    "id": 84,
+    "day": 5,
+    "word_en": "pole",
+    "phonetic_en": "/pəʊl/",
+    "word_cn": "n.杆；柱"
+  },
+  {
+    "id": 85,
+    "day": 5,
+    "word_en": "consume",
+    "phonetic_en": "/kən'sju:m/",
+    "word_cn": "n.正式）吃；喝"
+  },
+  {
+    "id": 86,
+    "day": 5,
+    "word_en": "play a part",
+    "phonetic_en": "**",
+    "word_cn": "扮演角色"
+  },
+  {
+    "id": 87,
+    "day": 5,
+    "word_en": "organization",
+    "phonetic_en": "/'ɒ:gənai'zʃən/",
+    "word_cn": "n.组织"
+  },
+  {
+    "id": 88,
+    "day": 5,
+    "word_en": "lead to",
+    "phonetic_en": "**",
+    "word_cn": "导致，通向，通往"
+  },
+  {
+    "id": 89,
+    "day": 5,
+    "word_en": "portrait",
+    "phonetic_en": "/'pɔ:trit/",
+    "word_cn": "n.画像；肖像；人像"
+  },
+  {
+    "id": 90,
+    "day": 5,
+    "word_en": "tiresome",
+    "phonetic_en": "/'taɪəsəm/",
+    "word_cn": "adj.烦人的，令人讨厌的"
+  },
+  {
+    "id": 91,
+    "day": 5,
+    "word_en": "obtain",
+    "phonetic_en": "/əb'teɪn/",
+    "word_cn": "v.获得，得到"
+  },
+  {
+    "id": 92,
+    "day": 5,
+    "word_en": "set out",
+    "phonetic_en": "**",
+    "word_cn": "开始做；着手进行"
+  },
+  {
+    "id": 93,
+    "day": 5,
+    "word_en": "make a sound",
+    "phonetic_en": "**",
+    "word_cn": "发出声音"
+  },
+  {
+    "id": 94,
+    "day": 5,
+    "word_en": "botany",
+    "phonetic_en": "/'bɔtəni/",
+    "word_cn": "n植物学"
+  },
+  {
+    "id": 95,
+    "day": 5,
+    "word_en": "embryo",
+    "phonetic_en": "/'embrɪ,əʊ/",
+    "word_cn": "n.胚胎"
+  },
+  {
+    "id": 96,
+    "day": 5,
+    "word_en": "mash",
+    "phonetic_en": "/mæʃ/",
+    "word_cn": "v.捣烂，捣成泥"
+  },
+  {
+    "id": 97,
+    "day": 5,
+    "word_en": "neat",
+    "phonetic_en": "/ni:t/",
+    "word_cn": "adj.整齐的，整洁的"
+  },
+  {
+    "id": 98,
+    "day": 5,
+    "word_en": "footprint",
+    "phonetic_en": "/'fʊtprɪnt/",
+    "word_cn": "n脚印；足迹"
+  },
+  {
+    "id": 99,
+    "day": 5,
+    "word_en": "witness",
+    "phonetic_en": "/'wɪtnəs/",
+    "word_cn": "v.目击，亲眼看见；亲身经历"
+  },
+  {
+    "id": 100,
+    "day": 5,
+    "word_en": "fish",
+    "phonetic_en": "/fɪʃ/",
+    "word_cn": "v.捕鱼；钓鱼"
+  }
+]

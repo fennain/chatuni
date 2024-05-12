@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "word_en": "ability",
+    "phonetic_en": "/əˈbɪləti/",
+    "word_cn": "n.能力；才智"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "word_en": "able",
+    "phonetic_en": "/ˈeɪbəl/",
+    "word_cn": "adj.能做到…的；可以…的"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "word_en": "above",
+    "phonetic_en": "/ə'bʌv/",
+    "word_cn": "prep.在…上面 adv.在上面 adj.上述的"
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "word_en": "aboard",
+    "phonetic_en": "/əˈbɔːd/",
+    "word_cn": "adv. 在(船、飞机、公共汽车、火车等)上;"
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "word_en": "abroad",
+    "phonetic_en": "/əˈbrɔːd/",
+    "word_cn": "adv.在国外；到海外 adj.往国外的"
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "word_en": "accept",
+    "phonetic_en": "/əkˈsept/",
+    "word_cn": "v.接受；同意"
+  },
+  {
+    "id": 7,
+    "day": 1,
+    "word_en": "accident",
+    "phonetic_en": "/ˈæksədənt/",
+    "word_cn": "n.事故；意外"
+  },
+  {
+    "id": 8,
+    "day": 1,
+    "word_en": "accord",
+    "phonetic_en": "/əˈkɔːd/",
+    "word_cn": "v.赋予；授予 n.协议；条约"
+  },
+  {
+    "id": 9,
+    "day": 1,
+    "word_en": "achieve",
+    "phonetic_en": "/əˈtʃiːv/",
+    "word_cn": "v.达到；完成"
+  },
+  {
+    "id": 10,
+    "day": 1,
+    "word_en": "across",
+    "phonetic_en": "/ə'krɒs/",
+    "word_cn": "adv.横过；在对面 prep.从…一边到另一边"
+  },
+  {
+    "id": 11,
+    "day": 1,
+    "word_en": "act",
+    "phonetic_en": "/ækt/",
+    "word_cn": "n.行动；一幕 v.行动；表演"
+  },
+  {
+    "id": 12,
+    "day": 1,
+    "word_en": "active",
+    "phonetic_en": "/'æktɪv/",
+    "word_cn": "adj.活跃的"
+  },
+  {
+    "id": 13,
+    "day": 1,
+    "word_en": "activity",
+    "phonetic_en": "/ækˈtɪvɪti/",
+    "word_cn": "n.活动；活跃"
+  },
+  {
+    "id": 14,
+    "day": 1,
+    "word_en": "actually",
+    "phonetic_en": "/ˈæktʃuəli/",
+    "word_cn": "adv.事实上；竟然"
+  },
+  {
+    "id": 15,
+    "day": 1,
+    "word_en": "add",
+    "phonetic_en": "/æd/",
+    "word_cn": "v.增加；计算…总和"
+  },
+  {
+    "id": 16,
+    "day": 1,
+    "word_en": "addict",
+    "phonetic_en": "/ˈædɪkt/",
+    "word_cn": "v.使沉溺；使上瘾 n.有瘾的人；入迷的人"
+  },
+  {
+    "id": 17,
+    "day": 1,
+    "word_en": "address",
+    "phonetic_en": "/əˈdres/",
+    "word_cn": "n.地址；演讲 v.演说"
+  },
+  {
+    "id": 18,
+    "day": 1,
+    "word_en": "admire",
+    "phonetic_en": "/ədˈmaɪə(r)/",
+    "word_cn": "v.钦佩；赞美"
+  },
+  {
+    "id": 19,
+    "day": 1,
+    "word_en": "adult",
+    "phonetic_en": "/ˈædʌlt/",
+    "word_cn": "n.成年人 adj.成年的；成熟的"
+  },
+  {
+    "id": 20,
+    "day": 1,
+    "word_en": "advantage",
+    "phonetic_en": "/ədˈvɑːntɪdʒ/",
+    "word_cn": "n.优势 v.有利于"
+  },
+  {
+    "id": 21,
+    "day": 2,
+    "word_en": "advice",
+    "phonetic_en": "/ədˈvaɪs/",
+    "word_cn": "n.劝告；忠告；建议"
+  },
+  {
+    "id": 22,
+    "day": 2,
+    "word_en": "affect",
+    "phonetic_en": "/əˈfekt/",
+    "word_cn": "v.影响；（感情上）深深打动"
+  },
+  {
+    "id": 23,
+    "day": 2,
+    "word_en": "afford",
+    "phonetic_en": "/əˈfɔːd/",
+    "word_cn": "v.买得起"
+  },
+  {
+    "id": 24,
+    "day": 2,
+    "word_en": "afraid",
+    "phonetic_en": "/ə'freɪd/",
+    "word_cn": "adj.害怕的；恐惧的；抱歉的"
+  },
+  {
+    "id": 25,
+    "day": 2,
+    "word_en": "against",
+    "phonetic_en": "/əˈɡenst/",
+    "word_cn": "prep.反对；违反；依靠"
+  },
+  {
+    "id": 26,
+    "day": 2,
+    "word_en": "agree",
+    "phonetic_en": "/əˈgriː/",
+    "word_cn": "v.同意"
+  },
+  {
+    "id": 27,
+    "day": 2,
+    "word_en": "ahead",
+    "phonetic_en": "/əˈhed/",
+    "word_cn": "adj.向前；在前的；领先 adv.向前地；领先地"
+  },
+  {
+    "id": 28,
+    "day": 2,
+    "word_en": "aid",
+    "phonetic_en": "/eɪd/",
+    "word_cn": "v./n.帮助,援助"
+  },
+  {
+    "id": 29,
+    "day": 2,
+    "word_en": "aim",
+    "phonetic_en": "/eɪm/",
+    "word_cn": "n.目标,目的 v.目的是"
+  },
+  {
+    "id": 30,
+    "day": 2,
+    "word_en": "alive",
+    "phonetic_en": "/əˈlaɪv/",
+    "word_cn": "adj.活着的"
+  },
+  {
+    "id": 31,
+    "day": 2,
+    "word_en": "allow",
+    "phonetic_en": "/əˈlaʊ/",
+    "word_cn": "v.允许；准许"
+  },
+  {
+    "id": 32,
+    "day": 2,
+    "word_en": "alone",
+    "phonetic_en": "/əˈloʊn/",
+    "word_cn": "adj.独自；寂寞 adv.独自"
+  },
+  {
+    "id": 33,
+    "day": 2,
+    "word_en": "aloud",
+    "phonetic_en": "/əˈlaʊd/",
+    "word_cn": "adv.出声地；大声"
+  },
+  {
+    "id": 34,
+    "day": 2,
+    "word_en": "amaze",
+    "phonetic_en": "/əˈmeɪz/",
+    "word_cn": "v.使惊奇；使惊愕"
+  },
+  {
+    "id": 35,
+    "day": 2,
+    "word_en": "among",
+    "phonetic_en": "/əˈmʌŋ/",
+    "word_cn": "prep.在…中"
+  },
+  {
+    "id": 36,
+    "day": 2,
+    "word_en": "amount",
+    "phonetic_en": "/əˈmaʊnt/",
+    "word_cn": "n.数量；总数 v.总计；合计"
+  },
+  {
+    "id": 37,
+    "day": 2,
+    "word_en": "amusement",
+    "phonetic_en": "/əˈmjuːzmənt/",
+    "word_cn": "n.娱乐（活动）,乐趣"
+  },
+  {
+    "id": 38,
+    "day": 2,
+    "word_en": "ancient",
+    "phonetic_en": "/ˈeɪnʃənt/",
+    "word_cn": "adj.古代的；古老的"
+  },
+  {
+    "id": 39,
+    "day": 2,
+    "word_en": "angry",
+    "phonetic_en": "/ˈæŋgri/",
+    "word_cn": "adj.生气的；愤怒的"
+  },
+  {
+    "id": 40,
+    "day": 2,
+    "word_en": "annoy",
+    "phonetic_en": "/əˈnɔɪ/",
+    "word_cn": "v.打扰,干扰；使烦恼"
+  },
+  {
+    "id": 41,
+    "day": 3,
+    "word_en": "another",
+    "phonetic_en": "/əˈnʌðə/",
+    "word_cn": "adj.另一个的；再一个的"
+  },
+  {
+    "id": 42,
+    "day": 3,
+    "word_en": "anxious",
+    "phonetic_en": "/ˈæŋkʃəs/",
+    "word_cn": "adj.焦虑的,忧虑的；渴望的"
+  },
+  {
+    "id": 43,
+    "day": 3,
+    "word_en": "apologize",
+    "phonetic_en": "/əˈpɒlədʒaɪz/",
+    "word_cn": "v.道歉"
+  },
+  {
+    "id": 44,
+    "day": 3,
+    "word_en": "appear",
+    "phonetic_en": "/əˈpɪə(r)/",
+    "word_cn": "v.显得；似乎；出现"
+  },
+  {
+    "id": 45,
+    "day": 3,
+    "word_en": "apply",
+    "phonetic_en": "/əˈplaɪ/",
+    "word_cn": "v.申请；应用"
+  },
+  {
+    "id": 46,
+    "day": 3,
+    "word_en": "appreciate",
+    "phonetic_en": "/əˈpriːʃieɪt/",
+    "word_cn": "v.欣赏；重视；感激"
+  },
+  {
+    "id": 47,
+    "day": 3,
+    "word_en": "area",
+    "phonetic_en": "/ˈeəriə/",
+    "word_cn": "n.地区，面积"
+  },
+  {
+    "id": 48,
+    "day": 3,
+    "word_en": "argue",
+    "phonetic_en": "/ˈɑːɡjuː/",
+    "word_cn": "v.争论；辩论"
+  },
+  {
+    "id": 49,
+    "day": 3,
+    "word_en": "arm",
+    "phonetic_en": "/ɑːrm/",
+    "word_cn": "n.手臂；袖子 v.武装"
+  },
+  {
+    "id": 50,
+    "day": 3,
+    "word_en": "arrangement",
+    "phonetic_en": "/əˈreɪndʒmənt/",
+    "word_cn": "n.安排,筹备；约定"
+  },
+  {
+    "id": 51,
+    "day": 3,
+    "word_en": "article",
+    "phonetic_en": "/ˈɑːtɪkl/",
+    "word_cn": "n.文章；物品；冠词"
+  },
+  {
+    "id": 52,
+    "day": 3,
+    "word_en": "artist",
+    "phonetic_en": "/ˈɑːtɪst/",
+    "word_cn": "n.艺术家；画家"
+  },
+  {
+    "id": 53,
+    "day": 3,
+    "word_en": "asleep",
+    "phonetic_en": "/əˈsliːp/",
+    "word_cn": "adj.睡着的 adv.熟睡"
+  },
+  {
+    "id": 54,
+    "day": 3,
+    "word_en": "associate",
+    "phonetic_en": "/əˈsəʊʃieɪt/",
+    "word_cn": "v.联系；（与…）混在一起"
+  },
+  {
+    "id": 55,
+    "day": 3,
+    "word_en": "astronaut",
+    "phonetic_en": "/ˈæstrənɔːt/",
+    "word_cn": "n.宇航员,太空人"
+  },
+  {
+    "id": 56,
+    "day": 3,
+    "word_en": "attend",
+    "phonetic_en": "/əˈtend/",
+    "word_cn": "v.出席；上（大学等）；照顾"
+  },
+  {
+    "id": 57,
+    "day": 3,
+    "word_en": "attention",
+    "phonetic_en": "/əˈtenʃən/",
+    "word_cn": "n.注意；兴趣"
+  },
+  {
+    "id": 58,
+    "day": 3,
+    "word_en": "attitude",
+    "phonetic_en": "/ˈætɪtjuːd/",
+    "word_cn": "n.态度；看法"
+  },
+  {
+    "id": 59,
+    "day": 3,
+    "word_en": "attract",
+    "phonetic_en": "/əˈtrækt/",
+    "word_cn": "v.吸引；引起"
+  },
+  {
+    "id": 60,
+    "day": 3,
+    "word_en": "audience",
+    "phonetic_en": "/ˈɔːdiəns/",
+    "word_cn": "n.观众；听众；读者"
+  },
+  {
+    "id": 61,
+    "day": 4,
+    "word_en": "available",
+    "phonetic_en": "/əˈveɪləbl/",
+    "word_cn": "adj.可获得的,可用的；有空的"
+  },
+  {
+    "id": 62,
+    "day": 4,
+    "word_en": "average",
+    "phonetic_en": "/ˈævərɪdʒ/",
+    "word_cn": "n.平均；平均数 adj.平均的；普通的"
+  },
+  {
+    "id": 63,
+    "day": 4,
+    "word_en": "avoid",
+    "phonetic_en": "/əˈvɔɪd/",
+    "word_cn": "v.避免；回避"
+  },
+  {
+    "id": 64,
+    "day": 4,
+    "word_en": "award",
+    "phonetic_en": "/əˈwɔːd/",
+    "word_cn": "v.授予 n.奖品"
+  },
+  {
+    "id": 65,
+    "day": 4,
+    "word_en": "awful",
+    "phonetic_en": "/ˈɔːfl/",
+    "word_cn": "adj.很坏的；极讨厌的"
+  },
+  {
+    "id": 66,
+    "day": 4,
+    "word_en": "background",
+    "phonetic_en": "/ˈbækɡraʊnd/",
+    "word_cn": "n.背景"
+  },
+  {
+    "id": 67,
+    "day": 4,
+    "word_en": "balance",
+    "phonetic_en": "/ˈbæləns/",
+    "word_cn": "n.平衡；均势"
+  },
+  {
+    "id": 68,
+    "day": 4,
+    "word_en": "band",
+    "phonetic_en": "/bænd/",
+    "word_cn": "n.乐队；带子"
+  },
+  {
+    "id": 69,
+    "day": 4,
+    "word_en": "bank",
+    "phonetic_en": "/bæŋk/",
+    "word_cn": "n.银行；岸 v.把（钱）存入银行；开账户"
+  },
+  {
+    "id": 70,
+    "day": 4,
+    "word_en": "basic",
+    "phonetic_en": "/ˈbeɪsɪk/",
+    "word_cn": "adj.基本的；初级的"
+  },
+  {
+    "id": 71,
+    "day": 4,
+    "word_en": "bath",
+    "phonetic_en": "/bɑːθ/",
+    "word_cn": "n.沐浴\tv.洗澡"
+  },
+  {
+    "id": 72,
+    "day": 4,
+    "word_en": "battery",
+    "phonetic_en": "/ˈbætəri/",
+    "word_cn": "n.电池；一群；殴打"
+  },
+  {
+    "id": 73,
+    "day": 4,
+    "word_en": "beach",
+    "phonetic_en": "/biːtʃ/",
+    "word_cn": "n.海滩 v.上岸"
+  },
+  {
+    "id": 74,
+    "day": 4,
+    "word_en": "beat",
+    "phonetic_en": "/biːt/",
+    "word_cn": "v.打败；敲打；有规律地作响"
+  },
+  {
+    "id": 75,
+    "day": 4,
+    "word_en": "behavior",
+    "phonetic_en": "/bɪˈheɪvjə(r)/",
+    "word_cn": "n.行为；态度；表现方式"
+  },
+  {
+    "id": 76,
+    "day": 4,
+    "word_en": "belief",
+    "phonetic_en": "/bɪˈliːf/",
+    "word_cn": "n.相信；信仰；信赖"
+  },
+  {
+    "id": 77,
+    "day": 4,
+    "word_en": "believe",
+    "phonetic_en": "/bɪˈliːv/",
+    "word_cn": "v.相信；认为；信任"
+  },
+  {
+    "id": 78,
+    "day": 4,
+    "word_en": "belong",
+    "phonetic_en": "/bɪˈlɒŋ/",
+    "word_cn": "v.属于"
+  },
+  {
+    "id": 79,
+    "day": 4,
+    "word_en": "belt",
+    "phonetic_en": "/belt/",
+    "word_cn": "n.带；腰带 v.用带子系住"
+  },
+  {
+    "id": 80,
+    "day": 4,
+    "word_en": "benefit",
+    "phonetic_en": "/ˈbenɪfɪt/",
+    "word_cn": "n.优势；益处 v.使受益"
+  },
+  {
+    "id": 81,
+    "day": 5,
+    "word_en": "beside",
+    "phonetic_en": "/bɪˈsaɪd/",
+    "word_cn": "prep.在…旁边"
+  },
+  {
+    "id": 82,
+    "day": 5,
+    "word_en": "bet",
+    "phonetic_en": "/bet/",
+    "word_cn": "n./v. 打赌"
+  },
+  {
+    "id": 83,
+    "day": 5,
+    "word_en": "between",
+    "phonetic_en": "/bɪˈtwiːn/",
+    "word_cn": "prep.在…之间"
+  },
+  {
+    "id": 84,
+    "day": 5,
+    "word_en": "beyond",
+    "phonetic_en": "/bɪˈjɒnd/",
+    "word_cn": "prep.超过, 越多 adv.在远处"
+  },
+  {
+    "id": 85,
+    "day": 5,
+    "word_en": "birth",
+    "phonetic_en": "/bɜːθ/",
+    "word_cn": "n.出生；分娩；诞生"
+  },
+  {
+    "id": 86,
+    "day": 5,
+    "word_en": "blame",
+    "phonetic_en": "/bleɪm/",
+    "word_cn": "v.责备 n.责备；责任"
+  },
+  {
+    "id": 87,
+    "day": 5,
+    "word_en": "blind",
+    "phonetic_en": "/blaɪnd/",
+    "word_cn": "adj.盲目的；瞎的"
+  },
+  {
+    "id": 88,
+    "day": 5,
+    "word_en": "blood",
+    "phonetic_en": "/blʌd/",
+    "word_cn": "n.血；血统"
+  },
+  {
+    "id": 89,
+    "day": 5,
+    "word_en": "blow",
+    "phonetic_en": "/bləʊ/",
+    "word_cn": "v.吹；刮动；吹奏"
+  },
+  {
+    "id": 90,
+    "day": 5,
+    "word_en": "board",
+    "phonetic_en": "/bɔːd/",
+    "word_cn": "n.板,木板 v.上船（或火车、飞机、公共汽车）"
+  },
+  {
+    "id": 91,
+    "day": 5,
+    "word_en": "bored",
+    "phonetic_en": "/bɔːrd/",
+    "word_cn": "adj.厌倦的；烦闷的"
+  },
+  {
+    "id": 92,
+    "day": 5,
+    "word_en": "borrow",
+    "phonetic_en": "/ˈbɒrəʊ/",
+    "word_cn": "v.借；引用"
+  },
+  {
+    "id": 93,
+    "day": 5,
+    "word_en": "bottom",
+    "phonetic_en": "/ˈbɒtəm/",
+    "word_cn": "n.底部；末端 adj.底部的"
+  },
+  {
+    "id": 94,
+    "day": 5,
+    "word_en": "bow",
+    "phonetic_en": "/baʊ/",
+    "word_cn": "v.鞠躬；点头 n.马"
+  },
+  {
+    "id": 95,
+    "day": 5,
+    "word_en": "brain",
+    "phonetic_en": "/breɪn/",
+    "word_cn": "n.大脑；智力；聪明的人"
+  },
+  {
+    "id": 96,
+    "day": 5,
+    "word_en": "brave",
+    "phonetic_en": "/breɪv/",
+    "word_cn": "adj.勇敢的；崭新的 v.勇敢面对"
+  },
+  {
+    "id": 97,
+    "day": 5,
+    "word_en": "bread",
+    "phonetic_en": "/bred/",
+    "word_cn": "n.面包；食物，粮食；生计"
+  },
+  {
+    "id": 98,
+    "day": 5,
+    "word_en": "break",
+    "phonetic_en": "/breɪk/",
+    "word_cn": "v.打破（断、碎）；损坏，撕开"
+  },
+  {
+    "id": 99,
+    "day": 5,
+    "word_en": "breakfast",
+    "phonetic_en": "/ˈbrekfəst/",
+    "word_cn": "n.早餐"
+  },
+  {
+    "id": 100,
+    "day": 5,
+    "word_en": "breath",
+    "phonetic_en": "/breθ/",
+    "word_cn": "n.气息；呼吸"
+  }
+]

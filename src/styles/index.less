@@ -1,0 +1,98 @@
+@import url("./lib/tailwind.css");
+
+/* global */
+html,
+body,
+#root,
+.ant-app {
+  height: 100%;
+  margin: 0 auto !important;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+body {
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  position: relative;
+
+  // -webkit-user-select: none;
+  // user-select: none;
+  touch-callout: none;
+  -webkit-touch-callout: none;
+}
+
+/* scroll bar */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+/* Hide the number input spinner */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+  /* Firefox */
+}
+
+/* nprogress */
+#nprogress .bar {
+  background: #7DBCF9 !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #7DBCF9 !important;
+  border-left-color: #7DBCF9 !important;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #7DBCF9, 0 0 5px #7DBCF9 !important;
+}
+
+// antd
+.adm-tab-bar-wrap {
+  height: 100%;
+}
+
+.adm-nav-bar-back-arrow {
+  font-size: inherit !important;
+}
+
+.adm-tab-bar-item-active {
+  color: #171717 !important;
+}
+
+.adm-tab-bar-item {
+  color: #B0B0B0;
+  font-size: 24px !important;
+}
+
+.ant-collapse-content-box {
+  padding: 10px !important;
+}
+
+.ant-breadcrumb {
+  font-size: 20px !important;
+}
+.ant-breadcrumb a {
+  height: 100% !important;
+}

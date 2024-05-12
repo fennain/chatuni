@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "Sentenc": 1,
+    "topic": "Sentence 01",
+    "content": [
+      {
+        "Sentence": 1,
+        "word_en": "The more people follow an idea, the better or truer we think the idea is.",
+        "word_cn": "遵循某种想法的人越多，我们就会认为这个想法越好或越真实。"
+      },
+      {
+        "Sentence": 1,
+        "word_en": "people",
+        "phonetic_en": "[pi:pl]",
+        "n.": "n.",
+        "word_cn": "人，人们；人民；民众；国民；民族"
+      },
+      {
+        "Sentence": 1,
+        "word_en": "follow",
+        "phonetic_en": "['fbləu]",
+        "n.": "v.",
+        "word_cn": "跟随；接着；遵照，听从；听懂，领会"
+      },
+      {
+        "Sentence": 1,
+        "word_en": "idea",
+        "phonetic_en": "[ar'drə]",
+        "n.": "n.",
+        "word_cn": "想法，主意；意见，看法；概念\n记联想记忆"
+      },
+      {
+        "Sentence": 1,
+        "word_en": "true",
+        "phonetic_en": "[tru:]",
+        "n.": "adj.",
+        "word_cn": "真实的，确实的；真正的，真的"
+      },
+      {
+        "Sentence": 1,
+        "word_en": "think",
+        "phonetic_en": "[θiŋk]",
+        "n.": "v.",
+        "word_cn": "认为，以为；想，思索；想要，打算"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Sentenc": 2,
+    "topic": "Sentence 02",
+    "content": [
+      {
+        "Sentence": 2,
+        "word_en": "Animal experts may not call it lying,but they do agreethat many animals behave dishonestly to fool otheranimals.",
+        "word_cn": "动物专家可能不会称之为撒谎，但他们确实同意，许多动物做出不诚实的行为，是为了愚弄其他动物。"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "animal",
+        "phonetic_en": "[æniml]",
+        "n.": "n./adj.",
+        "word_cn": "n动物，兽，牲畜adj.动物的；肉体的"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "expert",
+        "phonetic_en": "['eksp3:t]",
+        "n.": "n.",
+        "word_cn": "专家，行家"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "lie",
+        "phonetic_en": "[lar]",
+        "n.": "n.",
+        "word_cn": "谎言"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "agree",
+        "phonetic_en": "[ə'gri:]",
+        "n.": "v.",
+        "word_cn": "同意"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "behave",
+        "phonetic_en": "[br'heiv]",
+        "n.": "vi.",
+        "word_cn": "行为；表现记词根记忆"
+      },
+      {
+        "Sentence": 2,
+        "word_en": "fool",
+        "phonetic_en": "[fu:l]",
+        "n.": "vt./n.",
+        "word_cn": "vt.欺骗，愚弄n.蠢人，笨蛋"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Sentenc": 3,
+    "topic": "Sentence 03",
+    "content": [
+      {
+        "Sentence": 3,
+        "word_en": "Making choices can often be difficult for many peoplesince they often over-complicate very simple decisions.",
+        "word_cn": "对许多人而言，做出选择往往是困难的，因为他们通常会使非常简单的决定过于复杂化。"
+      },
+      {
+        "Sentence": 3,
+        "word_en": "choice",
+        "phonetic_en": "[tʃ]rs]",
+        "n.": "n.",
+        "word_cn": "选择，抉择；选择权"
+      },
+      {
+        "Sentence": 3,
+        "word_en": "difficult",
+        "phonetic_en": "['drfrkəlt]",
+        "n.": "adj.",
+        "word_cn": "难的；艰难的；不易相处的"
+      },
+      {
+        "Sentence": 3,
+        "word_en": "over complicate",
+        "phonetic_en": "[,əuvə(r)'komplikert]",
+        "n.": "vt.",
+        "word_cn": "使过于复杂化"
+      },
+      {
+        "Sentence": 3,
+        "word_en": "simple",
+        "phonetic_en": "['sImpl]",
+        "n.": "adj.",
+        "word_cn": "简单的；简易的；朴素的；纯粹的；普通的"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Sentenc": 4,
+    "topic": "Sentence 04",
+    "content": [
+      {
+        "Sentence": 4,
+        "word_en": "The moveable type printing,the compass,gun powderand the paper-making are called four great inventionsof China.",
+        "word_cn": "活字印刷术、指南针、火药和造纸术被称作“中国四大发明”。"
+      },
+      {
+        "Sentence": 4,
+        "word_en": "moveable",
+        "phonetic_en": "['mu:vəbl]",
+        "n.": "adj.",
+        "word_cn": "可移动的；活动的"
+      },
+      {
+        "Sentence": 4,
+        "word_en": "printing",
+        "phonetic_en": "['printiŋ]",
+        "n.": "n.",
+        "word_cn": "印刷(术)器"
+      },
+      {
+        "Sentence": 4,
+        "word_en": "compass",
+        "phonetic_en": "['kʌmpəs]",
+        "n.": "n.",
+        "word_cn": "指南针，罗盘；圆规；范围，界限"
+      },
+      {
+        "Sentence": 4,
+        "word_en": "powder",
+        "phonetic_en": "['paudə(r)]",
+        "n.": "n.",
+        "word_cn": "粉末；细面"
+      },
+      {
+        "Sentence": 4,
+        "word_en": "invention",
+        "phonetic_en": "[in'venʃn]",
+        "n.": "n.",
+        "word_cn": "发明，创造"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Sentenc": 5,
+    "topic": "Sentence 05",
+    "content": [
+      {
+        "Sentence": 5,
+        "word_en": "Sometimes people pollute the water or overfish,so theway that all the living things are joined together hasbeen changed.",
+        "word_cn": "有时人们会污染水源或过度捕捞，所以所有生物被连接在一起的方式已经改变了。"
+      },
+      {
+        "Sentence": 5,
+        "word_en": "pollute",
+        "phonetic_en": "[pə'lu:t]",
+        "n.": "vt.",
+        "word_cn": "污染"
+      },
+      {
+        "Sentence": 5,
+        "word_en": "water",
+        "phonetic_en": "[wɔ:tə(r)]",
+        "n.": "n.",
+        "word_cn": "水"
+      },
+      {
+        "Sentence": 5,
+        "word_en": "overfish",
+        "phonetic_en": "[,əuvə'frʃ]",
+        "n.": "vt.",
+        "word_cn": "对…进行过度捕捞"
+      },
+      {
+        "Sentence": 5,
+        "word_en": "join",
+        "phonetic_en": "[dʒɔin]",
+        "n.": "v.",
+        "word_cn": "连接；参加，加入"
+      },
+      {
+        "Sentence": 5,
+        "word_en": "change",
+        "phonetic_en": "[tʃeindʒ]",
+        "n.": "vt.",
+        "word_cn": "改变；更"
+      }
+    ]
+  }
+]

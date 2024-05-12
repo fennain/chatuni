@@ -1,0 +1,3625 @@
+[
+  {
+    "lesson": 1,
+    "topic": "Polite Phrases",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "Yes.",
+        "word_zh": "是",
+        "options": [
+          { "en": "No", "zh": "不是" },
+          { "en": "Please", "zh": "请" },
+          { "en": "Thank you", "zh": "谢谢" },
+          { "en": "Yes.", "zh": "是" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "No.",
+        "word_zh": "不是",
+        "options": [
+          { "en": "Yes", "zh": "是" },
+          { "en": "Thank you", "zh": "谢谢" },
+          { "en": "Please", "zh": "请" },
+          { "en": "No.", "zh": "不是" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Please.",
+        "word_zh": "请",
+        "options": [
+          { "en": "Thank you", "zh": "谢谢" },
+          { "en": "Yes", "zh": "是" },
+          { "en": "No", "zh": "不是" },
+          { "en": "Please.", "zh": "请" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Thank you.",
+        "word_zh": "谢谢",
+        "options": [
+          { "en": "Please", "zh": "请" },
+          { "en": "No", "zh": "不是" },
+          { "en": "Yes", "zh": "是" },
+          { "en": "Thank you.", "zh": "谢谢" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Tea",
+        "word_zh": "茶",
+        "options": [
+          { "en": "Yes", "zh": "是" },
+          { "en": "No", "zh": "不是" },
+          { "en": "Please", "zh": "请" },
+          { "en": "Tea", "zh": "茶" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, please.",
+        "word_zh": "是，请",
+        "options": [
+          { "en": "Yes.", "zh": "是" },
+          { "en": "No.", "zh": "不是" },
+          { "en": "Tea, please.", "zh": "茶, 请." },
+          { "en": "Yes, please.", "zh": "是，请" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Yes, thank you.",
+        "word_zh": "是, 谢谢.",
+        "options": [
+          { "en": "Yes, please.", "zh": "是, 请." },
+          { "en": "No, thank you.", "zh": "不是, 谢谢." },
+          { "en": "No.", "zh": "不是" },
+          { "en": "Yes, thank you.", "zh": "是, 谢谢." }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, thank you.",
+        "word_zh": "不是, 谢谢.",
+        "options": [
+          { "en": "Yes, thank you.", "zh": "是, 谢谢." },
+          { "en": "Yes, please.", "zh": "是, 请." },
+          { "en": "Tea, please.", "zh": "茶, 请." },
+          { "en": "No, thank you.", "zh": "不是, 谢谢." }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Tea, please.",
+        "word_zh": "茶, 请.",
+        "options": [
+          { "en": "Yes, please.", "zh": "是, 请." },
+          { "en": "Thank you.", "zh": "谢谢" },
+          { "en": "Please.", "zh": "请" },
+          { "en": "Tea, please.", "zh": "茶, 请." }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "topic": "Introductions",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "This is Ava.",
+        "word_zh": "这是艾娃.",
+        "options": [
+          { "en": "This is Ava.", "zh": "这是艾娃." },
+          { "en": "I am Ava.", "zh": "我是艾娃." },
+          { "en": "I am Emma.", "zh": "我是艾玛." },
+          { "en": "This is Ava.", "zh": "这是艾娃." }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "This is Jacob.",
+        "word_zh": "我是雅各布.",
+        "options": [
+          { "en": "I am Jacob.", "zh": "我是雅各布." },
+          { "en": "I am Noah.", "zh": "我是诺亚." },
+          { "en": "This is Noah.", "zh": "这是诺亚." },
+          { "en": "This is Jacob.", "zh": "我是雅各布." }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I am Emma",
+        "word_zh": "我是艾玛.",
+        "options": [
+          { "en": "This is Ava.", "zh": "这是艾娃." },
+          { "en": "I am Ava.", "zh": "我是艾娃." },
+          { "en": "This is Emma.", "zh": "这是艾玛." },
+          { "en": "I am Emma", "zh": "我是艾玛." }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Hello, Emma.",
+        "word_zh": "你好, 艾玛.",
+        "options": [
+          { "en": "Hello, Ava.", "zh": "你好, 艾娃." },
+          { "en": "I am Ava.", "zh": "我是艾娃." },
+          { "en": "This is Ava.", "zh": "这是艾娃." },
+          { "en": "Hello, Emma.", "zh": "你好, 艾玛." }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Nice to meet you.",
+        "word_zh": "很高兴见到你",
+        "options": [
+          { "en": "This is Emma.", "zh": "这是艾玛." },
+          { "en": "Hello, Noah.", "zh": "你好, 诺亚." },
+          { "en": "Hello.", "zh": "你好" },
+          { "en": "Nice to meet you.", "zh": "很高兴见到你" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Hello, Noah.",
+        "word_zh": "你好, 诺亚.",
+        "options": [
+          { "en": "Hello, Emma.", "zh": "你好, 艾玛." },
+          { "en": "Hello, Ava.", "zh": "你好, 艾娃." },
+          { "en": "Hello, Jacob.", "zh": "你好, 雅各布." },
+          { "en": "Hello, Noah.", "zh": "你好, 诺亚." }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Hello, nice to meet you.",
+        "word_zh": "你好, 很高兴见到你.",
+        "options": [
+          { "en": "Yes, hello.", "zh": "是, 你好." },
+          { "en": "I am Ava.", "zh": "我是艾娃." },
+          { "en": "This is Noah.", "zh": "这是诺亚." },
+          { "en": "Hello, nice to meet you.", "zh": "你好, 很高兴见到你." }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Thank you, Ava.",
+        "word_zh": "谢谢, 艾娃.",
+        "options": [
+          { "en": "Thank you, Emma.", "zh": "谢谢, 艾玛." },
+          { "en": "Hello, Emma.", "zh": "你好, 艾玛." },
+          { "en": "Hello, Ava.", "zh": "你好, 艾娃." },
+          { "en": "Thank you, Ava.", "zh": "谢谢, 艾娃." }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Yes, I am Ava.",
+        "word_zh": "是, 我是艾娃.",
+        "options": [
+          { "en": "No, I am Emma.", "zh": "不是, 我是艾玛." },
+          { "en": "Yes, I am Emma.", "zh": "是, 我是." },
+          { "en": "No, I am Ava.", "zh": "不是, 我是艾娃." },
+          { "en": "Yes, I am Ava.", "zh": "是, 我是艾娃." }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Nce to meet you, Ava.",
+        "word_zh": "很高兴见到你, 艾娃.",
+        "options": [
+          { "en": "Thank you, Ava.", "zh": "谢谢, 艾娃." },
+          { "en": "I am Emma.", "zh": "我是艾玛." },
+          { "en": "Hello, Ava.", "zh": "你好, 艾娃." },
+          { "en": "Nce to meet you, Ava.", "zh": "很高兴见到你, 艾娃." }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "topic": "Introductions 2",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "My name is Sophia.",
+        "word_zh": "我的名字叫索菲亚.",
+        "options": [
+          { "en": "My name is Oliver.", "zh": "我的名字叫奥利弗." },
+          { "en": "My name is Sarah.", "zh": "我的名字叫莎拉." },
+          { "en": "My name is Emma.", "zh": "我的名字叫艾玛." },
+          { "en": "My name is Sophia.", "zh": "我的名字叫索菲亚." }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "Hi, Sophia.",
+        "word_zh": "嗨, 索菲亚.",
+        "options": [
+          { "en": "Hi, Emma.", "zh": "嗨, 艾玛." },
+          { "en": "Hello, Emma.", "zh": "你好, 艾玛." },
+          { "en": "Hello, Sophia.", "zh": "你好, 索菲亚." },
+          { "en": "Hi, Sophia.", "zh": "嗨, 索菲亚." }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "What is your name?",
+        "word_zh": "你叫什么名字？",
+        "options": [
+          { "en": "Nice to meet you.", "zh": "很高兴见到你我的名字叫莎拉." },
+          { "en": "My name is Sarah.", "zh": "我是莎拉." },
+          { "en": "I am Sarah.", "zh": "你叫什么名字？" },
+          { "en": "What is your name?" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "My name is Ava.",
+        "word_zh": "我的名字叫艾娃.",
+        "options": [
+          { "en": "My name is Sophia.", "zh": "我的名字叫索菲亚." },
+          { "en": "My name is Emma.", "zh": "我的名字叫艾玛." },
+          { "en": "My name is Sarah.", "zh": "我的名字叫莎拉." },
+          { "en": "My name is Ava.", "zh": "我的名字叫艾娃." }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Nice to meet you, Ava.",
+        "word_zh": "很高兴见到你, 艾娃.",
+        "options": [
+          { "en": "Nice to meet you.", "zh": "很高兴见到你" },
+          { "en": "What is your name?", "zh": "你叫什么名字？" },
+          { "en": "My name is Ava.", "zh": "我的名字叫艾娃." },
+          { "en": "Nice to meet you, Ava.", "zh": "很高兴见到你, 艾娃." }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Are you Oliver?",
+        "word_zh": "你是奥利弗吗？",
+        "options": [
+          { "en": "Are you Emma?", "zh": "你是艾玛吗?" },
+          { "en": "I am Emma.", "zh": "我是艾玛." },
+          { "en": "I am Oliver.", "zh": "我是奥利弗." },
+          { "en": "Are you Oliver?", "zh": "你是奥利弗吗？" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Yes, I am Oliver.",
+        "word_zh": "是, 我是奥利弗.",
+        "options": [
+          { "en": "Are you Oliver?", "zh": "你是奥利弗吗？" },
+          { "en": "Are you Emma?", "zh": "你是艾玛吗?" },
+          { "en": "Yes, I am Emma.", "zh": "是, 我是艾玛." },
+          { "en": "Yes, I am Oliver.", "zh": "是, 我是奥利弗." }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Is your name Sophia?",
+        "word_zh": "你叫索菲亚吗？",
+        "options": [
+          { "en": "What is your name?", "zh": "你叫什么名字？" },
+          { "en": "Is your name Oliver?", "zh": "你叫奥利弗吗？" },
+          { "en": "My name is Sophia.", "zh": "我的名字叫索菲亚." },
+          { "en": "Is your name Sophia?", "zh": "你叫索菲亚吗？" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "No, my name is Sarah.",
+        "word_zh": "不是, 我的名字是莎拉.",
+        "options": [
+          { "en": "Yes, my name is Sarah.", "zh": "是, 我的名字叫莎拉." },
+          { "en": "Yes, my name is Sophia.", "zh": "是, 我的名字叫索菲亚." },
+          { "en": "No, my name is Emma.", "zh": "不是, 我的名字叫艾玛." },
+          { "en": "No, my name is Sarah.", "zh": "不是, 我的名字是莎拉." }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Hi, Sarah.",
+        "word_zh": "嗨, 莎拉.",
+        "options": [
+          { "en": "Hello, Sarah.", "zh": "你好, 莎拉." },
+          { "en": "I am Sarah.", "zh": "我是莎拉." },
+          { "en": "This is Sarah.", "zh": "这是莎拉." },
+          { "en": "Hi, Sarah.", "zh": "嗨, 莎拉." }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "topic": "Nationality",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I am Chinese.",
+        "word_zh": "我是中国人。",
+        "options": [
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "I am Chinese.", "zh": "我是中国人。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I am American.",
+        "word_zh": "我是美国人。",
+        "options": [
+          { "en": "I am Chinese.", "zh": "我是中国人。" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "I am American.", "zh": "我是美国人。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Are you Chinese?",
+        "word_zh": "你是中国人吗？",
+        "options": [
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "I am Chinese.", "zh": "我是中国人。" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Yes, I am Chinese.",
+        "word_zh": "是, 我是中国人。",
+        "options": [
+          { "en": "Yes, I am American.", "zh": "是, 我是美国人。." },
+          { "en": "No, I am American.", "zh": "不是, 我是美国人." },
+          { "en": "No, I am Chinese.", "zh": "不是, 我是中国人。" },
+          { "en": "Yes, I am Chinese.", "zh": "是, 我是中国人。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Are you American?",
+        "word_zh": "你是美国人吗？",
+        "options": [
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "I am Chinese.", "zh": "我是中国人。" },
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "Are you American?", "zh": "你是美国人吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "No, I am Chinese.",
+        "word_zh": "不是, 我是中国人。",
+        "options": [
+          { "en": "Yes, I am Chinese.", "zh": "是, 我是中国人。" },
+          { "en": "Yes, I am American.", "zh": "是, 我是美国人。" },
+          { "en": "No, I am American.", "zh": "不是, 我是美国人。" },
+          { "en": "No, I am Chinese.", "zh": "不是, 我是中国人。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are you from America?",
+        "word_zh": "你来自美国吗?",
+        "options": [
+          { "en": "Are you from China?", "zh": "你是从中国来的吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Are you from America?", "zh": "你来自美国吗?" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, I am from China.",
+        "word_zh": "不是, 我来自中国。",
+        "options": [
+          { "en": "I am from America.", "zh": "我来自美国。" },
+          { "en": "Are you from America?", "zh": "你来自美国吗？" },
+          { "en": "Yes, I am Chinese.", "zh": "是, 我是中国人。" },
+          { "en": "No, I am from China.", "zh": "不是, 我来自中国。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are you from China?",
+        "word_zh": "你是从中国来的吗？",
+        "options": [
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "Are you from America?", "zh": "你来自美国吗？" },
+          { "en": "Are you from China?", "zh": "你是从中国来的吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, I am from China.",
+        "word_zh": "是, 我来自中国。",
+        "options": [
+          { "en": "No, I am from China.", "zh": "不是, 我来自中国。" },
+          { "en": "Yes, I am from America.", "zh": "是, 我来自美国。" },
+          { "en": "No, I am from America.", "zh": "不是, 我来自美国。" },
+          { "en": "Yes, I am from China.", "zh": "是, 我来自中国。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "topic": "To Be (Verb)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "He is Chinese.",
+        "word_zh": "他是中国人。",
+        "options": [
+          { "en": "She is Chinese.", "zh": "她是中国人。" },
+          { "en": "He is American.", "zh": "他是美国人。" },
+          { "en": "She is American.", "zh": "她是美国人。" },
+          { "en": "He is Chinese.", "zh": "他是中国人。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "She is American.",
+        "word_zh": "她是美国人。",
+        "options": [
+          { "en": "He is American.", "zh": "他是美国人。" },
+          { "en": "She is Chinese.", "zh": "她是中国人。" },
+          { "en": "He is Chinese.", "zh": "他是中国人。" },
+          { "en": "She is American.", "zh": "她是美国人。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Is she Chinese?",
+        "word_zh": "她是中国人吗？",
+        "options": [
+          { "en": "Is he Chinese?", "zh": "他是中国人吗？" },
+          { "en": "Is he American?", "zh": "他是美国人吗？" },
+          { "en": "Is she American?", "zh": "她是美国人吗？" },
+          { "en": "Is she Chinese?", "zh": "她是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Yes, she is Chinese.",
+        "word_zh": "是, 她是中国人.",
+        "options": [
+          { "en": "Yes, she is American.", "zh": "是, 她是美国人。" },
+          { "en": "Yes, he is Chinese.", "zh": "是, 他是中国人。" },
+          { "en": "Yes, he is American.", "zh": "是, 他是美国人。" },
+          { "en": "Yes, she is Chinese.", "zh": "是, 她是中国人." }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Is he Chinese?",
+        "word_zh": "他是中国人吗？",
+        "options": [
+          { "en": "Is he American?", "zh": "他是美国人吗？" },
+          { "en": "Is she American?", "zh": "她是美国人吗？" },
+          { "en": "Is she Chinese?", "zh": "她是中国人吗？" },
+          { "en": "Is he Chinese?", "zh": "他是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "No, he is American.",
+        "word_zh": "不是, 他是美国人。",
+        "options": [
+          { "en": "No, he is Chinese.", "zh": "不是, 他是中国人。" },
+          { "en": "No, she is American.", "zh": "不是, 她是美国人。" },
+          { "en": "No, she is Chinese.", "zh": "不是, 她是中国人。" },
+          { "en": "No, he is American.", "zh": "不是, 他是美国人。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Is he nice?",
+        "word_zh": "他好吗？",
+        "options": [
+          { "en": "Is she nice?", "zh": "她很好吗？" },
+          { "en": "Is he Chinese?", "zh": "他是中国人吗？" },
+          { "en": "Is she American?", "zh": "她是美国人吗？" },
+          { "en": "Is he nice?", "zh": "他好吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Yes, he is nice.",
+        "word_zh": "是, 他很好。",
+        "options": [
+          { "en": "Yes, she is nice.", "zh": "是, 她人很好。" },
+          { "en": "Yes, she is Chinese.", "zh": "是, 她是中国人。" },
+          { "en": "Yes, he is Chinese.", "zh": "是, 他是中国人。" },
+          { "en": "Yes, he is nice.", "zh": "是, 他很好。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Is she from China?",
+        "word_zh": "她来自中国吗？",
+        "options": [
+          { "en": "Is he from China?", "zh": "他是中国人吗？" },
+          { "en": "Is she Chinese?", "zh": "她是中国人吗？" },
+          { "en": "Is he Chinese?", "zh": "他是中国人吗？" },
+          { "en": "Is she from China?", "zh": "她来自中国吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, she is from China.",
+        "word_zh": "是, 她来自中国。",
+        "options": [
+          { "en": "Yes, he is from China.", "zh": "是, 他来自中国。" },
+          { "en": "Yes, he is nice.", "zh": "是, 他很好。" },
+          { "en": "Yes, she is nice.", "zh": "是, 她人很好。" },
+          { "en": "Yes, she is from China.", "zh": "是, 她来自中国。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "topic": "To Be (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "They are Chinese.",
+        "word_zh": "他们是中国人。",
+        "options": [
+          { "en": "They are teachers.", "zh": "他们是老师。" },
+          { "en": "They are students.", "zh": "他们是学生。" },
+          { "en": "They are American.", "zh": "他们是美国人。" },
+          { "en": "They are Chinese.", "zh": "他们是中国人。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "They are American.",
+        "word_zh": "他们是美国人。",
+        "options": [
+          { "en": "They are teachers.", "zh": "他们是老师。" },
+          { "en": "They are Chinese.", "zh": "他们是中国人。" },
+          { "en": "They are students.", "zh": "他们是学生。" },
+          { "en": "They are American.", "zh": "他们是美国人。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Are they students?",
+        "word_zh": "他们是学生吗？",
+        "options": [
+          { "en": "Are they teachers?", "zh": "他们是老师吗？" },
+          { "en": "Are they Chinese?", "zh": "他们是中国人吗？" },
+          { "en": "Are they American?", "zh": "他们是美国人吗？" },
+          { "en": "Are they students?", "zh": "他们是学生吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Yes, they are students.",
+        "word_zh": "是, 他们是学生。",
+        "options": [
+          { "en": "Yes, they are teachers.", "zh": "是, 他们是老师。" },
+          { "en": "Yes, they are Chinese.", "zh": "是, 他们是中国人。" },
+          { "en": "Yes, they are American.", "zh": "是, 他们是美国人。" },
+          { "en": "Yes, they are students.", "zh": "是, 他们是学生。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Are they teachers?",
+        "word_zh": "他们是老师吗？",
+        "options": [
+          { "en": "Are they students?", "zh": "他们是学生吗？" },
+          { "en": "Are they American?", "zh": "他们是美国人吗？" },
+          { "en": "Are they Chinese?", "zh": "他们是中国人吗？" },
+          { "en": "Are they teachers?", "zh": "他们是老师吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "No, they are students.",
+        "word_zh": "不是, 他们是学生。",
+        "options": [
+          { "en": "No, they are teachers.", "zh": "不是, 他们是老师。" },
+          { "en": "Yes, they are teachers.", "zh": "是, 他们是老师。" },
+          { "en": "Yes, they are students.", "zh": "是, 他们是学生。" },
+          { "en": "No, they are students.", "zh": "不是, 他们是学生。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are they Chinese?",
+        "word_zh": "他们是中国人吗？",
+        "options": [
+          { "en": "Are they American?", "zh": "他们是美国人吗？" },
+          { "en": "Are they teachers?", "zh": "他们是老师吗？" },
+          { "en": "Are they students?", "zh": "他们是学生吗？" },
+          { "en": "Are they Chinese?", "zh": "他们是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, they are American.",
+        "word_zh": "不是, 他们是美国人。",
+        "options": [
+          { "en": "No, they are Chinese.", "zh": "不是, 他们是中国人。" },
+          { "en": "Yes, they are students.", "zh": "是, 他们是学生。" },
+          { "en": "Yes, they are teachers.", "zh": "是, 他们是老师。" },
+          { "en": "No, they are American.", "zh": "不是, 他们是美国人。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are they nice?",
+        "word_zh": "他们好吗？",
+        "options": [
+          { "en": "Are they teachers?", "zh": "他们是老师吗？" },
+          { "en": "Are they Chinese?", "zh": "他们是中国人吗？" },
+          { "en": "Are they students?", "zh": "他们是学生吗？" },
+          { "en": "Are they nice?", "zh": "他们好吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, they are nice.",
+        "word_zh": "是, 他们很好。",
+        "options": [
+          { "en": "Yes, they are teachers.", "zh": "是, 他们是老师。" },
+          { "en": "Yes, they are Chinese.", "zh": "是, 他们是中国人。" },
+          { "en": "Yes, they are students.", "zh": "是, 他们是学生。" },
+          { "en": "Yes, they are nice.", "zh": "是, 他们很好。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "topic": "To Be (Pt. 3)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "We are Chinese.",
+        "word_zh": "我们是中国人。",
+        "options": [
+          { "en": "We are American.", "zh": "我们是美国人。" },
+          { "en": "We are students.", "zh": "我们是学生。" },
+          { "en": "We are ready.", "zh": "我们准备好了。" },
+          { "en": "We are Chinese.", "zh": "我们是中国人。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "We are ready.",
+        "word_zh": "我们准备好了。",
+        "options": [
+          { "en": "We are Chinese.", "zh": "我们是中国人。" },
+          { "en": "We are American.", "zh": "我们是美国人。" },
+          { "en": "We are nice.", "zh": "我们很好。" },
+          { "en": "We are ready.", "zh": "我们准备好了。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Are you Chinese?",
+        "word_zh": "你是中国人吗？",
+        "options": [
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" },
+          { "en": "Are you students?", "zh": "你们是学生吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Yes, we are Chinese.",
+        "word_zh": "是, 我们是中国人。",
+        "options": [
+          { "en": "Yes, we are American.", "zh": "是, 我们是美国人。" },
+          { "en": "Yes, we are students.", "zh": "是, 我们是学生。" },
+          { "en": "Yes, we are ready.", "zh": "是, 我们准备好了。" },
+          { "en": "Yes, we are Chinese.", "zh": "是, 我们是中国人。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Are you ready?",
+        "word_zh": "你准备好了吗？",
+        "options": [
+          { "en": "Are you students?", "zh": "你们是学生吗？" },
+          { "en": "Are you teachers?", "zh": "你们是老师吗？" },
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, we are ready.",
+        "word_zh": "是, 我们准备好了。",
+        "options": [
+          { "en": "Yes, we are nice.", "zh": "是, 我们很好。" },
+          { "en": "Yes, we are students.", "zh": "是, 我们是学生。" },
+          { "en": "Yes, we are Chinese.", "zh": "是, 我们是中国人。" },
+          { "en": "Yes, we are ready.", "zh": "是, 我们准备好了。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are you from America?",
+        "word_zh": "你来自美国吗？",
+        "options": [
+          { "en": "Are you from China?", "zh": "你是从中国来的吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" },
+          { "en": "Are you students?", "zh": "你们是学生吗？" },
+          { "en": "Are you from America?", "zh": "你来自美国吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, we are from China.",
+        "word_zh": "不是, 我们来自中国。",
+        "options": [
+          { "en": "No, we are from America.", "zh": "不是, 我们来自美国。" },
+          { "en": "No, we are students.", "zh": "不是, 我们是学生。" },
+          { "en": "Yes, we are Chinese.", "zh": "是, 我们是中国人。" },
+          { "en": "No, we are from China.", "zh": "不是, 我们来自中国。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are you students?",
+        "word_zh": "你们是学生吗？",
+        "options": [
+          { "en": "Are you teachers?", "zh": "你们是老师吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" },
+          { "en": "Are you students?", "zh": "你们是学生吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, we are students.",
+        "word_zh": "是, 我们是学生。",
+        "options": [
+          { "en": "Yes, we are teachers.", "zh": "是, 我们是老师。" },
+          { "en": "Yes, we are ready.", "zh": "是, 我们准备好了。" },
+          { "en": "Yes, we are American.", "zh": "是, 我们是美国人。" },
+          { "en": "Yes, we are students.", "zh": "是, 我们是学生。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "topic": "Adjectives",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "He is funny.",
+        "word_zh": "他很幽默。",
+        "options": [
+          { "en": "He is young.", "zh": "他很幽默。" },
+          { "en": "He is smart.", "zh": "他很年轻。" },
+          { "en": "He is happy.", "zh": "他很聪明。" },
+          { "en": "He is funny.", "zh": "他很高兴。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "She is smart.",
+        "word_zh": "她很聪明。",
+        "options": [
+          { "en": "She is funny.", "zh": "她很聪明。" },
+          { "en": "She is nice.", "zh": "她人很好。" },
+          { "en": "She is happy.", "zh": "她很开心。" },
+          { "en": "She is smart.", "zh": "她很聪明。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "We are smart.",
+        "word_zh": "我们很聪明。",
+        "options": [
+          { "en": "We are young.", "zh": "我们很聪明。" },
+          { "en": "We are happy.", "zh": "我们很开心。" },
+          { "en": "We are nice.", "zh": "我们很好。" },
+          { "en": "We are smart.", "zh": "我们很聪明。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Are you happy?",
+        "word_zh": "你快乐吗？",
+        "options": [
+          { "en": "Is she happy?", "zh": "你快乐吗？" },
+          { "en": "Is she smart?", "zh": "她聪明吗？" },
+          { "en": "Are they smart?", "zh": "他们聪明吗？" },
+          { "en": "Are you happy?", "zh": "你快乐吗？" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Yes, I am happy.",
+        "word_zh": "是, 我很开心。",
+        "options": [
+          { "en": "Yes, we are happy.", "zh": "是, 我很开心。" },
+          { "en": "Yes, we are smart.", "zh": "是, 我们很聪明。" },
+          { "en": "Yes, I am smart.", "zh": "是, 我很聪明。" },
+          { "en": "Yes, I am happy." }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, we are happy.",
+        "word_zh": "是, 我们很开心。",
+        "options": [
+          { "en": "Yes, I am happy.", "zh": "是, 我很开心。" },
+          { "en": "Yes, we are smart.", "zh": "是, 我们很聪明。" },
+          { "en": "Yes, I am smart.", "zh": "是, 我很聪明。" },
+          { "en": "Yes, we are happy." }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Is he smart?",
+        "word_zh": "他聪明吗？",
+        "options": [
+          { "en": "Is he funny?", "zh": "他聪明吗？" },
+          { "en": "Is she smart?", "zh": "她聪明吗？" },
+          { "en": "Is she funny?", "zh": "她有趣吗？" },
+          { "en": "Is he smart?", "zh": "他聪明吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Yes, he is smart.",
+        "word_zh": "是, 他很聪明。",
+        "options": [
+          { "en": "Yes, she is smart.", "zh": "是, 他很聪明。" },
+          { "en": "Yes, he is nice.", "zh": "是, 他很好。" },
+          { "en": "Yes, she is nice.", "zh": "是, 她人很好。" },
+          { "en": "Yes, he is smart.", "zh": "是, 他很聪明。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are they funny?",
+        "word_zh": "他们有趣吗？",
+        "options": [
+          { "en": "Are they nice?", "zh": "他们好吗？" },
+          { "en": "Are you smart?", "zh": "你聪明吗？" },
+          { "en": "Are you nice?", "zh": "你好吗？" },
+          { "en": "Are they funny?", "zh": "他们有趣吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, they are funny.",
+        "word_zh": "是, 他们很有趣。",
+        "options": [
+          { "en": "Yes, they are nice.", "zh": "是, 他们很好。" },
+          { "en": "Yes, we are funny.", "zh": "是, 我们很有趣。" },
+          { "en": "Yes, we are nice.", "zh": "是, 我们很好。" },
+          { "en": "Yes, they are funny.", "zh": "是, 他们很有趣。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "topic": "Adjectives (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I am hungry.",
+        "word_zh": "我饿了。",
+        "options": [
+          { "en": "I am thirsty.", "zh": "我饿了。" },
+          { "en": "I am tired.", "zh": "我渴了。" },
+          { "en": "I am happy.", "zh": "我累了。" },
+          { "en": "I am hungry.", "zh": "我很开心。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I am thirsty.",
+        "word_zh": "我渴了。",
+        "options": [
+          { "en": "I am ready.", "zh": "我渴了。" },
+          { "en": "I am tired.", "zh": "我累了。" },
+          { "en": "I am hungry.", "zh": "我饿了。" },
+          { "en": "I am thirsty.", "zh": "我渴了。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I am tired.",
+        "word_zh": "我累了。",
+        "options": [
+          { "en": "I am thirsty.", "zh": "我累了。" },
+          { "en": "I am hungry.", "zh": "我饿了。" },
+          { "en": "I am happy.", "zh": "我很开心。" },
+          { "en": "I am tired.", "zh": "我累了。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I am tired and hungry.",
+        "word_zh": "我又累又饿。",
+        "options": [
+          { "en": "I am tired and thirsty.", "zh": "我又累又饿。" },
+          { "en": "I am hungry and tired.", "zh": "我又累又渴。" },
+          { "en": "I am thirsty and tired.", "zh": "我又饿又累。" },
+          { "en": "I am tired and hungry.", "zh": "我又渴又累。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "She is smart and funny.",
+        "word_zh": "她聪明又有趣。",
+        "options": [
+          { "en": "She is funny and smart.", "zh": "她聪明又有趣。" },
+          { "en": "She is young and smart.", "zh": "她很有趣又聪明。" },
+          { "en": "She is hungry and tired.", "zh": "她年轻又聪明。" },
+          { "en": "She is smart and funny.", "zh": "她又饿又累。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "He is young and smart.",
+        "word_zh": "他年轻又聪明。",
+        "options": [
+          { "en": "He is smart and funny.", "zh": "他年轻又聪明。" },
+          { "en": "He is tired and hungry.", "zh": "他又累又饿。" },
+          { "en": "He is smart and happy.", "zh": "他很聪明，也很快乐。" },
+          { "en": "He is young and smart.", "zh": "他年轻又聪明。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are you tired?",
+        "word_zh": "你累了吗？",
+        "options": [
+          { "en": "Are you thirsty?", "zh": "你口渴吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" },
+          { "en": "Are you happy?", "zh": "你快乐吗？" },
+          { "en": "Are you tired?", "zh": "你累了吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Yes, we are tired.",
+        "word_zh": "是, 我们累了。",
+        "options": [
+          { "en": "Yes, we are thirsty.", "zh": "是, 我们累了。" },
+          { "en": "Yes, we are ready.", "zh": "是, 我们准备好了。" },
+          { "en": "Yes, we are happy.", "zh": "是, 我们很开心。" },
+          { "en": "Yes, we are tired.", "zh": "是, 我们累了。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are you ready?",
+        "word_zh": "你准备好了吗？",
+        "options": [
+          { "en": "Are you happy?", "zh": "你准备好了吗？" },
+          { "en": "Are you tired?", "zh": "你累了吗？" },
+          { "en": "Are you thirsty?", "zh": "你口渴吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, I am ready.",
+        "word_zh": "是, 我已经准备好了。",
+        "options": [
+          { "en": "Yes, I am thirsty.", "zh": "是, 我渴了。" },
+          { "en": "Yes, I am happy.", "zh": "是, 我很开心。" },
+          { "en": "Yes, I am tired.", "zh": "是, 我累了。" },
+          { "en": "Yes, I am ready.", "zh": "是, 我已经准备好了。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "topic": "Pronouns",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "Is Noah American?",
+        "word_zh": "诺亚是美国人吗?",
+        "options": [
+          { "en": "Is Ava American?", "zh": "艾娃是美国人吗？" },
+          { "en": "Is Noah funny?", "zh": "诺亚有趣吗？" },
+          { "en": "Is Ava funny?", "zh": "艾娃有趣吗？" },
+          { "en": "Is Noah American?", "zh": "诺亚是美国人吗?" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "Yes, he is American.",
+        "word_zh": "是, 他是美国人。",
+        "options": [
+          { "en": "Yes, she is funny.", "zh": "是, 她很有趣。" },
+          { "en": "Yes, she is American.", "zh": "是, 她是美国人。" },
+          { "en": "Yes, he is funny.", "zh": "是, 他很幽默。" },
+          { "en": "Yes, he is American.", "zh": "是, 他是美国人。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Is Ava Chinese?",
+        "word_zh": "艾娃是中国人吗？",
+        "options": [
+          { "en": "Is Ava American?", "zh": "艾娃是美国人吗？" },
+          { "en": "Is Noah American?", "zh": "诺亚是美国人吗？" },
+          { "en": "Is Noah Chinese?", "zh": "诺亚是中国人吗？" },
+          { "en": "Is Ava Chinese?", "zh": "艾娃是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "No, she is American.",
+        "word_zh": "不是, 她是美国人。",
+        "options": [
+          { "en": "No, they are American.", "zh": "不是, 他们是美国人。" },
+          { "en": "No, we are American.", "zh": "不是, 我们是美国人。" },
+          { "en": "No, he is American.", "zh": "不是, 他是美国人。" },
+          { "en": "No, she is American.", "zh": "不是, 她是美国人。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Are Ava and Noah smart?",
+        "word_zh": "艾娃和诺亚聪明吗？",
+        "options": [
+          { "en": "Are Ava and Noah Chinese?", "zh": "艾娃和诺亚是中国人吗？" },
+          { "en": "Are Ava and Noah funny?", "zh": "艾娃和诺亚有趣吗？" },
+          { "en": "Are Ava and Noah tired?", "zh": "艾娃和诺亚累了吗？" },
+          { "en": "Are Ava and Noah smart?", "zh": "艾娃和诺亚聪明吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, they are smart.",
+        "word_zh": "是, 他们很聪明。",
+        "options": [
+          { "en": "Yes, he is smart.", "zh": "是, 他很聪明。" },
+          { "en": "Yes, she is smart.", "zh": "是, 她很聪明。" },
+          { "en": "Yes, I am smart.", "zh": "是, 我很聪明。" },
+          { "en": "Yes, they are smart.", "zh": "是, 他们很聪明。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are Ava and Noah teachers?",
+        "word_zh": "艾娃和诺亚是老师吗？",
+        "options": [
+          { "en": "Are Ava and Noah students?", "zh": "艾娃和诺亚是学生吗？" },
+          { "en": "Are Ava and Noah Chinese?", "zh": "艾娃和诺亚是中国人吗？" },
+          { "en": "Are Ava and Noah smart?", "zh": "艾娃和诺亚聪明吗？" },
+          { "en": "Are Ava and Noah teachers?", "zh": "艾娃和诺亚是老师吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, they are students.",
+        "word_zh": "不是, 他们是学生。",
+        "options": [
+          { "en": "No, we are students.", "zh": "不是, 我们是学生。" },
+          { "en": "No, they are teachers.", "zh": "不是, 他们是老师。" },
+          { "en": "No, we are teachers.", "zh": "不是, 我们是老师。" },
+          { "en": "No, they are students.", "zh": "不是, 他们是学生。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Is Ava happy?",
+        "word_zh": "艾娃开心吗？",
+        "options": [
+          { "en": "Is Ava smart?", "zh": "艾娃聪明吗？" },
+          { "en": "Is Ava funny?", "zh": "艾娃有趣吗？" },
+          { "en": "Is Ava tired?", "zh": "艾娃累了吗？" },
+          { "en": "Is Ava happy?", "zh": "艾娃开心吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, she is happy.",
+        "word_zh": "是, 她很开心。",
+        "options": [
+          { "en": "Yes, he is happy.", "zh": "是, 他很高兴。" },
+          { "en": "Yes, we are happy.", "zh": "是, 我们很开心。" },
+          { "en": "Yes, they are happy.", "zh": "是, 他们很开心。" },
+          { "en": "Yes, she is happy.", "zh": "是, 她很开心。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "topic": "To Like",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I like tea.",
+        "word_zh": "我喜欢茶。",
+        "options": [
+          { "en": "She likes chocolate.", "zh": "她喜欢巧克力。" },
+          { "en": "They like chocolate.", "zh": "他们喜欢巧克力。" },
+          { "en": "We like tea.", "zh": "我们喜欢茶。" },
+          { "en": "I like tea.", "zh": "我喜欢茶。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "She likes chocolate.",
+        "word_zh": "她喜欢巧克力。",
+        "options": [
+          { "en": "They like chocolate.", "zh": "他们喜欢巧克力。" },
+          { "en": "I like tea.", "zh": "我喜欢茶。" },
+          { "en": "We like tea.", "zh": "我们喜欢茶。" },
+          { "en": "She likes chocolate.", "zh": "她喜欢巧克力。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "We like tea.",
+        "word_zh": "我们喜欢茶。",
+        "options": [
+          { "en": "She likes chocolate.", "zh": "她喜欢巧克力。" },
+          { "en": "I like tea.", "zh": "我喜欢茶。" },
+          { "en": "I like tea.", "zh": "我喜欢茶。" },
+          { "en": "We like tea.", "zh": "我们喜欢茶。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "They like chocolate.",
+        "word_zh": "他们喜欢巧克力。",
+        "options": [
+          { "en": "We like tea.", "zh": "我们喜欢茶。" },
+          { "en": "I like tea.", "zh": "我喜欢茶。" },
+          { "en": "She likes chocolate.", "zh": "她喜欢巧克力。" },
+          { "en": "They like chocolate.", "zh": "他们喜欢巧克力。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Does he like tea?",
+        "word_zh": "他喜欢喝茶吗？",
+        "options": [
+          { "en": "Does she like tea?", "zh": "她喜欢喝茶吗？" },
+          { "en": "Do you like tea?", "zh": "你喜欢喝茶吗？" },
+          { "en": "Do they like tea?", "zh": "他们喜欢喝茶吗？" },
+          { "en": "Does he like tea?", "zh": "他喜欢喝茶吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, he likes tea.",
+        "word_zh": "是的，他喜欢喝茶。",
+        "options": [
+          { "en": "Yes, we like tea.", "zh": "是的，我们喜欢茶。" },
+          { "en": "Yes, she likes tea.", "zh": "是的，她喜欢喝茶。" },
+          { "en": "Yes, they like tea.", "zh": "是的，他们喜欢茶。" },
+          { "en": "Yes, he likes tea.", "zh": "是的，他喜欢喝茶。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Do you like chocolate?",
+        "word_zh": "你喜欢巧克力吗？",
+        "options": [
+          { "en": "Does he like chocolate?", "zh": "他喜欢巧克力吗？" },
+          { "en": "Does he like tea?", "zh": "他喜欢喝茶吗？" },
+          { "en": "Do you like tea?", "zh": "你喜欢喝茶吗？" },
+          { "en": "Do you like chocolate?", "zh": "你喜欢巧克力吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Yes, I like chocolate.",
+        "word_zh": "是的，我喜欢巧克力。",
+        "options": [
+          { "en": "Yes, he likes chocolate.", "zh": "是的，他喜欢巧克力。" },
+          { "en": "Yes, she likes tea.", "zh": "是的，她喜欢喝茶。" },
+          { "en": "Yes, they like tea.", "zh": "是的，他们喜欢茶。" },
+          { "en": "Yes, I like chocolate.", "zh": "是的，我喜欢巧克力。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Does she like tea?",
+        "word_zh": "她喜欢喝茶吗？",
+        "options": [
+          { "en": "He likes tea.", "zh": "他喜欢喝茶。" },
+          { "en": "Does he like tea?", "zh": "他喜欢喝茶吗？" },
+          { "en": "She likes tea.", "zh": "她喜欢喝茶。" },
+          { "en": "Does she like tea?", "zh": "她喜欢喝茶吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, she likes tea.",
+        "word_zh": "是的，她喜欢喝茶。",
+        "options": [
+          { "en": "Yes, he likes tea.", "zh": "是的，他喜欢喝茶。" },
+          { "en": "Yes, they like tea.", "zh": "是的，他们喜欢茶。" },
+          { "en": "Yes, I like tea.", "zh": "是的，我喜欢茶。" },
+          { "en": "Yes, she likes tea.", "zh": "是的，她喜欢喝茶。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "topic": "Negation (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I do not like broccoli.",
+        "word_zh": "我不喜欢西兰花。",
+        "options": [
+          { "en": "I like broccoli.", "zh": "我喜欢西兰花。" },
+          { "en": "I do not like coffee.", "zh": "我不喜欢咖啡。" },
+          { "en": "I like coffee.", "zh": "我喜欢咖啡。" },
+          { "en": "I do not like broccoli.", "zh": "我不喜欢西兰花。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I do not like coffee.",
+        "word_zh": "我不喜欢咖啡。",
+        "options": [
+          { "en": "I like broccoli.", "zh": "我喜欢西兰花。" },
+          { "en": "I like coffee.", "zh": "我喜欢咖啡。" },
+          { "en": "I do not like broccoli.", "zh": "我不喜欢西兰花。" },
+          { "en": "I do not like coffee.", "zh": "我不喜欢咖啡。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I am not American.",
+        "word_zh": "我不是美国人。",
+        "options": [
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "I am ready.", "zh": "我已经准备好了。" },
+          { "en": "I am not ready.", "zh": "我还没准备好。" },
+          { "en": "I am not American.", "zh": "我不是美国人。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I am not ready.",
+        "word_zh": "我还没准备好。",
+        "options": [
+          { "en": "I am not American.", "zh": "我不是美国人。" },
+          { "en": "I am ready.", "zh": "我已经准备好了。" },
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "I am not ready.", "zh": "我还没准备好。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Do you like tea?",
+        "word_zh": "你喜欢喝茶吗？",
+        "options": [
+          { "en": "Do you like chocolate?", "zh": "你喜欢巧克力吗？" },
+          { "en": "Does she like coffee?", "zh": "她喜欢咖啡吗？" },
+          { "en": "Do you like broccoli?", "zh": "你喜欢西兰花吗？" },
+          { "en": "Do you like tea?", "zh": "你喜欢喝茶吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I do not like tea.",
+        "word_zh": "我不喜欢喝茶。",
+        "options": [
+          { "en": "I like tea.", "zh": "我喜欢茶。" },
+          { "en": "I like coffee.", "zh": "我喜欢咖啡。" },
+          { "en": "I do not like broccoli.", "zh": "我不喜欢西兰花。" },
+          { "en": "I do not like tea.", "zh": "我不喜欢喝茶。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Are you Chinese?",
+        "word_zh": "你是中国人吗？",
+        "options": [
+          { "en": "Are you American?", "zh": "你是美国人吗？" },
+          { "en": "Do you like tea?", "zh": "你喜欢喝茶吗？" },
+          { "en": "Do you like coffee?", "zh": "你喜欢咖啡吗？" },
+          { "en": "Are you Chinese?", "zh": "你是中国人吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I am not Chinese.",
+        "word_zh": "我不是中国人。",
+        "options": [
+          { "en": "I am not American.", "zh": "我不是美国人。" },
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "I am Chinese.", "zh": "我是中国人。" },
+          { "en": "I am not Chinese.", "zh": "我不是中国人。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are you ready?",
+        "word_zh": "你准备好了吗？",
+        "options": [
+          { "en": "Is she ready?", "zh": "她准备好了吗？" },
+          { "en": "Are they ready?", "zh": "他们准备好了吗？" },
+          { "en": "Are we ready?", "zh": "我们准备好了吗？" },
+          { "en": "Are you ready?", "zh": "你准备好了吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I am not ready.",
+        "word_zh": "我还没准备好。",
+        "options": [
+          { "en": "I am ready.", "zh": "我已经准备好了。" },
+          { "en": "I am American.", "zh": "我是美国人。" },
+          { "en": "I am not American.", "zh": "我不是美国人。" },
+          { "en": "I am not ready.", "zh": "我还没准备好。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "topic": "Negation (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "She does not like rice.",
+        "word_zh": "她不喜欢米饭。",
+        "options": [
+          { "en": "She likes rice.", "zh": "她喜欢米饭。" },
+          { "en": "She likes noodles.", "zh": "她喜欢面条。" },
+          { "en": "She does not like noodles.", "zh": "她不喜欢面条。" },
+          { "en": "She does not like rice.", "zh": "她不喜欢米饭。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "He does not like noodles.",
+        "word_zh": "他不喜欢面条。",
+        "options": [
+          { "en": "He does not like rice.", "zh": "他不喜欢米饭。" },
+          { "en": "He likes rice.", "zh": "他喜欢米饭。" },
+          { "en": "He likes noodles.", "zh": "他喜欢面条。" },
+          { "en": "He does not like noodles.", "zh": "他不喜欢面条。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "She does not like coffee.",
+        "word_zh": "她不喜欢咖啡。",
+        "options": [
+          { "en": "She likes coffee.", "zh": "她喜欢咖啡。" },
+          { "en": "She likes broccoli.", "zh": "她喜欢西兰花。" },
+          { "en": "She does not like broccoli.", "zh": "她不喜欢西兰花。" },
+          { "en": "She does not like coffee.", "zh": "她不喜欢咖啡。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "He does not like broccoli.",
+        "word_zh": "他不喜欢西兰花。",
+        "options": [
+          { "en": "He likes broccoli.", "zh": "他喜欢西兰花。" },
+          { "en": "He likes chocolate.", "zh": "他喜欢巧克力。" },
+          { "en": "He does not like chocolate.", "zh": "他不喜欢巧克力。" },
+          { "en": "He does not like broccoli.", "zh": "他不喜欢西兰花。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "She is not American.",
+        "word_zh": "她不是美国人。",
+        "options": [
+          { "en": "She is American.", "zh": "她是美国人。" },
+          { "en": "He is not Chinese.", "zh": "他不是中国人。" },
+          { "en": "He is Chinese.", "zh": "他是中国人。" },
+          { "en": "She is not American.", "zh": "她不是美国人。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "He is not Chinese.",
+        "word_zh": "他不是中国人。",
+        "options": [
+          { "en": "He is American.", "zh": "他是美国人。" },
+          { "en": "She is not American.", "zh": "她不是美国人。" },
+          { "en": "She is Chinese.", "zh": "她是中国人。" },
+          { "en": "He is not Chinese.", "zh": "他不是中国人。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "She is not hungry.",
+        "word_zh": "她不饿。",
+        "options": [
+          { "en": "He is not ready.", "zh": "他还没有准备好。" },
+          { "en": "He is ready.", "zh": "他已经准备好了。" },
+          { "en": "She is hungry.", "zh": "她饿了。" },
+          { "en": "She is not hungry.", "zh": "她不饿。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "He is not ready.",
+        "word_zh": "他还没有准备好。",
+        "options": [
+          { "en": "He is ready.", "zh": "他已经准备好了。" },
+          { "en": "She is not hungry.", "zh": "她不饿。" },
+          { "en": "She is hungry.", "zh": "她饿了。" },
+          { "en": "He is not ready.", "zh": "他还没有准备好。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "She does not like noodles.",
+        "word_zh": "她不喜欢面条。",
+        "options": [
+          { "en": "She lkes noodles.", "zh": "她喜欢吃面条。" },
+          { "en": "She does not like rice.", "zh": "她不喜欢米饭。" },
+          { "en": "She likes rice.", "zh": "她喜欢米饭。" },
+          { "en": "She does not like noodles.", "zh": "她不喜欢面条。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "He is not happy.",
+        "word_zh": "他不高兴。",
+        "options": [
+          { "en": "He is happy.", "zh": "他很高兴。" },
+          { "en": "She is ready.", "zh": "她准备好了。" },
+          { "en": "She is not ready.", "zh": "她还没有准备好。" },
+          { "en": "He is not happy.", "zh": "他不高兴。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "topic": "Colors (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I like brown rice.",
+        "word_zh": "我喜欢糙米。",
+        "options": [
+          { "en": "I like white rice.", "zh": "我喜欢白米饭。" },
+          { "en": "I like green tea.", "zh": "我喜欢绿茶。" },
+          { "en": "I like black tea.", "zh": "我喜欢红茶。" },
+          { "en": "I like brown rice.", "zh": "我喜欢糙米。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I like white rice.",
+        "word_zh": "我喜欢白米饭。",
+        "options": [
+          { "en": "I like black tea.", "zh": "我喜欢红茶。" },
+          { "en": "I like green tea.", "zh": "我喜欢绿茶。" },
+          { "en": "I like brown rice.", "zh": "我喜欢糙米。" },
+          { "en": "I like white rice.", "zh": "我喜欢白米饭。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "She likes green tea.",
+        "word_zh": "她喜欢绿茶。",
+        "options": [
+          { "en": "She likes brown rice.", "zh": "她喜欢糙米。" },
+          { "en": "He likes black tea.", "zh": "他喜欢红茶。" },
+          { "en": "He likes white rice.", "zh": "他喜欢白米饭。" },
+          { "en": "She likes green tea.", "zh": "她喜欢绿茶。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "He likes black tea.",
+        "word_zh": "他喜欢红茶。",
+        "options": [
+          { "en": "She likes brown rice.", "zh": "她喜欢糙米。" },
+          { "en": "He likes green tea.", "zh": "他喜欢绿茶。" },
+          { "en": "She likes white rice.", "zh": "她喜欢白米饭。" },
+          { "en": "He likes black tea.", "zh": "他喜欢红茶。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "He does not like brown rice.",
+        "word_zh": "他不喜欢糙米。",
+        "options": [
+          { "en": "He does not like green tea.", "zh": "他不喜欢绿茶。" },
+          { "en": "He does not like black tea.", "zh": "他不喜欢红茶。" },
+          { "en": "He does not like white rice.", "zh": "他不喜欢白米饭。" },
+          { "en": "He does not like brown rice.", "zh": "他不喜欢糙米。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "She does not like white rice.",
+        "word_zh": "她不喜欢白米饭。",
+        "options": [
+          { "en": "She does not like black tea.", "zh": "她不喜欢红茶。" },
+          { "en": "She does not like green tea.", "zh": "她不喜欢绿茶。" },
+          { "en": "She does not like brown rice.", "zh": "她不喜欢糙米。" },
+          { "en": "She does not like white rice.", "zh": "她不喜欢白米饭。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "I do not like green tea.",
+        "word_zh": "我不喜欢绿茶。",
+        "options": [
+          { "en": "I do not like brown rice.", "zh": "我不喜欢糙米。" },
+          { "en": "I do not like white rice.", "zh": "我不喜欢白米饭。" },
+          { "en": "I do not like black tea.", "zh": "我不喜欢红茶。" },
+          { "en": "I do not like green tea.", "zh": "我不喜欢绿茶。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I do not like black tea.",
+        "word_zh": "我不喜欢红茶。",
+        "options": [
+          { "en": "I do not like brown rice.", "zh": "我不喜欢糙米。" },
+          { "en": "I do not like white rice.", "zh": "我不喜欢白米饭。" },
+          { "en": "I do not like green tea.", "zh": "我不喜欢绿茶。" },
+          { "en": "I do not like black tea.", "zh": "我不喜欢红茶。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "She likes brown rice.",
+        "word_zh": "她喜欢糙米。",
+        "options": [
+          { "en": "She likes green tea.", "zh": "她喜欢绿茶。" },
+          { "en": "She does not like white rice.", "zh": "她不喜欢白米饭。" },
+          { "en": "She does not like black tea.", "zh": "她不喜欢红茶。" },
+          { "en": "She likes brown rice.", "zh": "她喜欢糙米。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I like green tea.",
+        "word_zh": "我喜欢绿茶。",
+        "options": [
+          { "en": "I like black tea.", "zh": "我喜欢红茶。" },
+          { "en": "I do not like black tea.", "zh": "我不喜欢红茶。" },
+          { "en": "I do not like green tea.", "zh": "我不喜欢绿茶。" },
+          { "en": "I like green tea.", "zh": "我喜欢绿茶。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 15,
+    "topic": "To have (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I have brown hair.",
+        "word_zh": "我有褐色的头发。",
+        "options": [
+          { "en": "He has brown hair.", "zh": "他有棕色的头发。" },
+          { "en": "She has brown hair.", "zh": "她有棕色的头发。" },
+          { "en": "They have brown hair.", "zh": "他们有棕色的头发。" },
+          { "en": "I have brown hair.", "zh": "我有褐色的头发。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "She has black hair.",
+        "word_zh": "她有一头黑发。",
+        "options": [
+          { "en": "He has black hair.", "zh": "他有一头黑发。" },
+          { "en": "You have black hair.", "zh": "你有一头黑发。" },
+          { "en": "I have black hair.", "zh": "我有黑头发。" },
+          { "en": "She has black hair.", "zh": "她有一头黑发。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I have green eyes.",
+        "word_zh": "我有一双绿色的眼睛。",
+        "options": [
+          { "en": "He has green eyes.", "zh": "他有绿色的眼睛。" },
+          { "en": "We have green eyes.", "zh": "我们有绿色的眼睛。" },
+          { "en": "She has green eyes.", "zh": "她有绿色的眼睛。" },
+          { "en": "I have green eyes.", "zh": "我有一双绿色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "He has brown eyes.",
+        "word_zh": "他有棕色的眼睛。",
+        "options": [
+          { "en": "They have brown eyes.", "zh": "他们有棕色的眼睛。" },
+          { "en": "She has brown eyes.", "zh": "她拥有棕色眼睛。" },
+          { "en": "I have brown eyes.", "zh": "我有棕色的眼睛。" },
+          { "en": "He has brown eyes.", "zh": "他有棕色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "They have green eyes.",
+        "word_zh": "他们有绿色的眼睛。",
+        "options": [
+          { "en": "They have brown hair.", "zh": "他们有棕色的头发。" },
+          { "en": "He has green eyes.", "zh": "他有绿色的眼睛。" },
+          { "en": "He has brown hair.", "zh": "他有棕色的头发。" },
+          { "en": "They have green eyes.", "zh": "他们有绿色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "We have green eyes.",
+        "word_zh": "我们有绿色的眼睛。",
+        "options": [
+          { "en": "We have brown hair.", "zh": "我们有棕色的头发。" },
+          { "en": "She has green eyes.", "zh": "她有绿色的眼睛。" },
+          { "en": "She has brown hair.", "zh": "她有棕色的头发。" },
+          { "en": "We have green eyes.", "zh": "我们有绿色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "I have black hair.",
+        "word_zh": "我有黑头发。",
+        "options": [
+          { "en": "She has brown hair.", "zh": "她有棕色的头发。" },
+          { "en": "He has black hair.", "zh": "他有一头黑发。" },
+          { "en": "You have brown hair.", "zh": "你有一头棕色的头发。" },
+          { "en": "I have black hair.", "zh": "我有黑头发。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "You have brown hair.",
+        "word_zh": "你有一头棕色的头发。",
+        "options": [
+          { "en": "I have brown hair.", "zh": "我有褐色的头发。" },
+          { "en": "I have black hair.", "zh": "我有黑头发。" },
+          { "en": "He has brown hair.", "zh": "他有棕色的头发。" },
+          { "en": "You have brown hair.", "zh": "你有一头棕色的头发。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "He has brown eyes.",
+        "word_zh": "他有棕色的眼睛。",
+        "options": [
+          { "en": "She has green eyes.", "zh": "她有绿色的眼睛。" },
+          { "en": "They have green eyes.", "zh": "他们有绿色的眼睛。" },
+          { "en": "I have brown eyes.", "zh": "我有棕色的眼睛。" },
+          { "en": "He has brown eyes.", "zh": "他有棕色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "They have black hair.",
+        "word_zh": "他们有黑色的头发。",
+        "options": [
+          { "en": "He has black hair.", "zh": "他有一头黑发。" },
+          { "en": "We have black hair.", "zh": "我们有黑头发。" },
+          { "en": "She has black hair.", "zh": "她有一头黑发。" },
+          { "en": "They have black hair.", "zh": "他们有黑色的头发。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 16,
+    "topic": "To have (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "He has a cat.",
+        "word_zh": "他有一只猫。",
+        "options": [
+          { "en": "They have a cat.", "zh": "他们有一只猫。" },
+          { "en": "I have a cat.", "zh": "我有一只猫。" },
+          { "en": "She has a cat.", "zh": "她有一只猫。" },
+          { "en": "He has a cat.", "zh": "他有一只猫。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I have a dog.",
+        "word_zh": "我养了一条狗。",
+        "options": [
+          { "en": "You have a dog.", "zh": "你有一只狗。" },
+          { "en": "We have a dog.", "zh": "我们有一只狗。" },
+          { "en": "She has a dog.", "zh": "她有一只狗。" },
+          { "en": "I have a dog.", "zh": "我养了一条狗。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "She has a brother.",
+        "word_zh": "她有一个兄弟。",
+        "options": [
+          { "en": "She has a sister.", "zh": "她有一个妹妹。" },
+          { "en": "He has a brother.", "zh": "他有一个兄弟。" },
+          { "en": "He has a sister.", "zh": "他有一个妹妹。" },
+          { "en": "She has a brother.", "zh": "她有一个兄弟。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I have a sister.",
+        "word_zh": "我有一个妹妹。",
+        "options": [
+          { "en": "She has a sister.", "zh": "她有一个妹妹。" },
+          { "en": "He has a sister.", "zh": "他有一个妹妹。" },
+          { "en": "You have a sister.", "zh": "你有一个妹妹。" },
+          { "en": "I have a sister.", "zh": "我有一个妹妹。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I do not have a cat.",
+        "word_zh": "我没有猫。",
+        "options": [
+          { "en": "He does not have a sister.", "zh": "他没有妹妹。" },
+          { "en": "I do not have a sister.", "zh": "我没有妹妹。" },
+          { "en": "He does not have a cat.", "zh": "他没有猫。" },
+          { "en": "I do not have a cat.", "zh": "我没有猫。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "She does not have a dog.",
+        "word_zh": "她没有狗。",
+        "options": [
+          { "en": "He does not have a dog.", "zh": "他没有狗。" },
+          { "en": "We do not have a dog.", "zh": "我们没有狗。" },
+          { "en": "They do not have a dog.", "zh": "他们没有狗。" },
+          { "en": "She does not have a dog.", "zh": "她没有狗。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Do you have a sister?",
+        "word_zh": "你有妹妹吗？",
+        "options": [
+          { "en": "Does she have a sister?", "zh": "她有妹妹吗？" },
+          { "en": "Does he have a sister?", "zh": "他有妹妹吗？" },
+          { "en": "Do they have a sister?", "zh": "他们有妹妹吗？" },
+          { "en": "Do you have a sister?", "zh": "你有妹妹吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I do not have a sister.",
+        "word_zh": "他没有妹妹。",
+        "options": [
+          { "en": "She does not have a sister.", "zh": "她没有妹妹。" },
+          { "en": "She does not have a brother.", "zh": "她没有兄弟。" },
+          { "en": "He does not have a brother.", "zh": "他没有兄弟。" },
+          { "en": "I do not have a sister.", "zh": "他没有妹妹。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Does she have a dog?",
+        "word_zh": "她有狗吗？",
+        "options": [
+          { "en": "Does he have a cat?", "zh": "他有猫吗？" },
+          { "en": "Does he have a dog?", "zh": "他有狗吗？" },
+          { "en": " Does she have a cat?", "zh": "她有猫吗？" },
+          { "en": "Does she have a dog?", "zh": "她有狗吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Yes, she has a dog.",
+        "word_zh": "是的，她有一只狗。",
+        "options": [
+          { "en": "Yes, we have a dog.", "zh": "是的，我们有一只狗。" },
+          { "en": "Yes, he has a dog.", "zh": "是的，他有一只狗。" },
+          { "en": "Yes, I have a dog.", "zh": "是的，我有一只狗。" },
+          { "en": "Yes, she has a dog.", "zh": "是的，她有一只狗。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 17,
+    "topic": "Possessives (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "My cat is white.",
+        "word_zh": "我的猫是白色的。",
+        "options": [
+          { "en": "His cat is white.", "zh": "他的猫是白色的。" },
+          { "en": "Your cat is white.", "zh": "你的猫是白色的。" },
+          { "en": "Her cat is white.", "zh": "她的猫是白色的。" },
+          { "en": "My cat is white.", "zh": "我的猫是白色的。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "My dog is black.",
+        "word_zh": "我的狗是黑色的。",
+        "options": [
+          { "en": "Your dog is black.", "zh": "你的狗是黑色的。" },
+          { "en": "His dog is black.", "zh": "他的狗是黑色的。" },
+          { "en": "Her dog is black.", "zh": "她的狗是黑色的。" },
+          { "en": "My dog is black.", "zh": "我的狗是黑色的。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "His sister is smart.",
+        "word_zh": "他的妹妹很聪明。",
+        "options": [
+          { "en": "My sister is smart.", "zh": "我姐姐很聪明。" },
+          { "en": "Your sister is smart.", "zh": "你姐姐很聪明。" },
+          { "en": "Her sister is smart.", "zh": "她姐姐很聪明。" },
+          { "en": "His sister is smart.", "zh": "他的妹妹很聪明。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Her brother is happy.",
+        "word_zh": "她哥哥很高兴。",
+        "options": [
+          { "en": "Your brother is happy.", "zh": "你哥哥很高兴。" },
+          { "en": "My brother is happy.", "zh": "我哥哥很高兴。" },
+          { "en": "His brother is happy.", "zh": "他的兄弟很高兴。" },
+          { "en": "Her brother is happy.", "zh": "她哥哥很高兴。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Is your dog black?",
+        "word_zh": "你的狗是黑色的吗？",
+        "options": [
+          { "en": "Is her dog black?", "zh": "她的狗是黑色的吗？" },
+          { "en": "Is her cat black?", "zh": "她的猫是黑色的吗？" },
+          { "en": "Is your cat black?", "zh": "你的猫是黑色的吗？" },
+          { "en": "Is your dog black?", "zh": "你的狗是黑色的吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "No, my dog is brown.",
+        "word_zh": "不，我的狗是棕色的。",
+        "options": [
+          { "en": "No, her cat is white.", "zh": "不，她的猫是白色的。" },
+          { "en": "No, my cat is white.", "zh": "不，我的猫是白色的。" },
+          { "en": "No, her dog is brown.", "zh": "不，她的狗是棕色的。" },
+          { "en": "No, my dog is brown.", "zh": "不，我的狗是棕色的。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Is her cat white?",
+        "word_zh": "她的猫是白色的吗？",
+        "options": [
+          { "en": "Is my cat white?", "zh": "我的猫是白色的吗？" },
+          { "en": "Is your cat white?", "zh": "你的猫是白色的吗？" },
+          { "en": "Is his cat white?", "zh": "他的猫是白色的吗？" },
+          { "en": "Is her cat white?", "zh": "她的猫是白色的吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Yes, her cat is white.",
+        "word_zh": "是的，她的猫是白色的。",
+        "options": [
+          { "en": "Yes, your cat is white.", "zh": "是的，你的猫是白色的。" },
+          { "en": "Yes, my cat is white.", "zh": "是的，我的猫是白色的。" },
+          { "en": "Yes, his cat is white.", "zh": "是的，他的猫是白色的。" },
+          { "en": "Yes, her cat is white.", "zh": "是的，她的猫是白色的。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "His cat is hungry.",
+        "word_zh": "他的猫饿了。",
+        "options": [
+          { "en": "Her cat is hungry.", "zh": "她的猫饿了。" },
+          { "en": "My cat is black.", "zh": "我的猫是黑色的。" },
+          { "en": "Your cat is black.", "zh": "你的猫是黑色的。" },
+          { "en": "His cat is hungry.", "zh": "他的猫饿了。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Your dog is hungry.",
+        "word_zh": "你的狗饿了。",
+        "options": [
+          { "en": "My cat is brown.", "zh": "我的猫是棕色的。" },
+          { "en": "His dog is brown.", "zh": "他的狗是棕色的。" },
+          { "en": "Her cat is hungry.", "zh": "她的猫饿了。" },
+          { "en": "Your dog is hungry.", "zh": "你的狗饿了。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 18,
+    "topic": "Possessives (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "Our house is big.",
+        "word_zh": "我们的房子很大。",
+        "options": [
+          { "en": "Their house is big.", "zh": "他们的房子很大。" },
+          { "en": "Our dog is big.", "zh": "我们的狗很大。" },
+          { "en": "Their dog is big.", "zh": "他们的狗很大。" },
+          { "en": "Our house is big.", "zh": "我们的房子很大。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "Their house is big.",
+        "word_zh": "他们的房子很大。",
+        "options": [
+          { "en": "Our house is small.", "zh": "我们的房子很小。" },
+          { "en": "Our house is big.", "zh": "我们的房子很大。" },
+          { "en": "Their house is small.", "zh": "他们的房子很小。" },
+          { "en": "Their house is big.", "zh": "他们的房子很大。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Our dog is small.",
+        "word_zh": "我们的狗很小。",
+        "options": [
+          { "en": "Your dog is small.", "zh": "你的狗很小。" },
+          { "en": "His dog is small.", "zh": "他的狗很小。" },
+          { "en": "Their dog is small.", "zh": "他们的狗很小。" },
+          { "en": "Our dog is small.", "zh": "我们的狗很小。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Their dog is small.",
+        "word_zh": "他们的狗很小。",
+        "options": [
+          { "en": "Your dog is small.", "zh": "你的狗很小。" },
+          { "en": "Her dog is small.", "zh": "她的狗很小。" },
+          { "en": "My dog is small.", "zh": "我的狗很小。" },
+          { "en": "Their dog is small.", "zh": "他们的狗很小。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Our house is white.",
+        "word_zh": "我们的房子是白色的。",
+        "options": [
+          { "en": "Our house is big.", "zh": "我们的房子很大。" },
+          { "en": "Their house is white.", "zh": "他们的房子是白色的。" },
+          { "en": "Their house is big.", "zh": "他们的房子很大。" },
+          { "en": "Our house is white.", "zh": "我们的房子是白色的。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Their house is green.",
+        "word_zh": "他们的房子是绿色的。",
+        "options": [
+          { "en": "Our house is white.", "zh": "我们的房子是白色的。" },
+          { "en": "Her house is big.", "zh": "她的房子很大。" },
+          { "en": "My house is small.", "zh": "我的房子很小。" },
+          { "en": "Their house is green.", "zh": "他们的房子是绿色的。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Their cat is black.",
+        "word_zh": "他们的猫是黑色的。",
+        "options": [
+          { "en": "Her cat is white.", "zh": "她的猫是白色的。" },
+          { "en": "My cat is white.", "zh": "我的猫是白色的。" },
+          { "en": "Our cat is brown.", "zh": "我们的猫是棕色的。" },
+          { "en": "Their cat is black.", "zh": "他们的猫是黑色的。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "Our cat is white.",
+        "word_zh": "我们的猫是白色的。",
+        "options": [
+          { "en": "His cat is white.", "zh": "他的猫是白色的。" },
+          { "en": "My cat is black.", "zh": "我的猫是黑色的。" },
+          { "en": "Their cat is brown.", "zh": "他们的猫是棕色的。" },
+          { "en": "Our cat is white.", "zh": "我们的猫是白色的。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Is your house big?",
+        "word_zh": "你的房子大吗？",
+        "options": [
+          { "en": "Is their house big?", "zh": "他们的房子大吗？" },
+          { "en": "Is her house big?", "zh": "她家大吗？" },
+          { "en": "Is his house big?", "zh": "他家大吗？" },
+          { "en": "Is your house big?", "zh": "你的房子大吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "No, our house is small.",
+        "word_zh": "不，我们的房子很小。",
+        "options": [
+          { "en": "No, their house is small.", "zh": "不，他们的房子很小。" },
+          { "en": "No, their house is big.", "zh": "不，他们的房子很大。" },
+          { "en": "No, our house is big.", "zh": "不，我们的房子很大。" },
+          { "en": "No, our house is small.", "zh": "不，我们的房子很小。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 19,
+    "topic": "Colors (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "She has a red pencil.",
+        "word_zh": "她有一支红铅笔。",
+        "options": [
+          { "en": "She has a blue pencil.", "zh": "她有一支蓝色铅笔。" },
+          { "en": "She has a yellow pencil.", "zh": "她有一支黄色铅笔。" },
+          { "en": "She has a green pencil.", "zh": "她有一支绿色铅笔。" },
+          { "en": "She has a red pencil.", "zh": "她有一支红铅笔。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "He has a yellow notebook.",
+        "word_zh": "他有一本黄色笔记本。",
+        "options": [
+          { "en": "He has a green notebook.", "zh": "他有一本绿色的笔记本。" },
+          { "en": "He has a blue notebook.", "zh": "他有一本蓝色的笔记本。" },
+          { "en": "He has a white notebook.", "zh": "他有一个白色的笔记本。" },
+          { "en": "He has a yellow notebook.", "zh": "他有一本黄色笔记本。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Our house is blue.",
+        "word_zh": "我们的房子是蓝色的。",
+        "options": [
+          { "en": "Our house is yellow.", "zh": "我们的房子是黄色的。" },
+          { "en": "Our house is green.", "zh": "我们的房子是绿色的。" },
+          { "en": "Our house is red.", "zh": "我们的房子是红色的。" },
+          { "en": "Our house is blue.", "zh": "我们的房子是蓝色的。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "They have a red house.",
+        "word_zh": "他们有一座红色的房子。",
+        "options": [
+          { "en": "They have a blue house.", "zh": "他们有一座蓝色的房子。" },
+          { "en": "They have a white house.", "zh": "他们有一座白宫。" },
+          { "en": "They have a green house.", "zh": "他们有一座温室。" },
+          { "en": "They have a red house.", "zh": "他们有一座红色的房子。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "He has red hair.",
+        "word_zh": "他有一头红头发。",
+        "options": [
+          { "en": "She has brown hair.", "zh": "她有棕色的头发。" },
+          { "en": "She has red hair.", "zh": "她有红色的头发。" },
+          { "en": "He has brown hair.", "zh": "他有棕色的头发。" },
+          { "en": "He has red hair.", "zh": "他有一头红头发。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I have blue eyes.",
+        "word_zh": "我有蓝色的眼睛。",
+        "options": [
+          { "en": "She has blue eyes.", "zh": "她有一对蓝眼睛。" },
+          { "en": "I have green eyes.", "zh": "我有一双绿色的眼睛。" },
+          { "en": "She has green eyes.", "zh": "她有绿色的眼睛。" },
+          { "en": "I have blue eyes.", "zh": "我有蓝色的眼睛。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "My pencil is yellow.",
+        "word_zh": "我的铅笔是黄色的。",
+        "options": [
+          { "en": "My house is red.", "zh": "我的房子是红色的。" },
+          { "en": "My house is yellow.", "zh": "我的房子是黄色的。" },
+          { "en": "My pencil is red.", "zh": "我的铅笔是红色的。" },
+          { "en": "My pencil is yellow.", "zh": "我的铅笔是黄色的。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "My notebook is blue.",
+        "word_zh": "我的笔记本是蓝色的。",
+        "options": [
+          { "en": "My pencil is red.", "zh": "我的铅笔是红色的。" },
+          { "en": "My notebook is yellow.", "zh": "我的笔记本是黄色的。" },
+          { "en": "My pencil is green.", "zh": "我的铅笔是绿色的。" },
+          { "en": "My notebook is blue.", "zh": "我的笔记本是蓝色的。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "I have a blue notebook.",
+        "word_zh": "我有一个蓝色的笔记本。",
+        "options": [
+          { "en": "I have green eyes.", "zh": "我有一双绿色的眼睛。" },
+          { "en": "I have a red pencil.", "zh": "我有一支红铅笔。" },
+          { "en": "I have a white house.", "zh": "我有一座白色的房子。" },
+          { "en": "I have a blue notebook.", "zh": "我有一个蓝色的笔记本。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "Her house is yellow.",
+        "word_zh": "她的房子是黄色的。",
+        "options": [
+          { "en": "His house is red.", "zh": "他的房子是红色的。" },
+          { "en": "Her house is green.", "zh": "她的房子是绿色的。" },
+          { "en": "His house is blue.", "zh": "他的房子是蓝色的。" },
+          { "en": "Her house is yellow.", "zh": "她的房子是黄色的。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 20,
+    "topic": "Colors (Pt. 3)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "What color is your pencil?",
+        "word_zh": "你的铅笔是什么颜色的？",
+        "options": [
+          { "en": "What color are your eyes?", "zh": "你的眼睛是什么颜色的？" },
+          { "en": "What color is your hair?", "zh": "你的头发是什么颜色的？" },
+          { "en": "What color is your house?", "zh": "你的房子是什么颜色的？" },
+          { "en": "What color is your pencil?", "zh": "你的铅笔是什么颜色的？" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "My pencil is purple.",
+        "word_zh": "我的铅笔是紫色的。",
+        "options": [
+          { "en": "My pencil is blue.", "zh": "我的铅笔是蓝色的。" },
+          { "en": "My pencil is pink.", "zh": "我的铅笔是粉红色的。" },
+          { "en": "My pencil is red.", "zh": "我的铅笔是红色的。" },
+          { "en": "My pencil is purple.", "zh": "我的铅笔是紫色的。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "What color is your hair?",
+        "word_zh": "你的头发是什么颜色的？",
+        "options": [
+          { "en": "What color is your house?", "zh": "你的房子是什么颜色的？" },
+          { "en": "What color is your dog?", "zh": "你的狗是什么颜色的？" },
+          { "en": "What color are your eyes?", "zh": "你的眼睛是什么颜色的？" },
+          { "en": "What color is your hair?", "zh": "你的头发是什么颜色的？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "My hair is brown.",
+        "word_zh": "我的头发是咖啡色的。",
+        "options": [
+          { "en": "My hair is white.", "zh": "我的头发已经白了。" },
+          { "en": "My hair is red.", "zh": "我的头发是红色的。" },
+          { "en": "My hair is black.", "zh": "我的头发是黑色的。" },
+          { "en": "My hair is brown.", "zh": "我的头发是咖啡色的。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "What color are your eyes?",
+        "word_zh": "你的眼睛是什么颜色的？",
+        "options": [
+          { "en": "What color is your house?", "zh": "你的房子是什么颜色的？" },
+          { "en": "What color is your cat?", "zh": "你的猫是什么颜色的？" },
+          {
+            "en": "What color is your pencil?",
+            "zh": "你的铅笔是什么颜色的？"
+          },
+          { "en": "What color are your eyes?", "zh": "你的眼睛是什么颜色的？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "My eyes are blue.",
+        "word_zh": "我的眼睛是蓝色的。",
+        "options": [
+          { "en": "My eyes are green.", "zh": "我的眼睛是绿色的。" },
+          { "en": "My eyes are brown.", "zh": "我的眼睛是棕色的。" },
+          { "en": "My eyes are black.", "zh": "我的眼睛是黑色的。" },
+          { "en": "My eyes are blue.", "zh": "我的眼睛是蓝色的。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "What color are your notebooks?",
+        "word_zh": "你的笔记本是什么颜色的？",
+        "options": [
+          { "en": "What color are your eyes?", "zh": "你的眼睛是什么颜色的？" },
+          { "en": "What color is your house?", "zh": "你的房子是什么颜色的？" },
+          { "en": "What color is your hair?", "zh": "你的头发是什么颜色的？" },
+          {
+            "en": "What color are your notebooks?",
+            "zh": "你的笔记本是什么颜色的？"
+          }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "My notebooks are pink.",
+        "word_zh": "我的笔记本是粉红色的。",
+        "options": [
+          { "en": "My notebooks are blue.", "zh": "我的笔记本是蓝色的。" },
+          { "en": "My notebooks are purple.", "zh": "我的笔记本是紫色的。" },
+          { "en": "My notebooks are yellow.", "zh": "我的笔记本是黄色的。" },
+          { "en": "My notebooks are pink.", "zh": "我的笔记本是粉红色的。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "My house is pink.",
+        "word_zh": "我的房子是粉红色的。",
+        "options": [
+          { "en": "My house is purple.", "zh": "我家是紫色的。" },
+          { "en": "My house is red.", "zh": "我的房子是红色的。" },
+          { "en": "My house is white.", "zh": "我的房子是白色的。" },
+          { "en": "My house is pink.", "zh": "我的房子是粉红色的。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "My hair is purple.",
+        "word_zh": "我的头发是紫色的。",
+        "options": [
+          { "en": "My hair is green.", "zh": "我的头发是绿色的。" },
+          { "en": "My hair is blue.", "zh": "我的头发是蓝色的。" },
+          { "en": "My hair is pink.", "zh": "我的头发是粉红色的。" },
+          { "en": "My hair is purple.", "zh": "我的头发是紫色的。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 21,
+    "topic": "Pronouns (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "Is your hair brown?",
+        "word_zh": "你的头发是棕色的吗？",
+        "options": [
+          { "en": "Is your hair black?", "zh": "你的头发是黑的吗？" },
+          { "en": "Is your hair red?", "zh": "你的头发是红的吗？" },
+          { "en": "Is your hair white?", "zh": "你的头发白了吗？" },
+          { "en": "Is your hair brown?", "zh": "你的头发是棕色的吗？" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "No, it is black.",
+        "word_zh": "不，它是黑色的。",
+        "options": [
+          { "en": "No, it is red.", "zh": "不，它是红色的。" },
+          { "en": "No, it is brown.", "zh": "不，它是棕色的。" },
+          { "en": "No, it is white.", "zh": "不，它是白色的。" },
+          { "en": "No, it is black.", "zh": "不，它是黑色的。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "Are your eyes blue?",
+        "word_zh": "你的眼睛是蓝色的吗？",
+        "options": [
+          { "en": "Are your eyes green?", "zh": "你的眼睛是绿色的吗？" },
+          { "en": "Are your eyes brown?", "zh": "你的眼睛是棕色的吗？" },
+          { "en": "Are your eyes black?", "zh": "你的眼睛是黑色的吗？" },
+          { "en": "Are your eyes blue?", "zh": "你的眼睛是蓝色的吗？" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "Yes, they are blue.",
+        "word_zh": "是的，它们是蓝色的。",
+        "options": [
+          { "en": "Yes, they are brown.", "zh": "是的，它们是棕色的。" },
+          { "en": "Yes, they are black.", "zh": "是的，它们是黑色的。" },
+          { "en": "Yes, they are green.", "zh": "是的，它们是绿色的。" },
+          { "en": "Yes, they are blue.", "zh": "是的，它们是蓝色的。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "Is your house small?",
+        "word_zh": "你的房子小吗？",
+        "options": [
+          { "en": "Are your eyes brown?", "zh": "你的眼睛是棕色的吗？" },
+          { "en": "Is your house big?", "zh": "你的房子大吗？" },
+          { "en": "Are your eyes green?", "zh": "你的眼睛是绿色的吗？" },
+          { "en": "Is your house small?", "zh": "你的房子小吗？" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "Yes, it is small.",
+        "word_zh": "是的，它很小。",
+        "options": [
+          { "en": "Yes, they are green.", "zh": "是的，它们是绿色的。" },
+          { "en": "Yes, they are brown.", "zh": "是的，它们是棕色的。" },
+          { "en": "Yes, it is big.", "zh": "是的，它很大。" },
+          { "en": "Yes, it is small.", "zh": "是的，它很小。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "Is your notebook purple?",
+        "word_zh": "你的笔记本是紫色的吗？",
+        "options": [
+          { "en": "Are your notebooks red?", "zh": "你的笔记本是红色的吗？" },
+          { "en": "Are your notebooks green?", "zh": "你的笔记本是绿色的吗？" },
+          { "en": "Is your notebook blue?", "zh": "你的笔记本是蓝色的吗？" },
+          { "en": "Is your notebook purple?", "zh": "你的笔记本是紫色的吗？" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "No, it is pink.",
+        "word_zh": "不，它是粉红色的。",
+        "options": [
+          { "en": "No, they are yellow.", "zh": "不，它们是黄色的。" },
+          { "en": "No, it is white.", "zh": "不，它是白色的。" },
+          { "en": "No, they are brown.", "zh": "不，它们是棕色的。" },
+          { "en": "No, it is pink.", "zh": "不，它是粉红色的。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "Are your pencils green?",
+        "word_zh": "你的铅笔是绿色的吗？",
+        "options": [
+          { "en": "Is your pencil green?", "zh": "你的铅笔是绿色的吗？" },
+          { "en": "Are your notebooks red?", "zh": "你的笔记本是红色的吗？" },
+          { "en": "Is your notebook red?", "zh": "你的笔记本是红色的吗？" },
+          { "en": "Are your pencils green?", "zh": "你的铅笔是绿色的吗？" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "No, they are yellow.",
+        "word_zh": "不，它们是黄色的。",
+        "options": [
+          { "en": "No, it is purple.", "zh": "不，是紫色的。" },
+          { "en": "No, they are pink.", "zh": "不，它们是粉红色的。" },
+          { "en": "No, it is blue.", "zh": "不，它是蓝色的。" },
+          { "en": "No, they are yellow.", "zh": "不，它们是黄色的。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 22,
+    "topic": "Contractions (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I'm smart.",
+        "word_zh": "我很聪明。",
+        "options": [
+          { "en": "I am smart.", "zh": "我不聪明吗。" },
+          { "en": "You are smart.", "zh": "我准备好了。" },
+          { "en": "You're smart.", "zh": "我敢肯定。" },
+          { "en": "I'm smart.", "zh": "我很聪明。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I'm here.",
+        "word_zh": "我在这。",
+        "options": [
+          { "en": "I am here.", "zh": "我在那里。" },
+          { "en": "You're here.", "zh": "你肯定。" },
+          { "en": "You are here.", "zh": "你在哪里。" },
+          { "en": "I'm here.", "zh": "我在这。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I'm ready.",
+        "word_zh": "我准备好了。",
+        "options": [
+          { "en": "You are ready.", "zh": "我敢肯定。" },
+          { "en": "I am ready.", "zh": "我在这。" },
+          { "en": "You're ready.", "zh": "我很聪明。" },
+          { "en": "I'm ready.", "zh": "我准备好了。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I'm sure.",
+        "word_zh": "我敢肯定。",
+        "options": [
+          { "en": "You are sure.", "zh": "我准备好了。" },
+          { "en": "You're sure.", "zh": "我在这。" },
+          { "en": "I am sure.", "zh": "我很聪明。" },
+          { "en": "I'm sure.", "zh": "我敢肯定。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I'm Chinese.",
+        "word_zh": "你是中国人。",
+        "options": [
+          { "en": "You are Chinese.", "zh": "我是中国人吗。" },
+          { "en": "I am Chinese.", "zh": "我是美国人。" },
+          { "en": "You're Chinese.", "zh": "你是美国人吗？" },
+          { "en": "I'm Chinese.", "zh": "你是中国人。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "You're ready.",
+        "word_zh": "你准备好了。",
+        "options": [
+          { "en": "You are ready.", "zh": "你真聪明。" },
+          { "en": "I am ready.", "zh": "你确定。" },
+          { "en": "I'm ready.", "zh": "你在这里。" },
+          { "en": "You're ready.", "zh": "你准备好了。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "You're here.",
+        "word_zh": "你来了。",
+        "options": [
+          { "en": "I'm here.", "zh": "我在这里。" },
+          { "en": "I am here.", "zh": "我在那里。" },
+          { "en": "You are here.", "zh": "你在那里吗。" },
+          { "en": "You're here.", "zh": "你来了。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "You're American.",
+        "word_zh": "你是美国人。",
+        "options": [
+          { "en": "You're Chinese.", "zh": "你是中国人。" },
+          { "en": "I'm American.", "zh": "我是美国人。" },
+          { "en": "I am American.", "zh": "我是中国人。" },
+          { "en": "You're American.", "zh": "你是美国人。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "You're sure.",
+        "word_zh": "你确定。",
+        "options": [
+          { "en": "You are sure.", "zh": "你聪明。" },
+          { "en": "You're sure.", "zh": "我确定。" },
+          { "en": "I'm sure.", "zh": "我在这。" },
+          { "en": "I am sure.", "zh": "你确定。" },
+          { "en": "You're sure." }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "You're smart.",
+        "word_zh": "你很聪明。",
+        "options": [
+          { "en": "I am smart.", "zh": "我想想。" },
+          { "en": "I'm smart.", "zh": "我很聪明。" },
+          { "en": "You are smart.", "zh": "你不聪明。" },
+          { "en": "You're smart.", "zh": "你很聪明。" },
+          { "en": "You're smart." }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 23,
+    "topic": "Contractions (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "He's young.",
+        "word_zh": "他还年轻。",
+        "options": [
+          { "en": "He is young.", "zh": "他很有意思。" },
+          { "en": "She is young.", "zh": "他错了。" },
+          { "en": "She's young.", "zh": "他是对的。" },
+          { "en": "He's young.", "zh": "他还年轻。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "She's funny.",
+        "word_zh": "她很有趣。",
+        "options": [
+          { "en": "He is funny.", "zh": "她还年轻。" },
+          { "en": "He's funny.", "zh": "她错了。" },
+          { "en": "She's funny.", "zh": "她是对的。" },
+          { "en": "She's funny.", "zh": "她很有趣。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "He's right.",
+        "word_zh": "他是对的。",
+        "options": [
+          { "en": "He is right.", "zh": "他错了。" },
+          { "en": "She is right.", "zh": "他很有意思。" },
+          { "en": "She's right.", "zh": "他还年轻。" },
+          { "en": "He's right.", "zh": "他是对的。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "She's wrong.",
+        "word_zh": "她错了。",
+        "options": [
+          { "en": "He's wrong.", "zh": "她是对的。" },
+          { "en": "He is wrong.", "zh": "她很有趣。" },
+          { "en": "She is wrong.", "zh": "她还年轻。" },
+          { "en": "She's wrong.", "zh": "她错了。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "He's from China.",
+        "word_zh": "他来自中国。",
+        "options": [
+          { "en": "She is from China.", "zh": "她来自中国。" },
+          { "en": "He is from China.", "zh": "他来自美国。" },
+          { "en": "She is from China.", "zh": "她来自美国。" },
+          { "en": "He's from China.", "zh": "他来自中国。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "She's from America.",
+        "word_zh": "她来自美国。",
+        "options": [
+          { "en": "He is from America.", "zh": "他来自美国。" },
+          { "en": "He's from America.", "zh": "他来自中国。" },
+          { "en": "She is from America.", "zh": "她来自中国。" },
+          { "en": "She's from America.", "zh": "她来自美国。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "He's sure.",
+        "word_zh": "他确定。",
+        "options": [
+          { "en": "She's sure.", "zh": "他是对的。" },
+          { "en": "She is sure.", "zh": "他错了。" },
+          { "en": "He is sure.", "zh": "他在这儿。" },
+          { "en": "He's sure.", "zh": "他确定。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "She's here.",
+        "word_zh": "她在这里。",
+        "options": [
+          { "en": "She is here.", "zh": "她是对的。" },
+          { "en": "He is here.", "zh": "她错了。" },
+          { "en": "He's here.", "zh": "她确定。" },
+          { "en": "She's here.", "zh": "她在这里。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "She's right.",
+        "word_zh": "她是对的。",
+        "options": [
+          { "en": "He's right.", "zh": "她还年轻。" },
+          { "en": "She is right.", "zh": "她错了。" },
+          { "en": "He is right.", "zh": "她很有趣。" },
+          { "en": "She's right.", "zh": "她是对的。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "He's wrong.",
+        "word_zh": "他错了。",
+        "options": [
+          { "en": "She's wrong.", "zh": "他很有意思。" },
+          { "en": "He is wrong.", "zh": "他还年轻。" },
+          { "en": "She is wrong.", "zh": "他是对的。" },
+          { "en": "He's wrong.", "zh": "他错了。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 24,
+    "topic": "Contractions (Pt. 3)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "We're sorry.",
+        "word_zh": "我们很抱歉。",
+        "options": [
+          { "en": "We are sorry.", "zh": "我们很忙。" },
+          { "en": "They are sorry.", "zh": "我们错了我们是对的。" },
+          { "en": "They're sorry.", "zh": "我们很抱歉。" },
+          { "en": "We're sorry." }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "They're busy.",
+        "word_zh": "他们很忙。",
+        "options": [
+          { "en": "We're busy.", "zh": "他们错了。" },
+          { "en": "We are busy.", "zh": "他们是对的。" },
+          { "en": "They are busy.", "zh": "他们很抱歉。" },
+          { "en": "They're busy.", "zh": "他们很忙。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "We're right.",
+        "word_zh": "我们是对的。",
+        "options": [
+          { "en": "They are right.", "zh": "我们错了我们很忙。" },
+          { "en": "We are right.", "zh": "我们很抱歉。" },
+          { "en": "They're right.", "zh": "我们是对的。" },
+          { "en": "We're right." }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "They're wrong.",
+        "word_zh": "他们错了。",
+        "options": [
+          { "en": "They are wrong.", "zh": "他们很忙。" },
+          { "en": "We're wrong.", "zh": "他们很抱歉。" },
+          { "en": "We are wrong.", "zh": "他们是对的。" },
+          { "en": "They're wrong.", "zh": "他们错了。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "We're here.",
+        "word_zh": "我们到了。",
+        "options": [
+          { "en": "We are here.", "zh": "我们确定。" },
+          { "en": "They are here.", "zh": "我们很忙。" },
+          { "en": "They're here.", "zh": "我们是对的。" },
+          { "en": "We're here.", "zh": "我们到了。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "They're sure.",
+        "word_zh": "他们确定。",
+        "options": [
+          { "en": "They are sure.", "zh": "他们很忙。" },
+          { "en": "We're sure.", "zh": "他们很抱歉。" },
+          { "en": "We are sure.", "zh": "他们错了。" },
+          { "en": "They're sure.", "zh": "他们确定。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "They're sorry.",
+        "word_zh": "他们很抱歉。",
+        "options": [
+          { "en": "They are sorry.", "zh": "他们确定。" },
+          { "en": "We are sorry.", "zh": "他们错了。" },
+          { "en": "We're sorry.", "zh": "他们很忙。" },
+          { "en": "They're sorry.", "zh": "他们很抱歉。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "We're busy.",
+        "word_zh": "我们很忙。",
+        "options": [
+          { "en": "We are busy.", "zh": "我们是对的。" },
+          { "en": "They are busy.", "zh": "我们确定。" },
+          { "en": "They're busy.", "zh": "我们到了。" },
+          { "en": "We're busy.", "zh": "我们很忙。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "We're wrong.",
+        "word_zh": "我们错了。",
+        "options": [
+          { "en": "We are wrong.", "zh": "我们是对的。" },
+          { "en": "They're wrong.", "zh": "我们到了。" },
+          { "en": "They are wrong.", "zh": "我们很抱歉。" },
+          { "en": "We're wrong.", "zh": "我们错了。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "They're right.",
+        "word_zh": "他们是对的。",
+        "options": [
+          { "en": "We're right.", "zh": "他们错了。" },
+          { "en": "They are right.", "zh": "他们确定。" },
+          { "en": "We are right.", "zh": "他们很抱歉。" },
+          { "en": "They're right.", "zh": "他们是对的。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 25,
+    "topic": "Present Tense (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I drink water.",
+        "word_zh": "我喝水。",
+        "options": [
+          { "en": "They drink water.", "zh": "他们喝水。" },
+          { "en": "She drinks water.", "zh": "她喝水。" },
+          { "en": "He drinks water.", "zh": "他喝水。" },
+          { "en": "I drink water.", "zh": "我喝水。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I eat breakfast.",
+        "word_zh": "我吃早餐。",
+        "options": [
+          { "en": "She eats breakfast.", "zh": "她吃早餐。" },
+          { "en": "He eats breakfast.", "zh": "他吃早餐。" },
+          { "en": "They eat breakfast.", "zh": "他们吃早餐。" },
+          { "en": "I eat breakfast.", "zh": "我吃早餐。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "We drink coffee.",
+        "word_zh": "我们喝咖啡。",
+        "options": [
+          { "en": "She drinks coffee.", "zh": "她喝咖啡。" },
+          { "en": "He drinks coffee.", "zh": "他喝咖啡。" },
+          { "en": "You drink coffee.", "zh": "你喝咖啡。" },
+          { "en": "We drink coffee.", "zh": "我们喝咖啡。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "They eat rice.",
+        "word_zh": "他们吃米饭。",
+        "options": [
+          { "en": "He eats rice.", "zh": "他吃米饭。" },
+          { "en": "I eat rice.", "zh": "我吃米饭。" },
+          { "en": "She eats rice.", "zh": "她吃米饭。" },
+          { "en": "They eat rice.", "zh": "他们吃米饭。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "We drink water.",
+        "word_zh": "我们喝水。",
+        "options": [
+          { "en": "He drinks water.", "zh": "他喝水。" },
+          { "en": "I drink water.", "zh": "我喝水。" },
+          { "en": "They drink water.", "zh": "他们喝水。" },
+          { "en": "We drink water.", "zh": "我们喝水。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "He eats breakfast.",
+        "word_zh": "他吃早餐。",
+        "options": [
+          { "en": "You eat breakfast.", "zh": "你吃早餐。" },
+          { "en": "She eats breakfast.", "zh": "她吃早餐。" },
+          { "en": "I eat breakfast.", "zh": "我吃早餐。" },
+          { "en": "He eats breakfast.", "zh": "他吃早餐。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "She drinks water.",
+        "word_zh": "她喝水。",
+        "options": [
+          { "en": "He drinks coffee.", "zh": "他喝咖啡。" },
+          { "en": "She drinks coffee.", "zh": "她喝咖啡。" },
+          { "en": "He drinks water.", "zh": "他喝水。" },
+          { "en": "She drinks water.", "zh": "她喝水。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "You eat rice.",
+        "word_zh": "你吃米饭。",
+        "options": [
+          { "en": "He eats rice.", "zh": "他吃米饭。" },
+          { "en": "I eat rice.", "zh": "我吃米饭。" },
+          { "en": "They eat rice.", "zh": "他们吃米饭。" },
+          { "en": "You eat rice.", "zh": "你吃米饭。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "She eats noodles.",
+        "word_zh": "她吃面条。",
+        "options": [
+          { "en": "We eat noodles.", "zh": "我们吃面条。" },
+          { "en": "I eat noodles.", "zh": "我吃面条。" },
+          { "en": "He eats noodles.", "zh": "他吃面条。" },
+          { "en": "She eats noodles.", "zh": "她吃面条。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "He drink water.",
+        "word_zh": "他喝水。",
+        "options": [
+          { "en": "I drink water.", "zh": "我喝水。" },
+          { "en": "She drinks water.", "zh": "她喝水。" },
+          { "en": "They drink water.", "zh": "他们喝水。" },
+          { "en": "He drink water.", "zh": "他喝水。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 26,
+    "topic": "Present Tense (Pt. 2)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I study English.",
+        "word_zh": "我学习英语。",
+        "options": [
+          { "en": "She studies Chinese.", "zh": "她学中文。" },
+          { "en": "She studies English.", "zh": "她学习英语。" },
+          { "en": "I study Chinese.", "zh": "我学中文。" },
+          { "en": "I study English.", "zh": "我学习英语。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I do not study Chinese.",
+        "word_zh": "我不学中文。",
+        "options": [
+          { "en": "He does not study Chinese.", "zh": "他不学中文。" },
+          { "en": "I study Chinese.", "zh": "我学中文。" },
+          { "en": "He studies Chinese.", "zh": "他学中文。" },
+          { "en": "I do not study Chinese.", "zh": "我不学中文。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "She studies Chinese.",
+        "word_zh": "她学中文。",
+        "options": [
+          { "en": "I study Chinese.", "zh": "我学中文。" },
+          { "en": "I study English.", "zh": "我学习英语。" },
+          { "en": "She studies English.", "zh": "她学习英语。" },
+          { "en": "She studies Chinese.", "zh": "她学中文。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "She does not study English.",
+        "word_zh": "她不学英语。",
+        "options": [
+          { "en": "She studies English.", "zh": "她学习英语。" },
+          { "en": "She does not study Chinese.", "zh": "她不学中文。" },
+          { "en": "She studies Chinese.", "zh": "她学中文。" },
+          { "en": "She does not study English.", "zh": "她不学英语。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I play video games.",
+        "word_zh": "我玩电子游戏。",
+        "options": [
+          { "en": "He plays video games.", "zh": "他玩电子游戏。" },
+          { "en": "I play soccer.", "zh": "我踢足球。" },
+          { "en": "He plays soccer.", "zh": "他踢足球。" },
+          { "en": "I play video games.", "zh": "我玩电子游戏。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I do not play soccer.",
+        "word_zh": "我不踢足球。",
+        "options": [
+          { "en": "He does not play soccer.", "zh": "他不踢足球。" },
+          { "en": "He plays soccer.", "zh": "他踢足球。" },
+          { "en": "I play soccer.", "zh": "我踢足球。" },
+          { "en": "I do not play soccer.", "zh": "我不踢足球。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "He plays soccer.",
+        "word_zh": "他踢足球。",
+        "options": [
+          { "en": "She plays video games.", "zh": "她玩电子游戏。" },
+          { "en": "He plays video games.", "zh": "他玩电子游戏。" },
+          { "en": "She plays soccer.", "zh": "她踢足球。" },
+          { "en": "He plays soccer.", "zh": "他踢足球。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "He does not play video games.",
+        "word_zh": "他不玩电子游戏。",
+        "options": [
+          { "en": "She plays video games.", "zh": "她玩电子游戏。" },
+          { "en": "He plays video games.", "zh": "他玩电子游戏。" },
+          { "en": "She does not play video games.", "zh": "她不玩电子游戏。" },
+          { "en": "He does not play video games.", "zh": "他不玩电子游戏。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "We study English.",
+        "word_zh": "我们学习英语。",
+        "options": [
+          { "en": "I study English.", "zh": "我学习英语。" },
+          { "en": "They study English.", "zh": "他们学习英语。" },
+          { "en": "He studies English.", "zh": "他学习英语。" },
+          { "en": "We study English.", "zh": "我们学习英语。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "She plays video games.",
+        "word_zh": "她玩电子游戏。",
+        "options": [
+          { "en": "He plays video games.", "zh": "他玩电子游戏。" },
+          { "en": "I play video games.", "zh": "我玩电子游戏。" },
+          { "en": "You play video games.", "zh": "你玩电子游戏。" },
+          { "en": "She plays video games.", "zh": "她玩电子游戏。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 27,
+    "topic": "At (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I am at home.",
+        "word_zh": "我在家。",
+        "options": [
+          { "en": "I eat at home.", "zh": "我在家吃饭。" },
+          { "en": "I am at school.", "zh": "我在学校。" },
+          { "en": "I eat at school.", "zh": "我在学校吃饭。" },
+          { "en": "I am at home.", "zh": "我在家。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I am at school.",
+        "word_zh": "我在学校。",
+        "options": [
+          { "en": "I eat at home.", "zh": "我在家吃饭。" },
+          { "en": "I eat at school.", "zh": "我在学校吃饭。" },
+          { "en": "I am at home.", "zh": "我在家。" },
+          { "en": "I am at school.", "zh": "我在学校。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I study at home.",
+        "word_zh": "我在家学习。",
+        "options": [
+          { "en": "I study at school.", "zh": "我在学校学习。" },
+          { "en": "I play at home.", "zh": "我在家玩。" },
+          { "en": "I play at school.", "zh": "我在学校玩。" },
+          { "en": "I study at home.", "zh": "我在家学习。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I study at school.",
+        "word_zh": "我在学校学习。",
+        "options": [
+          { "en": "I play at school.", "zh": "我在学校玩。" },
+          { "en": "I study at home.", "zh": "我在家学习。" },
+          { "en": "I play at home.", "zh": "我在家玩。" },
+          { "en": "I study at school.", "zh": "我在学校学习。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I eat breakfast at home.",
+        "word_zh": "我在家吃早餐。",
+        "options": [
+          { "en": "I eat lunch at home.", "zh": "我在家吃午饭。" },
+          { "en": "I eat breakfast at school.", "zh": "我在学校吃早餐。" },
+          { "en": "I eat lunch at school.", "zh": "我在学校吃午饭。" },
+          { "en": "I eat breakfast at home.", "zh": "我在家吃早餐。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I eat lunch at school.",
+        "word_zh": "我在学校吃午饭。",
+        "options": [
+          { "en": "I eat breakfast at home.", "zh": "我在家吃早餐。" },
+          { "en": "I eat lunch at home.", "zh": "我在家吃午饭。" },
+          { "en": "I eat breakfast at school.", "zh": "我在学校吃早餐。" },
+          { "en": "I eat lunch at school.", "zh": "我在学校吃午饭。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "I study English at school.",
+        "word_zh": "我在学校学习英语。",
+        "options": [
+          { "en": "I study English at home.", "zh": "我在家学习英语。" },
+          { "en": "I study Chinese at school.", "zh": "我在学校学习中文。" },
+          { "en": "I study Chinese at home.", "zh": "我在家学习中文。" },
+          { "en": "I study English at school.", "zh": "我在学校学习英语。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I play soccer at school.",
+        "word_zh": "我在学校踢足球。",
+        "options": [
+          { "en": "I play soccer at home.", "zh": "我在家踢足球。" },
+          {
+            "en": "I play video games at school.",
+            "zh": "我在学校玩电子游戏。"
+          },
+          { "en": "I play video games at home.", "zh": "我在家玩电子游戏。" },
+          { "en": "I play soccer at school.", "zh": "我在学校踢足球。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "I play video games at home.",
+        "word_zh": "我在家玩电子游戏。",
+        "options": [
+          { "en": "I play soccer at school.", "zh": "我在学校踢足球。" },
+          { "en": "I play soccer at home.", "zh": "我在家踢足球。" },
+          {
+            "en": "I play video games at school.",
+            "zh": "我在学校玩电子游戏。"
+          },
+          { "en": "I play video games at home.", "zh": "我在家玩电子游戏。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I eat lunch at home.",
+        "word_zh": "我在家吃午饭。",
+        "options": [
+          { "en": "I eat breakfast at school.", "zh": "我在学校吃早餐。" },
+          { "en": "I eat breakfast at home.", "zh": "我在家吃早餐。" },
+          { "en": "I eat lunch at school.", "zh": "我在学校吃午饭。" },
+          { "en": "I eat lunch at home.", "zh": "我在家吃午饭。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 28,
+    "topic": "to go",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I go home.",
+        "word_zh": "我回家",
+        "options": [
+          { "en": "I go to the library.", "zh": "我去图书馆。" },
+          { "en": "I go to school.", "zh": "我去上学。" },
+          { "en": "I go to the store.", "zh": "我去商店。" },
+          { "en": "I go home.", "zh": "我回家" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I go to school.",
+        "word_zh": "我去上学。",
+        "options": [
+          { "en": "I go home.", "zh": "我回家。" },
+          { "en": "I go to the store.", "zh": "我去商店。" },
+          { "en": "I go to the library.", "zh": "我去图书馆。" },
+          { "en": "I go to school.", "zh": "我去上学。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I go to the store.",
+        "word_zh": "我去商店。",
+        "options": [
+          { "en": "I go to the library.", "zh": "我去图书馆。" },
+          { "en": "I go home.", "zh": "我回家。" },
+          { "en": "I go to school.", "zh": "我去上学。" },
+          { "en": "I go to the store.", "zh": "我去商店。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I go to the library.",
+        "word_zh": "我去图书馆。",
+        "options": [
+          { "en": "I go to school.", "zh": "我去上学。" },
+          { "en": "I go to the store.", "zh": "我去商店。" },
+          { "en": "I go home.", "zh": "我回家。" },
+          { "en": "I go to the library.", "zh": "我去图书馆。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "He goes to the library.",
+        "word_zh": "他去图书馆。",
+        "options": [
+          { "en": "She goes to the store.", "zh": "她去商店。" },
+          { "en": "He goes to the store.", "zh": "他去商店。" },
+          { "en": "She goes to the library.", "zh": "她去图书馆。" },
+          { "en": "He goes to the library.", "zh": "他去图书馆。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "She goes to the store.",
+        "word_zh": "她去商店。",
+        "options": [
+          { "en": "She goes to the library.", "zh": "她去图书馆。" },
+          { "en": "He goes to the store.", "zh": "他去商店。" },
+          { "en": "He goes to the library.", "zh": "他去图书馆。" },
+          { "en": "She goes to the store.", "zh": "她去商店。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "We go to school.",
+        "word_zh": "我们去学校。",
+        "options": [
+          { "en": "They go home.", "zh": "他们回家了。" },
+          { "en": "We go home.", "zh": "我们回家。" },
+          { "en": "They go to school.", "zh": "他们去学校。" },
+          { "en": "We go to school.", "zh": "我们去学校。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "They go home.",
+        "word_zh": "他们回家了。",
+        "options": [
+          { "en": "They go to school.", "zh": "他们去学校。" },
+          { "en": "We go to school.", "zh": "我们去学校。" },
+          { "en": "We go home.", "zh": "我们回家。" },
+          { "en": "They go home.", "zh": "他们回家了。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "She goes to the library.",
+        "word_zh": "她去图书馆。",
+        "options": [
+          { "en": "He goes to the library.", "zh": "他去图书馆。" },
+          { "en": "She goes to the store.", "zh": "她去商店。" },
+          { "en": "He goes to the store.", "zh": "他去商店。" },
+          { "en": "She goes to the library.", "zh": "她去图书馆。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "He goes to the store.",
+        "word_zh": "他去商店。",
+        "options": [
+          { "en": "She goes to the library.", "zh": "她去图书馆。" },
+          { "en": "She goes to the store.", "zh": "她去商店。" },
+          { "en": "He goes to the library.", "zh": "他去图书馆。" },
+          { "en": "He goes to the store.", "zh": "他去商店。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 29,
+    "topic": "Adverbs (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I never play soccer.",
+        "word_zh": "我从不踢足球。",
+        "options": [
+          { "en": "I sometimes play soccer.", "zh": "我有时踢足球。" },
+          { "en": "I always play soccer.", "zh": "我总是踢足球。" },
+          { "en": "I often play soccer.", "zh": "我经常踢足球。" },
+          { "en": "I never play soccer.", "zh": "我从不踢足球。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I sometimes study English.",
+        "word_zh": "我有时学习英语。",
+        "options": [
+          { "en": "I never study English.", "zh": "我从来不学英语。" },
+          { "en": "I always study English.", "zh": "我总是学习英语。" },
+          { "en": "I often study English.", "zh": "我经常学习英语。" },
+          { "en": "I sometimes study English.", "zh": "我有时学习英语。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I always eat lunch.",
+        "word_zh": "我总是吃午饭。",
+        "options": [
+          { "en": "I never eat lunch.", "zh": "我从来不吃午餐。" },
+          { "en": "I often eat lunch.", "zh": "我经常吃午饭。" },
+          { "en": "I sometimes eat lunch.", "zh": "我有时吃午饭。" },
+          { "en": "I always eat lunch.", "zh": "我总是吃午饭。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "He never plays video games.",
+        "word_zh": "他从不玩电子游戏。",
+        "options": [
+          { "en": "He always plays video games.", "zh": "他总是玩电子游戏。" },
+          { "en": "He often plays video games.", "zh": "他经常玩电子游戏。" },
+          {
+            "en": "He sometimes plays video games.",
+            "zh": "他有时会玩电子游戏。"
+          },
+          { "en": "He never plays video games.", "zh": "他从不玩电子游戏。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "She often plays soccer.",
+        "word_zh": "她经常踢足球。",
+        "options": [
+          { "en": "She always plays soccer.", "zh": "她总是踢足球。" },
+          { "en": "She never plays soccer.", "zh": "她从不踢足球。" },
+          { "en": "She stometimes plays soccer.", "zh": "她有时踢足球。" },
+          { "en": "She often plays soccer.", "zh": "她经常踢足球。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "We always eat lunch.",
+        "word_zh": "我们总是吃午餐。",
+        "options": [
+          { "en": "We never eat lunch.", "zh": "我们从不吃午餐。" },
+          { "en": "We sometimes eat lunch.", "zh": "我们有时吃午饭。" },
+          { "en": "We often eat lunch.", "zh": "我们经常吃午饭。" },
+          { "en": "We always eat lunch.", "zh": "我们总是吃午餐。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "They often study at home.",
+        "word_zh": "他们经常在家学习。",
+        "options": [
+          { "en": "They never study at home.", "zh": "他们从不在家学习。" },
+          { "en": "They sometimes study at home.", "zh": "他们有时在家学习。" },
+          { "en": "They always study at home.", "zh": "他们总是在家学习。" },
+          { "en": "They often study at home.", "zh": "他们经常在家学习。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I sometimes go to the library.",
+        "word_zh": "我有时去图书馆。",
+        "options": [
+          { "en": "I never go to the library.", "zh": "我从不去图书馆。" },
+          { "en": "I often go to the library.", "zh": "我经常去图书馆。" },
+          { "en": "I always go to the library.", "zh": "我总是去图书馆。" },
+          { "en": "I sometimes go to the library.", "zh": "我有时去图书馆。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "You always go to school.",
+        "word_zh": "你总是去学校。",
+        "options": [
+          { "en": "You sometimes go to school.", "zh": "你有时去学校。" },
+          { "en": "You often go to school.", "zh": "你经常去学校。" },
+          { "en": "You never go to school.", "zh": "你从来不去上学。" },
+          { "en": "You always go to school.", "zh": "你总是去学校。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I never eat breakfast.",
+        "word_zh": "我从来不吃早餐。",
+        "options": [
+          { "en": "I always eat breakfast.", "zh": "我总是吃早餐。" },
+          { "en": "I sometimes eat breakfast.", "zh": "我有时吃早餐。" },
+          { "en": "I often eat breakfast.", "zh": "我经常吃早餐。" },
+          { "en": "I never eat breakfast.", "zh": "我从来不吃早餐。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 30,
+    "topic": "Present Continuous",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I'm eating lunch.",
+        "word_zh": "我正在吃午饭。",
+        "options": [
+          { "en": "I eat lunch.", "zh": "我吃午饭。" },
+          { "en": "I'm eating breakfast.", "zh": "我正在吃早餐。" },
+          { "en": "I eat breakfast.", "zh": "我吃早餐。" },
+          { "en": "I'm eating lunch.", "zh": "我正在吃午饭。" }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I'm drinking tea.",
+        "word_zh": "我喝茶。",
+        "options": [
+          { "en": "I'm drinking coffee.", "zh": "我正在喝咖啡。" },
+          { "en": "I drink coffee.", "zh": "我喝咖啡。" },
+          { "en": "I'm drinking coffee.", "zh": "我正在喝咖啡。" },
+          { "en": "I'm drinking tea.", "zh": "我喝茶。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I'm playing video games.",
+        "word_zh": "我正在玩电子游戏。",
+        "options": [
+          { "en": "I play video games.", "zh": "我玩电子游戏。" },
+          { "en": "I'm playing soccer.", "zh": "我正在踢足球。" },
+          { "en": "I play soccer.", "zh": "我踢足球。" },
+          { "en": "I'm playing video games.", "zh": "我正在玩电子游戏。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I'm going home right now.",
+        "word_zh": "我现在要回家了。",
+        "options": [
+          { "en": "I'm going to school today.", "zh": "我今天要去学校。" },
+          {
+            "en": "I'm going to school right now.",
+            "zh": "我现在要去学校了。"
+          },
+          { "en": "I'm going home today.", "zh": "我今天要回家了。" },
+          { "en": "I'm going home right now.", "zh": "我现在要回家了。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I'm studying English today.",
+        "word_zh": "我今天正在学习英语。",
+        "options": [
+          { "en": "I study English.", "zh": "我学习英语。" },
+          { "en": "I'm studying English.", "zh": "我在学习英文。" },
+          {
+            "en": "I'm studying English right now.",
+            "zh": "我现在正在学习英语。"
+          },
+          { "en": "I'm studying English today.", "zh": "我今天正在学习英语。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I'm still eating breakfast.",
+        "word_zh": "我还在吃早餐。",
+        "options": [
+          { "en": "I'm still drinking coffee.", "zh": "我还在喝咖啡。" },
+          { "en": "I'm still eating lunch.", "zh": "我还在吃午饭呢。" },
+          { "en": "I'm still drinking tea.", "zh": "我还在喝茶。" },
+          { "en": "I'm still eating breakfast.", "zh": "我还在吃早餐。" }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "I'm playing soccer right now.",
+        "word_zh": "我现在正在踢足球。",
+        "options": [
+          { "en": "I'm playing soccer today.", "zh": "我今天踢足球。" },
+          { "en": "I play soccer.", "zh": "我踢足球。" },
+          { "en": "I'm still playing soccer.", "zh": "我还在踢足球。" },
+          { "en": "I'm playing soccer right now.", "zh": "我现在正在踢足球。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I'm going to the store today.",
+        "word_zh": "我今天要去商店。",
+        "options": [
+          {
+            "en": "I'm going to the store right now.",
+            "zh": "我现在就去商店。"
+          },
+          { "en": "I go to the store.", "zh": "我去商店。" },
+          { "en": "I'm still going to the store.", "zh": "我还是去商店吧。" },
+          { "en": "I'm going to the store today.", "zh": "我今天要去商店。" }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "I'm still drinking tea.",
+        "word_zh": "我还在喝茶。",
+        "options": [
+          { "en": "I'm drinking tea right now.", "zh": "我现在正在喝茶。" },
+          { "en": "I'm drinking tea today.", "zh": "我今天喝茶。" },
+          { "en": "I'm drinking tea.", "zh": "我正在喝茶。" },
+          { "en": "I'm still drinking tea.", "zh": "我还在喝茶。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I'm eating lunch right now.",
+        "word_zh": "我现在正在吃午饭。",
+        "options": [
+          { "en": "I'm eating lunch.", "zh": "我正在吃午饭。" },
+          { "en": "I eat lunch.", "zh": "我吃午饭。" },
+          { "en": "I'm still eating lunch.", "zh": "我还在吃午饭呢。" },
+          { "en": "I'm eating lunch right now.", "zh": "我现在正在吃午饭。" }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 31,
+    "topic": "Clothing (Pt. 1)",
+    "content": [
+      {
+        "t_id": 1,
+        "word_en": "I wear brown shoes to school.",
+        "word_zh": "我穿棕色鞋子去学校。",
+        "options": [
+          { "en": "I'm wearing brown shoes.", "zh": "我穿着棕色鞋子。" },
+          { "en": "I'm wearing black shoes.", "zh": "我穿着黑色的鞋子。" },
+          { "en": "I wear black shoes to school.", "zh": "我穿黑鞋去学校。" },
+          {
+            "en": "I wear brown shoes to school.",
+            "zh": "我穿棕色鞋子去学校。"
+          }
+        ]
+      },
+      {
+        "t_id": 2,
+        "word_en": "I'm wearing black shoes today.",
+        "word_zh": "我今天穿黑鞋。",
+        "options": [
+          { "en": "I wear brown shoes.", "zh": "我穿棕色鞋子。" },
+          { "en": "I wear black shoes.", "zh": "我穿黑鞋。" },
+          {
+            "en": "I'm wearing brown shoes today.",
+            "zh": "我今天穿棕色鞋子。"
+          },
+          { "en": "I'm wearing black shoes today.", "zh": "我今天穿黑鞋。" }
+        ]
+      },
+      {
+        "t_id": 3,
+        "word_en": "I never wear red shoes.",
+        "word_zh": "我从来不穿红鞋。",
+        "options": [
+          { "en": "I often wear red shoes.", "zh": "我经常穿红鞋。" },
+          { "en": "I'm wearing red shoes.", "zh": "我穿着红色的鞋子。" },
+          { "en": "I'm not wearing red shoes.", "zh": "我没有穿红鞋。" },
+          { "en": "I never wear red shoes.", "zh": "我从来不穿红鞋。" }
+        ]
+      },
+      {
+        "t_id": 4,
+        "word_en": "I sometimes wear white shoes.",
+        "word_zh": "我有时穿白鞋。",
+        "options": [
+          { "en": "I'm not wearing white shoes.", "zh": "我没穿白鞋。" },
+          { "en": "I never wear white shoes.", "zh": "我从来不穿白鞋。" },
+          { "en": "I'm wearing white shoes.", "zh": "我穿着白色的鞋子。" },
+          { "en": "I sometimes wear white shoes.", "zh": "我有时穿白鞋。" }
+        ]
+      },
+      {
+        "t_id": 5,
+        "word_en": "I'm not wearing jeans.",
+        "word_zh": "我没穿牛仔裤。",
+        "options": [
+          { "en": "I'm wearing jeans.", "zh": "我穿着牛仔裤。" },
+          { "en": "I sometimes wear jeans.", "zh": "我有时穿牛仔裤。" },
+          { "en": "I never wear jeans.", "zh": "我从不穿牛仔裤。" },
+          { "en": "I'm not wearing jeans.", "zh": "我没穿牛仔裤。" }
+        ]
+      },
+      {
+        "t_id": 6,
+        "word_en": "I don't wear jeans to school.",
+        "word_zh": "我不穿牛仔裤去学校。",
+        "options": [
+          { "en": "I'm wearing jeans today.", "zh": "我今天穿牛仔裤。" },
+          { "en": "I'm not wearing jeans.", "zh": "我没穿牛仔裤。" },
+          { "en": "I don't wear jeans.", "zh": "我不穿牛仔裤。" },
+          {
+            "en": "I don't wear jeans to school.",
+            "zh": "我不穿牛仔裤去学校。"
+          }
+        ]
+      },
+      {
+        "t_id": 7,
+        "word_en": "I always wear a white shirt.",
+        "word_zh": "我总是穿白衬衫。",
+        "options": [
+          { "en": "I never wear a white shirt.", "zh": "我从来不穿白衬衫。" },
+          { "en": "I'm wearing a white shirt.", "zh": "我穿着一件白衬衫。" },
+          { "en": "I'm not wearing a white shirt.", "zh": "我没有穿白衬衫。" },
+          { "en": "I always wear a white shirt.", "zh": "我总是穿白衬衫。" }
+        ]
+      },
+      {
+        "t_id": 8,
+        "word_en": "I'm wearing a red shirt right now.",
+        "word_zh": "我现在穿着一件红色衬衫。",
+        "options": [
+          { "en": "I'm not wearing a red shirt.", "zh": "我没有穿红衬衫。" },
+          { "en": "I'm not wearing a blue shirt.", "zh": "我没有穿蓝色衬衫。" },
+          { "en": "I'm wearing a blue shirt.", "zh": "我穿着一件蓝色衬衫。" },
+          {
+            "en": "I'm wearing a red shirt right now.",
+            "zh": "我现在穿着一件红色衬衫。"
+          }
+        ]
+      },
+      {
+        "t_id": 9,
+        "word_en": "I sometimes wear red.",
+        "word_zh": "我有时穿红色。",
+        "options": [
+          { "en": "I never wear red.", "zh": "我从来不穿红色。" },
+          { "en": "I'm wearing red.", "zh": "我穿的是红色的。" },
+          { "en": "I'm not wearing red.", "zh": "我没穿红衣服。" },
+          { "en": "I sometimes wear red.", "zh": "我有时穿红色。" }
+        ]
+      },
+      {
+        "t_id": 10,
+        "word_en": "I'm not wearing blue.",
+        "word_zh": "我没穿蓝色的。",
+        "options": [
+          { "en": "I wear blue.", "zh": "我穿蓝色的。" },
+          { "en": "I'm not wearing red.", "zh": "我没穿红衣服。" },
+          { "en": "I don't wear blue.", "zh": "我不穿蓝色的。" },
+          { "en": "I'm not wearing blue.", "zh": "我没穿蓝色的。" }
+        ]
+      }
+    ]
+  }
+]

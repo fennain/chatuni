@@ -1,0 +1,23 @@
+.tutorContainer{
+    display: flex;
+    position:relative;
+    /* height: 400px; */
+    width: 100%;
+    flex-direction: column;
+    align-self: center;
+    /* left:300px; */
+    top:20px;
+
+}
+.level{
+    font-size:30px;
+    background-color: #FFEDA3;
+    height: 50px;
+    width: 250px;
+    position: relative;
+    clip-path: polygon(0% 0%, 85% 0, 100% 50%, 85% 100%, 0% 100%);
+    font-size: 30px;
+    font-weight: bold; 
+    margin:20px 10px;
+    padding-left:60px;
+}

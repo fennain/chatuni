@@ -1,0 +1,30 @@
+.myMsg {
+  justify-self: right;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 5px;
+  height: fit-content;
+  width: fit-content;
+  background-color: #b3fdd0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgreen;
+  border-radius: 10px;
+  margin: 10px 10px;
+  flex-direction: column;
+  padding: 16px 28px;
+  font-size: 24px;
+}
+.myplayButton {
+  background-color: #3ae3b9;
+  border-radius: 8px;
+  border-style: none;
+  color: white;
+  align-self: flex-end;
+}
+@media (max-width: 1024px) {
+    .myMsg {
+        font-size: 40px;
+    }
+}
