@@ -8,6 +8,7 @@ import Layout from "@/layout/index";
 import { lazy } from "react";
 import LazyComponent from "@/components/Lazy";
 import Wechat from "@/views/oauth/wechat";
+import Order from "@/views/order/index";
 
 /**
  * staticRouter
@@ -45,6 +46,14 @@ export const staticRouter: RouteObjectType[] = [
           title: "我的",
         },
       },
+      {
+        path: "shop",
+        element: LazyComponent(lazy(() => import("@/views/shop/index"))),
+        meta: {
+          title: "商店",
+        },
+      },
+      //
       {
         path: "Course/:level",
         element: LazyComponent(lazy(() => import("@/views/Course/index"))),
@@ -135,6 +144,13 @@ export const staticRouter: RouteObjectType[] = [
     element: <Wechat />,
     meta: {
       title: "微信登录",
+    },
+  },
+  {
+    path: "/order",
+    element: <Order />,
+    meta: {
+      title: "支付成功",
     },
   },
   // error pages

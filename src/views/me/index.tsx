@@ -9,12 +9,14 @@ import defaultAvatar from "@/assets/images/defaultAvatar.png";
 import { message, modal } from "@/hooks/useMessage";
 import { setGlobalState } from "@/redux/modules/global";
 import { ExclamationCircleOutlined } from "@ant-design/icons";
-import { setToken, setUserInfo } from "@/redux/modules/user";
+import { setToken, setUserInfo, resetUserInfo } from "@/redux/modules/user";
 import { RootState, useSelector, useDispatch } from "@/redux";
 import SvgIcon from "@/components/SvgIcon";
+import { useNavigate, useParams, Link } from "react-router-dom";
 
 const Me: React.FC = () => {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   const token = useSelector((state: RootState) => state.user.token);
   const userInfo = useSelector((state: RootState) => state.user.userInfo);
@@ -51,6 +53,7 @@ const Me: React.FC = () => {
       okType: "danger",
       onOk: async () => {
         dispatch(setToken(""));
+        dispatch(resetUserInfo());
         // location.reload();
       },
     });
@@ -78,13 +81,13 @@ const Me: React.FC = () => {
     dispatch(setGlobalState({ key: "tabbarKey", value: "me" }));
     getInfo();
     // 获取openid
-    if (isWechat && !userInfo.openid) {
-      window.location.href = `https://open.weixin.qq.com/connect/oauth2/authorize?appid=${
-        import.meta.env.VITE_APP_WEIXIN_USERINFO_APPID
-      }&redirect_uri=${encodeURIComponent(
-        "https://chatuni.smartkit.vip/teacher/me"
-      )}&response_type=code&scope=snsapi_userinfo&state=recharge#wechat_redirect`;
-    }
+    // if (isWechat && !userInfo.openid) {
+    //   window.location.href = `https://open.weixin.qq.com/connect/oauth2/authorize?appid=${
+    //     import.meta.env.VITE_APP_WEIXIN_USERINFO_APPID
+    //   }&redirect_uri=${encodeURIComponent(
+    //     "https://chatuni.smartkit.vip/teacher/me"
+    //   )}&response_type=code&scope=snsapi_userinfo&state=recharge#wechat_redirect`;
+    // }
   }, []);
 
   return (
@@ -123,15 +126,21 @@ const Me: React.FC = () => {
         </div>
         <div className="flex justify-between items-center mobile:text-[25px]">
           <div className="flex flex-col items-center">
-            <MillisecondsToDuration milliseconds={parseInt(userInfo.remainingduration)} />
+            <MillisecondsToDuration
+              milliseconds={parseInt(userInfo.remainingduration)}
+            />
             <p>目前剩余时长</p>
           </div>
           <div className="flex flex-col items-center">
-            <MillisecondsToDuration milliseconds={parseInt(userInfo.usageduration)} />
+            <MillisecondsToDuration
+              milliseconds={parseInt(userInfo.usageduration)}
+            />
             <p>累计使用时长</p>
           </div>
           <div className="flex flex-col items-center">
-            <MillisecondsToDuration milliseconds={parseInt(userInfo.giftduration)} />
+            <MillisecondsToDuration
+              milliseconds={parseInt(userInfo.giftduration)}
+            />
             <p>已累积获得赠送时长</p>
           </div>
         </div>
@@ -139,7 +148,9 @@ const Me: React.FC = () => {
         <List mode="card" className="m-0">
           <List.Item
             className="text-black desktop:text-[25px]"
-            onClick={() => {}}
+            onClick={() => {
+              navigate("/shop");
+            }}
           >
             我的VIP
           </List.Item>

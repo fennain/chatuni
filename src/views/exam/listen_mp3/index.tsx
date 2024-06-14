@@ -69,7 +69,7 @@ const ListenCarefully: React.FC = () => {
       // 完成阅读
       // if ((currentSentence ?? 1) === dataSource?.id)
       //   dispatch(setCurrentSentence(dataSource?.id + 1));
-      navigate("/listen_sentence");
+      navigate(`/exam/listen_mp3/${params.type}`);
     }
   };
 

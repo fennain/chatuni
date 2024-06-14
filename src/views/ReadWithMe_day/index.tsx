@@ -4,7 +4,12 @@ import first_read from "@/assets/json/first_read.json";
 import React, { useState, useEffect, useRef } from "react";
 import { Tabs, Button, Collapse, Breadcrumb } from "antd";
 import { Toast } from "antd-mobile";
-import { uploadApi, speech2textApi, text2speechApi } from "@/api/modules/user";
+import {
+  uploadApi,
+  speech2textApi,
+  text2speechApi,
+  recordaudioApi,
+} from "@/api/modules/user";
 import useAudioPlayer from "@/hooks/useAudioPlayer";
 import NavBar from "@/components/NavBar";
 import { useNavigate, useParams, Link } from "react-router-dom";
@@ -172,6 +177,13 @@ const ReadWithMe: React.FC = () => {
       console.log(data);
       // setTimeout(() => {
       speech2text(data.name);
+      recordaudioApi({
+        filename: data.name,
+        listenertype: 1,
+        subtype: 1,
+        listenerid: params.day,
+        subid: level - 1,
+      });
       // }, 5000);
     } catch (error) {
       console.log(error);

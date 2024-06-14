@@ -23,6 +23,15 @@ export const speech2textApi = <T>(params: speech2text) => {
 };
 
 /**
+ * 语音打点
+ * @param params
+ * @returns
+ */
+export const recordaudioApi = <T>(params: any) => {
+  return http.post<T>(`/aiteacher/recordaudio`, params, { loading: false });
+};
+
+/**
  * 文本转语音
  * @param params
  * @returns

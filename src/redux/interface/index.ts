@@ -17,7 +17,7 @@ export interface UserState {
   currentDay: number;
   currentSentence: number;
   userInfo: {
-    sex: "0" | "1";
+    sex: string;
     nickname: string;
     phone: string;
     usageduration: string;

@@ -1,18 +1,20 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { UserState } from "@/redux/interface";
 
+const initUserInfo = {
+  sex: "1",
+  nickname: "",
+  phone: "",
+  usageduration: "0",
+  remainingduration: "0",
+  giftduration: "0",
+  userid: "",
+  openid: "",
+};
+
 const userState: UserState = {
   token: null,
-  userInfo: {
-    sex: "1",
-    nickname: "",
-    phone: "",
-    usageduration: "0",
-    remainingduration: "0",
-    giftduration: "0",
-    userid: "",
-    openid: "",
-  },
+  userInfo: initUserInfo,
   currentDay: 1,
   currentSentence: 1,
   //
@@ -35,6 +37,9 @@ const globalSlice = createSlice({
     setUserInfo(state, { payload }: PayloadAction<UserState["userInfo"]>) {
       state.userInfo = { ...state.userInfo, ...payload };
     },
+    resetUserInfo(state) {
+      state.userInfo = initUserInfo;
+    },
     //
     setGrades(state, { payload }: PayloadAction<UserState["Grades"]>) {
       state.Grades = payload;
@@ -48,5 +53,6 @@ export const {
   setCurrentSentence,
   setUserInfo,
   setGrades,
+  resetUserInfo
 } = globalSlice.actions;
 export default globalSlice.reducer;

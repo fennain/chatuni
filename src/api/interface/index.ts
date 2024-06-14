@@ -25,6 +25,7 @@ export interface ResPage<T> {
 
 export interface ReqLogin {
   phone: string;
+  email: string;
   code: string;
 }
 

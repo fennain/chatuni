@@ -6,7 +6,7 @@ import ielts_sentence from "@/assets/json/ielts/ielts_sentence.json";
 import React, { useState, useEffect } from "react";
 import { Button, Breadcrumb } from "antd";
 import { Toast } from "antd-mobile";
-import { uploadApi, speech2textApi, text2speechApi } from "@/api/modules/user";
+import { uploadApi, speech2textApi, text2speechApi,recordaudioApi } from "@/api/modules/user";
 import useAudioPlayer from "@/hooks/useAudioPlayer";
 import NavBar from "@/components/NavBar";
 import { useNavigate, useParams, Link } from "react-router-dom";
@@ -179,6 +179,30 @@ const ReadWithMe: React.FC = () => {
       console.log(data);
       // setTimeout(() => {
       speech2text(data.name);
+      // 打点
+      let listenertype;
+      switch (params.type) {
+        case ExamType.ZHONGKAO:
+          listenertype = 2;
+          break;
+        case ExamType.GAOKAO:
+          listenertype = 3;
+          break;
+        case ExamType.IELTS:
+          listenertype = 4;
+          break;
+
+        default:
+          listenertype = 2;
+          break;
+      }
+      recordaudioApi({
+        filename: data.name,
+        listenertype,
+        subtype: 1,
+        listenerid: params.id,
+        subid: level - 1,
+      });
       // }, 5000);
     } catch (error) {
       console.log(error);

@@ -11,12 +11,14 @@ interface ResultData<T = any> extends Result {
 
 declare namespace Login {
   interface sendCodeReq {
-    phone: string;
+    identifier: string;
+    countrycode: string;
     type: string;
   }
   interface loginReq {
-    phone: string;
+    identifier: string;
     code: string;
+    type: string;
   }
   interface loginRes {
     id: string;
@@ -27,6 +29,22 @@ declare namespace Login {
     updatedAt: string;
     created: boolean;
     token: string;
+  }
+}
+
+declare namespace Shop {
+  interface creatOrderReq {
+    scenariocode: number;
+    method: number;
+    id: number;
+  }
+  interface goodsList {
+    id: number;
+    description: string;
+    time: number;
+    currency: string;
+    fee: number;
+    special: number;
   }
 }
 
@@ -109,4 +127,18 @@ interface listen_mp3 {
       word_en: string;
     }[];
   }[];
+}
+
+interface coursesLevel {
+  level: number;
+  courses: {
+    id: number;
+    progress: CourseProgress;
+  }[];
+}
+
+enum CourseProgress {
+  UnPass = -1,
+  UnStart = 0,
+  Pass = 1,
 }

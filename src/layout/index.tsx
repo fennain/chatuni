@@ -10,11 +10,13 @@ import useRequest from "@/hooks/useRequest";
 import SvgIcon from "@/components/SvgIcon";
 import defaultAvatar from "@/assets/images/defaultAvatar.png";
 import Login from "./login";
-import { useNavigate, Link } from "react-router-dom";
+import { useNavigate, Link, useLocation } from "react-router-dom";
+import classnames from "classnames";
 
 const LayoutIndex: React.FC = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
+  const location = useLocation();
   const { getToken } = useRequest();
   const token = useSelector((state: RootState) => state.user.token);
 
@@ -98,7 +100,15 @@ const LayoutIndex: React.FC = () => {
         </div>
       </div>
 
-      <div className="flex-1 bg-white overflow-hidden overflow-y-auto flex justify-center">
+      <div
+        className={classnames(
+          "flex-1 overflow-hidden overflow-y-auto flex justify-center",
+          {
+            "bg-white": location.pathname != "/me",
+            "bg-[#F2F2F2]": location.pathname == "/me",
+          }
+        )}
+      >
         <div className="max-w-[1320px] w-full h-full ipad:pt-[110px]">
           <Outlet />
         </div>

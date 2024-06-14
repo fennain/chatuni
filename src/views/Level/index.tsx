@@ -2,7 +2,7 @@ import classnames from "classnames";
 import NavBar from "@/components/NavBar";
 import { useNavigate } from "react-router-dom";
 import { Tabs as TabsPC } from "antd";
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import { Tabs, Swiper } from "antd-mobile";
 import { SwiperRef } from "antd-mobile/es/components/swiper";
 import SvgIcon from "@/components/SvgIcon";
@@ -12,6 +12,7 @@ import { setGlobalState } from "@/redux/modules/global";
 import sentence from "@/assets/images/sentence.png";
 import words from "@/assets/images/words.png";
 import mp3 from "@/assets/images/mp3.png";
+import { getcourses } from "@/api/modules/courses";
 
 const tabItems = [
   { key: "base", title: "ChatUni课程" },
@@ -20,13 +21,15 @@ const tabItems = [
   { key: "ielts", title: "雅思课程" },
 ];
 
+enum CourseProgress {
+  UnPass = -1,
+  UnStart = 0,
+  Pass = 1,
+}
+
 const Level: React.FC = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
-
-  const back = () => {
-    window.location.href = "https://meta.smartkit.vip/teacher/";
-  };
 
   const swiperRef = useRef<SwiperRef>(null);
   const { courseKey } = useSelector(
@@ -41,10 +44,15 @@ const Level: React.FC = () => {
     swiperRef.current?.swipeTo(index);
   };
 
-  const Grades = useSelector((state: RootState) => state.user.Grades);
-  console.log(Grades);
+  const [coursesLevel, setCoursesLevel] = useState<coursesLevel[]>([]);
+
+  const getList = async () => {
+    const { result } = await getcourses();
+    setCoursesLevel(result);
+  };
 
   useEffect(() => {
+    getList();
     dispatch(setGlobalState({ key: "tabbarKey", value: "course" }));
   }, []);
 
@@ -85,7 +93,7 @@ const Level: React.FC = () => {
         >
           <Swiper.Item>
             <div className="h-full overflow-hidden overflow-y-auto grid ipad:grid-cols-1 grid-cols-2 gap-[48px] px-[20px] select-none">
-              {new Array(4).fill(null).map((_, index) => (
+              {coursesLevel.map((item, index) => (
                 <div
                   key={index}
                   className={classnames(
@@ -110,7 +118,7 @@ const Level: React.FC = () => {
                   >
                     <span className="text-[24px] font-bold">等级</span>
                     <span className="text-[64px] font-bold leading-none">
-                      0{index + 1}
+                      0{item.level}
                     </span>
                   </div>
                   <div
@@ -121,83 +129,20 @@ const Level: React.FC = () => {
                       }
                     )}
                   >
-                    {Grades?.slice(0 + index * 10, 10 + index * 10).map(
-                      (item, i) => (
-                        <div
-                          key={i}
-                          className={classnames("text-center cursor-pointer", {
-                            "text-black":
-                              item.grade_1.every((num) => num == 0) &&
-                              item.grade_2.every((num) => num == 0) &&
-                              item.grade_3.every((num) => num == 0),
-                            "text-[green]":
-                              item.grade_1.every((num) => num == 1) &&
-                              item.grade_2.every((num) => num == 1) &&
-                              item.grade_3.every((num) => num == 1),
-                            "text-[red]":
-                              item.grade_1.some(
-                                (num) => num == 2 || num == 0
-                              ) ||
-                              item.grade_2.some(
-                                (num) => num == 2 || num == 0
-                              ) ||
-                              item.grade_3.some((num) => num == 2 || num == 0),
-                          })}
-                          onClick={() => navigate(`/Course/${item.lesson}`)}
-                        >{`${index + 1}-${i + 1}`}</div>
-                      )
-                    )}
-                  </div>
-                </div>
-              ))}
-
-              {/* {new Array(8).fill(null).map((_, index) => (
-                <div
-                  key={index}
-                  className={classnames(
-                    "flex desktop:flex-col justify-between items-center gap-[16px]",
-                    {
-                      "cursor-pointer": false,
-                    }
-                  )}
-                >
-                  <div
-                    className={classnames(
-                      "rounded-full bg-white w-[160px] h-[160px] border-[4px] flex flex-col justify-center items-center gap-[4px]",
-                      {
-                        "border-[#E3B700]": false,
-                        "text-[#E3B700]": false,
-                        "border-[#2CBE99]": false,
-                        "text-[#2CBE99]": false,
-                        "border-[#C6C6C6]": true,
-                        "text-[#C6C6C6]": true,
-                      }
-                    )}
-                  >
-                    <span className="text-[24px] font-bold">等级</span>
-                    <span className="text-[64px] font-bold leading-none">
-                      0{index + 2}
-                    </span>
-                  </div>
-                  <div
-                    className={classnames(
-                      "relative flex-1 text-[24px] desktop:w-full h-full bg-white border-[4px] rounded-[48px] text-[#171717] p-[24px] grid grid-cols-4 gap-[24px] gap-[24px]",
-                      {
-                        "border-[#C6C6C6]": true,
-                      }
-                    )}
-                  >
-                    {Grades?.map((item, i) => (
+                    {item.courses.map((it, i) => (
                       <div
                         key={i}
-                        className={classnames("text-center", {
-                          "text-black": true,
+                        className={classnames("text-center cursor-pointer", {
+                          "text-black": it.progress == CourseProgress.UnStart,
+                          "text-[green]": it.progress == CourseProgress.Pass,
+                          "text-[red]": it.progress == CourseProgress.UnPass,
                         })}
-                      >{`${index + 2}-${item.lesson}`}</div>
+                        onClick={() => navigate(`/Course/${it.id}`)}
+                      >{`${item.level}-${i + 1}`}</div>
                     ))}
                   </div>
                 </div>
-              ))} */}
+              ))}
             </div>
           </Swiper.Item>
           <Swiper.Item>

@@ -7,13 +7,13 @@ import { PORT1 } from "@/api/config/servicePort";
 // User login
 export const loginApi = (params: Login.loginReq) => {
   return http.post<any>(
-    `/phonelogin/login`,
+    `/login/login`,
     {
       ...params,
       system: 3,
     },
     {
-      // baseURL: "http://192.168.199.27:9011",
+      // baseURL: "http://192.168.199.30:9010",
     }
   );
   // return http.post<ResLogin>(PORT1 + `/login`, params, { loading: false });
@@ -23,12 +23,12 @@ export const loginApi = (params: Login.loginReq) => {
 };
 // User login
 export const sendCode = (params: Login.sendCodeReq) => {
-  return http.post("/phonelogin/authcode", params, {
-    // baseURL: "http://192.168.199.27:9011",
+  return http.post("/login/authcode", params, {
+    // baseURL: "http://192.168.199.30:9010",
   });
 };
 
-// User logout
-export const getTokenApi = (params) => {
+// 直接获取token
+export const getTokenApi = (params: string | object | undefined) => {
   return http.post("/aiteacher/generatetoken", params);
 };

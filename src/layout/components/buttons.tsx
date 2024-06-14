@@ -7,6 +7,7 @@ import { sendCode } from "@/api/modules/login";
 interface SubmitButtonProps {
   form: FormInstance;
   loading?: boolean;
+  isEmail?: boolean;
 }
 
 /**
@@ -48,7 +49,7 @@ export const SubmitButton: React.FC<
  */
 export const SendButton: React.FC<
   React.PropsWithChildren<SubmitButtonProps>
-> = ({ form }) => {
+> = ({ form, isEmail }) => {
   const [sendable, setSendable] = useState<boolean>(true);
   const [codeNumber, setCodeNumber] = useState<number>(-1);
   const [isSend, setIsSend] = useState<boolean>(false);
@@ -63,10 +64,24 @@ export const SendButton: React.FC<
   useEffect(() => {
     // console.log("sendable", values);
     if (isSend) return;
-    if (values?.phone && !isSend) {
-      setSendable(false);
-    } else {
-      setSendable(true);
+    switch (isEmail) {
+      case true:
+        if (values?.email && !isSend) {
+          setSendable(false);
+        } else {
+          setSendable(true);
+        }
+        break;
+      case false:
+        if (values?.phone && !isSend) {
+          setSendable(false);
+        } else {
+          setSendable(true);
+        }
+        break;
+
+      default:
+        break;
     }
   }, [form, isSend, values]);
 
@@ -76,15 +91,19 @@ export const SendButton: React.FC<
   const handleSend = async (e: { preventDefault: () => void }) => {
     e.preventDefault(); // 阻止默认的表单提交行为
     console.log("handleSend", values);
-    if (!/^1[3456789]\d{9}$/.test(values?.phone))
-      return message.error("请输入正确的手机号");
+    // if (!/^1[3456789]\d{9}$/.test(values?.phone))
+    //   return message.error("请输入正确的手机号");
     try {
       // loading
       setSendLoading(true);
       message.open({ key, type: "loading", content: "发送中..." });
 
       // send verification code
-      await sendCode({ phone: values?.phone, type: "1" });
+      await sendCode({
+        identifier: isEmail ? values?.email : values?.phone,
+        countrycode: isEmail ? undefined : values?.countrycode,
+        type: isEmail ? "2" : "1",
+      });
 
       // show success message
       message.success("验证码已发送");
